@@ -26,8 +26,6 @@ jobs:
 
       # Step 4: Commit changes and push back to the repository using GITHUB_TOKEN
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is automatically created for your workflows
         run: |
           # Configure git with your user details (email and name)
           git config --global user.name "mayank-hassija"
@@ -39,5 +37,5 @@ jobs:
           # Commit the changes
           git commit -m "Update README with random quote" || echo "No changes"
 
-          # Push the changes using GITHUB_TOKEN (which has the correct permissions)
+          # Push the changes using GITHUB_TOKEN (automatically available in the workflow)
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main

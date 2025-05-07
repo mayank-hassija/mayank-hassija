@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> The best way to predict the future is to invent it.
+> Your time is limited, so don’t waste it living someone else’s life. – Steve Jobs
 
 </div>
 <!-- quote-end -->

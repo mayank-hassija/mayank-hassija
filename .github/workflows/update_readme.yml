@@ -1,0 +1,30 @@
+name: Update README with Random Quote
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Runs daily at 6 AM UTC
+  workflow_dispatch:      # Allows manual run from GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update README with random quote" || echo "No changes"
+          git push

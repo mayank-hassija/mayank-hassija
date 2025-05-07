@@ -1,19 +1,34 @@
 import random
 
-# Load all quotes
+# Load quotes
 with open("quotes.txt", "r", encoding="utf-8") as f:
-    quotes = [q.strip() for q in f if q.strip()]
+    quotes = [line.strip() for line in f if line.strip()]
 
-# Pick a random quote
-quote = random.choice(quotes)
+new_quote = f"> {random.choice(quotes)}"
 
-# Read the README
+# Load README
 with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
+    lines = f.readlines()
 
-# Replace the placeholder <><> with the quote
-updated_content = content.replace("<><>", f"> {quote}")
+# Replace quote between markers
+start_marker = "<!-- quote-start -->"
+end_marker = "<!-- quote-end -->"
+in_quote = False
+updated_lines = []
 
-# Write the updated README
+for line in lines:
+    if start_marker in line:
+        in_quote = True
+        updated_lines.append(line)
+        updated_lines.append(new_quote + "\n")
+        continue
+    if end_marker in line:
+        in_quote = False
+        updated_lines.append(line)
+        continue
+    if not in_quote:
+        updated_lines.append(line)
+
+# Save updated README
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated_content)
+    f.writelines(updated_lines)

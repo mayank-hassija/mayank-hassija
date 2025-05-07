@@ -15,7 +15,6 @@ jobs:
         uses: actions/checkout@v3
 
       # Step 2: Set up Python
-      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -31,7 +30,7 @@ jobs:
         run: |
           # Configure git with your user details (email and name)
           git config --global user.name "mayank-hassija"
-          git config --global user.email "mayankhassija@gmail.com"  # Replace with your GitHub email
+          git config --global user.email "mayankhassija@gmail.com"  # Your email
 
           # Remove the default origin (which uses GitHub actions bot)
           git remote remove origin
@@ -45,5 +44,5 @@ jobs:
           # Commit the changes
           git commit -m "Update README with random quote" || echo "No changes"
 
-          # Push the changes to the repository (to the main branch)
-          git push origin HEAD:main
+          # Force push the changes (explicitly using token for authentication)
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }} HEAD:main

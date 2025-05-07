@@ -10,24 +10,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      # Step 3: Run the update script (this is your Python script)
       - name: Run update script
         run: python update_readme.py
 
+      # Step 4: Commit changes and push back to the repository
       - name: Commit and push changes
         env:
-          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # Using your personal token for authentication
         run: |
+          # Configure git with your user details (email and name)
           git config --global user.name "mayank-hassija"
-          git config --global user.email "your-email@example.com"
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git config --global user.email "your-email@example.com"  # Replace with your GitHub email
+
+          # Remove the default origin (which uses GitHub actions bot)
+          git remote remove origin
+
+          # Add a new remote URL with the personal access token for authentication
+          git remote add origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+
+          # Stage the changes (README file update)
           git add README.md
-          git commit -m "Update README with random quote" || echo "No changes to commit"
-          git push origin main
+
+          # Commit the changes
+          git commit -m "Update README with random quote" || echo "No changes"
+
+          # Push the changes to the repository (to the main branch)
+          git push origin HEAD:main

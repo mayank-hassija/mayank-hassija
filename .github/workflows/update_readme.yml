@@ -24,7 +24,7 @@ jobs:
       - name: Run update script
         run: python update_readme.py
 
-      # Step 4: Commit changes and push back to the repository
+      # Step 4: Commit changes and push back to the repository using PAT
       - name: Commit and push changes
         env:
           TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # Using your personal token for authentication
@@ -33,17 +33,11 @@ jobs:
           git config --global user.name "mayank-hassija"
           git config --global user.email "mayankhassija@gmail.com"  # Your email
 
-          # Remove the default origin (which uses GitHub actions bot)
-          git remote remove origin
-
-          # Add a new remote URL with the personal access token for authentication
-          git remote add origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-
           # Stage the changes (README file update)
           git add README.md
 
           # Commit the changes
           git commit -m "Update README with random quote" || echo "No changes"
 
-          # Force push the changes (explicitly using token for authentication)
+          # Push the changes using the Personal Access Token (PAT)
           git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }} HEAD:main

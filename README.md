@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> Your time is limited, so don’t waste it living someone else’s life. – Steve Jobs
+> **YOUR TIME IS LIMITED, SO DON’T WASTE IT LIVING SOMEONE ELSE’S LIFE. – STEVE JOBS**
 
 </div>
 <!-- quote-end -->

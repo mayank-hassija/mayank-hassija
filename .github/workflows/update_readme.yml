@@ -31,7 +31,7 @@ jobs:
         run: |
           # Configure git with your user details (email and name)
           git config --global user.name "mayank-hassija"
-          git config --global user.email "your-email@example.com"  # Replace with your GitHub email
+          git config --global user.email "mayankhassija@gmail.com"  # Replace with your GitHub email
 
           # Remove the default origin (which uses GitHub actions bot)
           git remote remove origin

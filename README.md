@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *necessity never made a good bargain.*
+> *as we advance in life we learn the limits of our abilities.*
 
 </div>
 <!-- quote-end -->

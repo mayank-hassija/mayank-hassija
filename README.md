@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what lies behind us and what lies ahead of us are tiny matters compared to what lives within us.*
+> *we will never have true civilization until we have learned to recognize the rights of others.*
 
 </div>
 <!-- quote-end -->

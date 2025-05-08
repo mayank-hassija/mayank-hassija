@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Forgiveness Is The Fragrance That The Violet Sheds On The Heel That Has Crushed It.*
+> *An Inventor Is Simply A Fellow Who Doesn'T Take His Education Too Seriously.*
 
 </div>
 <!-- quote-end -->

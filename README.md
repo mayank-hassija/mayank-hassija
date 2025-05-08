@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you just don't luck into things as much as you'd like to think you do. you build step by step, whether it's friendships or opportunities.*
+> *no dream is too big.*
 
 </div>
 <!-- quote-end -->

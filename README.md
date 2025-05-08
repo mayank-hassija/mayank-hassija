@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the important thing is not to stop questioning. curiosity has its own reason for existing.*
+> *to succeed, jump as quickly at opportunities as you do at conclusions.*
 
 </div>
 <!-- quote-end -->

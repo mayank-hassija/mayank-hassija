@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Those Who Intend On Becoming Great Should Love Neither Themselves Nor Their Own Things, But Only What Is Just, Whether It Happens To Be Done By Themselves Or Others.*
+> *A Patent, Or Invention, Is Any Assemblage Of Technologies Or Ideas That You Can Put Together That Nobody Put Together That Way Before. That'S How The Patent Office Defines It. That'S An Invention.*
 
 </div>
 <!-- quote-end -->

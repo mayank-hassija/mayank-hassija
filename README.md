@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i don't believe in dying. it's been done. i'm working on a new exit. besides, i can't die now - i'm booked.*
+> *you just don't luck into things as much as you'd like to think you do. you build step by step, whether it's friendships or opportunities.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *If The Situation Is Not Right In The Long Term, Walk Away From It.*
+> *Prohibition Was Better Than No Liquor At All.*
 
 </div>
 <!-- quote-end -->

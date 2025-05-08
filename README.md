@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Prohibition Was Better Than No Liquor At All.*
+> *The Royal Road To A Man'S Heart Is To Talk To Him About The Things He Treasures Most.*
 
 </div>
 <!-- quote-end -->

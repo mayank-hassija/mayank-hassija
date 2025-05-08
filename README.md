@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Don'T Undertake A Project Unless It Is Manifestly Important And Nearly Impossible.*
+> *Whatever Doesn'T Kill You Really Does Make You Stronger.*
 
 </div>
 <!-- quote-end -->

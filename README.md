@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *I Am Careful Not To Confuse Excellence With Perfection. Excellence, I Can Reach For; Perfection Is God'S Business.*
+> *Education Must Provide The Opportunities For Self-Fulfillment; It Can At Best Provide A Rich And Challenging Environment For The Individual To Explore, In His Own Way.*
 
 </div>
 <!-- quote-end -->

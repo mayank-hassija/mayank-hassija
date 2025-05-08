@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Whatever Doesn'T Kill You Really Does Make You Stronger.*
+> *But Who Prays For Satan? Who, In Eighteen Centuries, Has Had The Common Humanity To Pray For The One Sinner That Needed It Most?*
 
 </div>
 <!-- quote-end -->

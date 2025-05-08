@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> **STUFF HAPPENS. THE STUFF THAT HAPPENS, GOOD OR BAD, ISN‘T WHAT‘S IMPORTANT. WHAT IS IMPORTANT IS HOW YOU REACT TO IT.**
+> **DON'T BE AFRAID TO SAY "NO".**
 
 </div>
 <!-- quote-end -->

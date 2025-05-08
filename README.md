@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *One Good Teacher In A Lifetime May Sometimes Change A Delinquent Into A Solid Citizen.*
+> *I Am Careful Not To Confuse Excellence With Perfection. Excellence, I Can Reach For; Perfection Is God'S Business.*
 
 </div>
 <!-- quote-end -->

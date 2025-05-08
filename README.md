@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *as we advance in life we learn the limits of our abilities.*
+> *what lies behind us and what lies ahead of us are tiny matters compared to what lives within us.*
 
 </div>
 <!-- quote-end -->

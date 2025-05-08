@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> **UNLESS WE FORM THE HABIT OF GOING TO THE BIBLE IN BRIGHT MOMENTS AS WELL AS IN TROUBLE, WE CANNOT FULLY RESPOND TO ITS CONSOLATIONS BECAUSE WE LACK EQUILIBRIUM BETWEEN LIGHT AND DARKNESS.**
+> *One Good Teacher In A Lifetime May Sometimes Change A Delinquent Into A Solid Citizen.*
 
 </div>
 <!-- quote-end -->

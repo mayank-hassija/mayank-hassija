@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *An Inventor Is Simply A Fellow Who Doesn'T Take His Education Too Seriously.*
+> *We Come This Way But Once. We Can Either Tiptoe Through Life And Hope We Get To Death Without Being Badly Bruised Or We Can Live A Full, Complete Life Achieving Our Goals And Realizing Our Wildest Dreams.*
 
 </div>
 <!-- quote-end -->

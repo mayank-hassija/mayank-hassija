@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to achieve success, whatever the job we have, we must pay a price.*
+> *god helps those who help themselves.*
 
 </div>
 <!-- quote-end -->

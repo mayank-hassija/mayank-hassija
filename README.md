@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *The Royal Road To A Man'S Heart Is To Talk To Him About The Things He Treasures Most.*
+> *i don't believe in dying. it's been done. i'm working on a new exit. besides, i can't die now - i'm booked.*
 
 </div>
 <!-- quote-end -->

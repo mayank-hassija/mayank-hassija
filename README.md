@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Education Must Provide The Opportunities For Self-Fulfillment; It Can At Best Provide A Rich And Challenging Environment For The Individual To Explore, In His Own Way.*
+> *Good Friends Are Like The Stars. You Don‘T Always See Them But, You Know They‘Re Always There.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to succeed, jump as quickly at opportunities as you do at conclusions.*
+> *necessity never made a good bargain.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Knowledge Is Limited. Imagination Encircles The World."Knowledge Is Love And Light And Vision.*
+> *If The Situation Is Not Right In The Long Term, Walk Away From It.*
 
 </div>
 <!-- quote-end -->

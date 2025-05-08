@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god helps those who help themselves.*
+> *if you must break the law, do it to seize power: in all other cases observe it.*
 
 </div>
 <!-- quote-end -->

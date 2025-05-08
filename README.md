@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *But Who Prays For Satan? Who, In Eighteen Centuries, Has Had The Common Humanity To Pray For The One Sinner That Needed It Most?*
+> *To Live Is So Startling It Leaves Little Time For Anything Else.*
 
 </div>
 <!-- quote-end -->

@@ -12,4 +12,4 @@
 
 ![bottom](https://github.com/user-attachments/assets/bf2cc040-2664-4cf3-8aaa-9d397c8a8f5c)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mayank-hassija&theme=sunset-gradient&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayank-hassija&theme=sunset-gradient&hide_border=true&short_numbers=true)](https://git.io/streak-stats)

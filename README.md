@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *A Patent, Or Invention, Is Any Assemblage Of Technologies Or Ideas That You Can Put Together That Nobody Put Together That Way Before. That'S How The Patent Office Defines It. That'S An Invention.*
+> *Forgiveness Is The Fragrance That The Violet Sheds On The Heel That Has Crushed It.*
 
 </div>
 <!-- quote-end -->

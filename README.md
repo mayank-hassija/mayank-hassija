@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *You Never Achieve Success Unless You Like What You Are Doing.*
+> *Those Who Intend On Becoming Great Should Love Neither Themselves Nor Their Own Things, But Only What Is Just, Whether It Happens To Be Done By Themselves Or Others.*
 
 </div>
 <!-- quote-end -->

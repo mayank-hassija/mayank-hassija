@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we will never have true civilization until we have learned to recognize the rights of others.*
+> *to achieve success, whatever the job we have, we must pay a price.*
 
 </div>
 <!-- quote-end -->

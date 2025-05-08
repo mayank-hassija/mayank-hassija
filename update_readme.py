@@ -6,7 +6,7 @@ with open("quotes.txt", "r", encoding="utf-8") as f:
 
 # Choose one at random and format it for centered markdown
 random_quote = random.choice(quotes)
-new_quote_block = f'<div align="center">\n\n> **{random_quote.upper()}**\n\n</div>'
+new_quote_block = f'<div align="center">\n\n> *{random_quote.title()}*\n\n</div>'
 
 # Load README
 with open("README.md", "r", encoding="utf-8") as f:

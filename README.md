@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *To Live Is So Startling It Leaves Little Time For Anything Else.*
+> *There Is No Harm In Repeating A Good Thing.*
 
 </div>
 <!-- quote-end -->

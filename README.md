@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *There Is No Harm In Repeating A Good Thing.*
+> *You Never Achieve Success Unless You Like What You Are Doing.*
 
 </div>
 <!-- quote-end -->

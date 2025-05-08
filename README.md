@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no dream is too big.*
+> *the important thing is not to stop questioning. curiosity has its own reason for existing.*
 
 </div>
 <!-- quote-end -->

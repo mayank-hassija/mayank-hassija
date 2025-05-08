@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *Good Friends Are Like The Stars. You Don‘T Always See Them But, You Know They‘Re Always There.*
+> *Don'T Undertake A Project Unless It Is Manifestly Important And Nearly Impossible.*
 
 </div>
 <!-- quote-end -->

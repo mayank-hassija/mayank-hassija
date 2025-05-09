@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you must break the law, do it to seize power: in all other cases observe it.*
+> *when you combine ignorance and leverage, you get some pretty interesting results.*
 
 </div>
 <!-- quote-end -->

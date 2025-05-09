@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life has taught us that love does not consist in gazing at each other, but in looking outward together in the same direction.*
+> *it is not the magnitude of our actions but the amount of love that is put into them that matters.*
 
 </div>
 <!-- quote-end -->

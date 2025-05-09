@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *remember the prize at the end of your journey.*
+> *life has taught us that love does not consist in gazing at each other, but in looking outward together in the same direction.*
 
 </div>
 <!-- quote-end -->

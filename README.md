@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *successful people are simply those with successful habits.*
+> *it's wonderful to climb the liquid mountains of the sky. behind me and before me is god and i have no fears.*
 
 </div>
 <!-- quote-end -->

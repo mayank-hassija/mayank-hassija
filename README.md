@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *speak ill of no man, but speak all the good you know of everybody.*
+> *never mistake knowledge for wisdom. one helps you make a living; the other helps you make a life.*
 
 </div>
 <!-- quote-end -->

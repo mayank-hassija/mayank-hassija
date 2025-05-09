@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take time to deliberate; but when the time for action arrives, stop thinking and go in.*
+> *successful people are simply those with successful habits.*
 
 </div>
 <!-- quote-end -->

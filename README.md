@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *even if you are on the right track, you will get run over if you just sit there.*
+> *the only time people dislike gossip is when you gossip about them.*
 
 </div>
 <!-- quote-end -->

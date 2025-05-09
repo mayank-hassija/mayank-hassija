@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's wonderful to climb the liquid mountains of the sky. behind me and before me is god and i have no fears.*
+> *be on your guard; stand firm in the faith; be men of courage; be strong.*
 
 </div>
 <!-- quote-end -->

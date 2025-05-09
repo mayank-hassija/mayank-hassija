@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is not the magnitude of our actions but the amount of love that is put into them that matters.*
+> *without continual growth and progress, such words as improvement, achievement, and success have no real meaning to you.*
 
 </div>
 <!-- quote-end -->

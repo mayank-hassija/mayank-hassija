@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we, the unwilling, led by the unknowing, are doing the impossible for the ungrateful. we have done so much, for so long, with so little, we are now qualified to do anything with nothing.*
+> *remember the prize at the end of your journey.*
 
 </div>
 <!-- quote-end -->

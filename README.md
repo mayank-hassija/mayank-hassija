@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ask and it shall be given.*
+> *you can conquer almost any fear if you will only make up your mind to do so. remember, fear doesn't exist anywhere except in the mind.*
 
 </div>
 <!-- quote-end -->

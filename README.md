@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *try to make at least three people smile each day.*
+> *the man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.*
 
 </div>
 <!-- quote-end -->

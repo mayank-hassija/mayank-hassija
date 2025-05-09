@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *only two things are infinite, the universe and human stupidity, and i'm not sure about the former.*
+> *try to make at least three people smile each day.*
 
 </div>
 <!-- quote-end -->

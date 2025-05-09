@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be on your guard; stand firm in the faith; be men of courage; be strong.*
+> *perseverance is not a long race; it is many short races one after another.*
 
 </div>
 <!-- quote-end -->

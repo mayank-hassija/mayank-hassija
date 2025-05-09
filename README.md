@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.*
+> *we, the unwilling, led by the unknowing, are doing the impossible for the ungrateful. we have done so much, for so long, with so little, we are now qualified to do anything with nothing.*
 
 </div>
 <!-- quote-end -->

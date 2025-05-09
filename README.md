@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *without continual growth and progress, such words as improvement, achievement, and success have no real meaning to you.*
+> *autumn is a second spring when every leaf is a flower.*
 
 </div>
 <!-- quote-end -->

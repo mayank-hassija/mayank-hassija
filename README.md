@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.*
+> *ask and it shall be given.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you combine ignorance and leverage, you get some pretty interesting results.*
+> *take time to deliberate; but when the time for action arrives, stop thinking and go in.*
 
 </div>
 <!-- quote-end -->

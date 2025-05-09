@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only time people dislike gossip is when you gossip about them.*
+> *only two things are infinite, the universe and human stupidity, and i'm not sure about the former.*
 
 </div>
 <!-- quote-end -->

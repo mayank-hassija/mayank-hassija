@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *perseverance is not a long race; it is many short races one after another.*
+> *there will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.*
 
 </div>
 <!-- quote-end -->

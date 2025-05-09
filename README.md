@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *autumn is a second spring when every leaf is a flower.*
+> *even if you are on the right track, you will get run over if you just sit there.*
 
 </div>
 <!-- quote-end -->

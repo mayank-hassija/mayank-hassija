@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best cure for the body is a quiet mind.*
+> *you can‘t be a student forever. sooner or later you have to go to work.*
 
 </div>
 <!-- quote-end -->

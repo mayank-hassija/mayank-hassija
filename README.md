@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *harmony is one phase of the law whose spiritual expression is love.*
+> *it is well to remember that the entire universe, with one trifling exception, is composed of others.*
 
 </div>
 <!-- quote-end -->

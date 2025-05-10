@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.*
+> *no trace of slavery ought to mix with the studies of the freeborn man. no study, pursued under compulsion, remains rooted in the memory.*
 
 </div>
 <!-- quote-end -->

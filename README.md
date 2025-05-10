@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *today more than ever before, life must be characterized by a sense of universal responsibility, not only nation to nation and human to human, but also human to other forms of life.*
+> *wonder is the beginning of wisdom.*
 
 </div>
 <!-- quote-end -->

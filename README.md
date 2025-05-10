@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *reader, suppose you were an idiot. and suppose you were a member of congress. but i repeat myself.*
+> *harmony is one phase of the law whose spiritual expression is love.*
 
 </div>
 <!-- quote-end -->

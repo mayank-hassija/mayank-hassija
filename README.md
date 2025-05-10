@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *drop the idea that you are atlas carrying the world on your shoulders. the world will go on long after you‘re gone. don‘t take life so seriously; don't take yourself so seriously.*
+> *if you're in the position to help someone and you do it, it's very rewarding.*
 
 </div>
 <!-- quote-end -->

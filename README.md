@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is well to remember that the entire universe, with one trifling exception, is composed of others.*
+> *the road to perdition has ever been accompanied by lip service to an ideal.*
 
 </div>
 <!-- quote-end -->

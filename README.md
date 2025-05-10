@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a mind always employed is always happy. this is the true secret, the grand recipe, for felicity.*
+> *the best cure for the body is a quiet mind.*
 
 </div>
 <!-- quote-end -->

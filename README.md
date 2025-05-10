@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wonder is the beginning of wisdom.*
+> *a mind is like a rubber band. once stretched, it never returns to its original size.*
 
 </div>
 <!-- quote-end -->

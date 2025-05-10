@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what old people say you cannot do, you try and find that you can. old deeds for old people, and new deeds for new.*
+> *joy is a net of love by which you can catch souls.*
 
 </div>
 <!-- quote-end -->

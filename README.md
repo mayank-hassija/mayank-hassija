@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are formed and molded by our thoughts. those whose minds are shaped by selfless thoughts give joy when they speak or act. joy follows them like a shadow that never leaves them.*
+> *a mind always employed is always happy. this is the true secret, the grand recipe, for felicity.*
 
 </div>
 <!-- quote-end -->

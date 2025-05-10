@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can‘t be a student forever. sooner or later you have to go to work.*
+> *today more than ever before, life must be characterized by a sense of universal responsibility, not only nation to nation and human to human, but also human to other forms of life.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the road to perdition has ever been accompanied by lip service to an ideal.*
+> *be forgiving of yourself and others.*
 
 </div>
 <!-- quote-end -->

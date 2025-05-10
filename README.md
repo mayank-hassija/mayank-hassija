@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the discipline of writing something down is the first step toward making it happen.*
+> *what old people say you cannot do, you try and find that you can. old deeds for old people, and new deeds for new.*
 
 </div>
 <!-- quote-end -->

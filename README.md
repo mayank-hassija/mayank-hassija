@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no trace of slavery ought to mix with the studies of the freeborn man. no study, pursued under compulsion, remains rooted in the memory.*
+> *act enthusiastic consistently and your repetitive actions will cause you to become habitually enthusiastic.*
 
 </div>
 <!-- quote-end -->

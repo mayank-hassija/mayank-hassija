@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *act enthusiastic consistently and your repetitive actions will cause you to become habitually enthusiastic.*
+> *the discipline of writing something down is the first step toward making it happen.*
 
 </div>
 <!-- quote-end -->

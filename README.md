@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be forgiving of yourself and others.*
+> *we are formed and molded by our thoughts. those whose minds are shaped by selfless thoughts give joy when they speak or act. joy follows them like a shadow that never leaves them.*
 
 </div>
 <!-- quote-end -->

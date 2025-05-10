@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a mind is like a rubber band. once stretched, it never returns to its original size.*
+> *it's fine to celebrate success but it is more important to heed the lessons of failure.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you're in the position to help someone and you do it, it's very rewarding.*
+> *successful people are simply those with successful habits.*
 
 </div>
 <!-- quote-end -->

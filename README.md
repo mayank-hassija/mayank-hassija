@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never mistake knowledge for wisdom. one helps you make a living; the other helps you make a life.*
+> *drop the idea that you are atlas carrying the world on your shoulders. the world will go on long after you‘re gone. don‘t take life so seriously; don't take yourself so seriously.*
 
 </div>
 <!-- quote-end -->

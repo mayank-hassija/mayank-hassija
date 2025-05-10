@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *successful people are simply those with successful habits.*
+> *i think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.*
 
 </div>
 <!-- quote-end -->

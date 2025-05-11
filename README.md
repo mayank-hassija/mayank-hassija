@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everybody hears, but few listen.*
+> *discipline is the foundation upon which all success is built. lack of discipline inevitably leads to failure.*
 
 </div>
 <!-- quote-end -->

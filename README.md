@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is ten percent what happens to you and ninety percent how you respond to it.*
+> *crystallize your goals. make a plan for achieving them and set yourself a deadline. then, with supreme confidence, determination and disregard for obstacles and other people's criticisms, carry out your plan.*
 
 </div>
 <!-- quote-end -->

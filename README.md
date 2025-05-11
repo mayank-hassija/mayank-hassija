@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most misfortunes are the result of misused time.*
+> *our truest life is when we are in our dreams awake.*
 
 </div>
 <!-- quote-end -->

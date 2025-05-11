@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *more important than talent, strength, or knowledge is the ability to laugh at yourself and enjoy the pursuit of your dreams.*
+> *get outside every day. miracles are waiting everywhere.*
 
 </div>
 <!-- quote-end -->

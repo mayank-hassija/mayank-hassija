@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *crystallize your goals. make a plan for achieving them and set yourself a deadline. then, with supreme confidence, determination and disregard for obstacles and other people's criticisms, carry out your plan.*
+> *do the right thing. it will gratify some people and astonish the rest.*
 
 </div>
 <!-- quote-end -->

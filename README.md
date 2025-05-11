@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is an interesting question how far men would retain their relative rank if they were divested of their clothes.*
+> *most misfortunes are the result of misused time.*
 
 </div>
 <!-- quote-end -->

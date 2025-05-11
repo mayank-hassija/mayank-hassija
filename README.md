@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *get outside every day. miracles are waiting everywhere.*
+> *life's easy when you live it the hard way... and hard if you try to live it the easy way.*
 
 </div>
 <!-- quote-end -->

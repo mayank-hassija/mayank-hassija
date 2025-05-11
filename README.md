@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is nothing that wastes the body like worry, and one who has any faith in god should be ashamed to worry about anything whatsoever.*
+> *life is ten percent what happens to you and ninety percent how you respond to it.*
 
 </div>
 <!-- quote-end -->

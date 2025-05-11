@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *happiness is mental harmony; unhappiness is mental inharmony.*
+> *more important than talent, strength, or knowledge is the ability to laugh at yourself and enjoy the pursuit of your dreams.*
 
 </div>
 <!-- quote-end -->

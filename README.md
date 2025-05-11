@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life's easy when you live it the hard way... and hard if you try to live it the easy way.*
+> *states are as the men, they grow out of human characters.*
 
 </div>
 <!-- quote-end -->

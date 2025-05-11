@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is not possible for civilization to flow backwards while there is youth in the world. youth may be headstrong, but it will advance it allotted length.*
+> *the men who have succeeded are men who have chosen one line and stuck to it.*
 
 </div>
 <!-- quote-end -->

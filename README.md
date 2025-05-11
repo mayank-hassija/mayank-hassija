@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *discipline is the foundation upon which all success is built. lack of discipline inevitably leads to failure.*
+> *if you love somebody, let them go, for if they return, they were always yours. and if they don't, they never were.*
 
 </div>
 <!-- quote-end -->

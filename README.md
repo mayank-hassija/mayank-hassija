@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dare to be great!*
+> *it is an interesting question how far men would retain their relative rank if they were divested of their clothes.*
 
 </div>
 <!-- quote-end -->

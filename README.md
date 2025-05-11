@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *states are as the men, they grow out of human characters.*
+> *live so that your friends can defend you but never have to.*
 
 </div>
 <!-- quote-end -->

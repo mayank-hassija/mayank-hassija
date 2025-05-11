@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don‘t wish things were easier. wish that you were tougher. be tougher than anything life throws your way and if you can be this tough, there‘s nothing you want, you can‘t have.*
+> *you will never do anything in this world without courage. it is the greatest quality of the mind next to honor.*
 
 </div>
 <!-- quote-end -->

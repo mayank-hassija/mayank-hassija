@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do the right thing. it will gratify some people and astonish the rest.*
+> *happiness is mental harmony; unhappiness is mental inharmony.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the men who have succeeded are men who have chosen one line and stuck to it.*
+> *dare to be great!*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you love somebody, let them go, for if they return, they were always yours. and if they don't, they never were.*
+> *it is not possible for civilization to flow backwards while there is youth in the world. youth may be headstrong, but it will advance it allotted length.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *live so that your friends can defend you but never have to.*
+> *everybody hears, but few listen.*
 
 </div>
 <!-- quote-end -->

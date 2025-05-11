@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's fine to celebrate success but it is more important to heed the lessons of failure.*
+> *teamwork divides the task and doubles the success.*
 
 </div>
 <!-- quote-end -->

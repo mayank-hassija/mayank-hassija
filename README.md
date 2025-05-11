@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *teamwork divides the task and doubles the success.*
+> *there is nothing that wastes the body like worry, and one who has any faith in god should be ashamed to worry about anything whatsoever.*
 
 </div>
 <!-- quote-end -->

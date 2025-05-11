@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our truest life is when we are in our dreams awake.*
+> *don‘t wish things were easier. wish that you were tougher. be tougher than anything life throws your way and if you can be this tough, there‘s nothing you want, you can‘t have.*
 
 </div>
 <!-- quote-end -->

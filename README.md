@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to the man who only has a hammer in the toolkit, every problem looks like a nail.*
+> *honesty is for the most part less profitable than dishonesty.*
 
 </div>
 <!-- quote-end -->

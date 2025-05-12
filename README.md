@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great men, unknown to their generation, have their fame among the great who have preceded them, and all true worldly fame subsides from their high estimate beyond the stars.*
+> *no one is so brave that he is not disturbed by something unexpected.*
 
 </div>
 <!-- quote-end -->

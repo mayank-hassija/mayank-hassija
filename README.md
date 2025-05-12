@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *socialism: tax dollars at work… for those who don‘t.*
+> *the heresy of one age becomes the orthodoxy of the next.*
 
 </div>
 <!-- quote-end -->

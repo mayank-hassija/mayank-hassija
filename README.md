@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you‘re tough on yourself, life will be easy on you. when you are easy on yourself, life will be tough on you.*
+> *we don't know one millionth of one percent about anything.*
 
 </div>
 <!-- quote-end -->

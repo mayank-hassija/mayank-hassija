@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *memory is the treasury and guardian of all things.*
+> *people will do almost anything to stay in their comfort zones. if you want to accomplish anything, you have to leave your comfort zone.*
 
 </div>
 <!-- quote-end -->

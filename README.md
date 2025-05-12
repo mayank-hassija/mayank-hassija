@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *loyalty is something you give regardless of what you get back, and in giving loyalty, you're getting more loyalty; and out of loyalty flow other great qualities.*
+> *good breeding consists in concealing how much we think of ourselves and how little we think of the other person.*
 
 </div>
 <!-- quote-end -->

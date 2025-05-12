@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *diligence is the mother of good luck.*
+> *to the man who only has a hammer in the toolkit, every problem looks like a nail.*
 
 </div>
 <!-- quote-end -->

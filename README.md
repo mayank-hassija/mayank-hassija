@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the heresy of one age becomes the orthodoxy of the next.*
+> *loyalty is something you give regardless of what you get back, and in giving loyalty, you're getting more loyalty; and out of loyalty flow other great qualities.*
 
 </div>
 <!-- quote-end -->

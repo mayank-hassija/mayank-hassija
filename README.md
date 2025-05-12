@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *good breeding consists in concealing how much we think of ourselves and how little we think of the other person.*
+> *memory is the treasury and guardian of all things.*
 
 </div>
 <!-- quote-end -->

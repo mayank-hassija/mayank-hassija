@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not compromise if you are right. hold your ground, show no fear, ask for what you want and the opposition will usually agree.*
+> *my best friend and i can do anything or nothing and still have the best time.*
 
 </div>
 <!-- quote-end -->

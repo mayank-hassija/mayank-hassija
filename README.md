@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in great attempts, it is glorious even to fail.*
+> *the language of friendship is not words but meanings.*
 
 </div>
 <!-- quote-end -->

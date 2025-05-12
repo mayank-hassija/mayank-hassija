@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *either you run the day or the day runs you.*
+> *diligence is the mother of good luck.*
 
 </div>
 <!-- quote-end -->

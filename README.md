@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the eighth wonder of the world is ―compound interest.‖ the end move in politics is always to pick up a gun.*
+> *most misfortunes are the result of misused time.*
 
 </div>
 <!-- quote-end -->

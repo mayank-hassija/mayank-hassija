@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we don't know one millionth of one percent about anything.*
+> *i am thankful for laughter, except when milk comes out of my nose.*
 
 </div>
 <!-- quote-end -->

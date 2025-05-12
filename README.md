@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you will never do anything in this world without courage. it is the greatest quality of the mind next to honor.*
+> *some are reputed sick and some are not. it often happens that the sicker man is the nurse to the sounder.*
 
 </div>
 <!-- quote-end -->

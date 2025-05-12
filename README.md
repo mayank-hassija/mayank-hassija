@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *some are reputed sick and some are not. it often happens that the sicker man is the nurse to the sounder.*
+> *the eighth wonder of the world is ―compound interest.‖ the end move in politics is always to pick up a gun.*
 
 </div>
 <!-- quote-end -->

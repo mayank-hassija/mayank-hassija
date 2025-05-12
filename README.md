@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *honesty is for the most part less profitable than dishonesty.*
+> *great men, unknown to their generation, have their fame among the great who have preceded them, and all true worldly fame subsides from their high estimate beyond the stars.*
 
 </div>
 <!-- quote-end -->

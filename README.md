@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most misfortunes are the result of misused time.*
+> *in great attempts, it is glorious even to fail.*
 
 </div>
 <!-- quote-end -->

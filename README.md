@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one is so brave that he is not disturbed by something unexpected.*
+> *do not compromise if you are right. hold your ground, show no fear, ask for what you want and the opposition will usually agree.*
 
 </div>
 <!-- quote-end -->

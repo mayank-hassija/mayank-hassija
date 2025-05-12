@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people will do almost anything to stay in their comfort zones. if you want to accomplish anything, you have to leave your comfort zone.*
+> *when you‘re tough on yourself, life will be easy on you. when you are easy on yourself, life will be tough on you.*
 
 </div>
 <!-- quote-end -->

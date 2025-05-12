@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my best friend and i can do anything or nothing and still have the best time.*
+> *socialism: tax dollars at work… for those who don‘t.*
 
 </div>
 <!-- quote-end -->

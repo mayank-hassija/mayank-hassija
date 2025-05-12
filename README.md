@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the language of friendship is not words but meanings.*
+> *either you run the day or the day runs you.*
 
 </div>
 <!-- quote-end -->

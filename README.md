@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you either grow or regress. nothing stands still.*
+> *but for my faith in god, i should have been a raving maniac.*
 
 </div>
 <!-- quote-end -->

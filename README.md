@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great success in examinations does naturally not as a rule go with originality of thought.*
+> *people with courage and character always seem sinister to the rest.*
 
 </div>
 <!-- quote-end -->

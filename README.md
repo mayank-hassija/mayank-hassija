@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't try to be different. just be good. to be good is different enough.*
+> *it is my own firm belief that the strength of the soul grows in proportion as you subdue the flesh.*
 
 </div>
 <!-- quote-end -->

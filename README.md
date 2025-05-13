@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is my own firm belief that the strength of the soul grows in proportion as you subdue the flesh.*
+> *if you want to make good use of your time, you've got to know what's most important and then give it all you've got.*
 
 </div>
 <!-- quote-end -->

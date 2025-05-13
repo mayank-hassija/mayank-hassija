@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *necessity never made a good bargain.*
+> *the only limit to our realization of tomorrow will be our doubts of today.*
 
 </div>
 <!-- quote-end -->

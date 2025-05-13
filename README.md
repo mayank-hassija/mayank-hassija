@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *only two things are infinite, the universe and human stupidity, and i'm not sure about the former.*
+> *conscience is that still, small voice that is sometimes too loud for comfort.*
 
 </div>
 <!-- quote-end -->

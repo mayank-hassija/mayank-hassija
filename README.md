@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *goals must never be from your ego, but problems that cry for a solution.*
+> *only two things are infinite, the universe and human stupidity, and i'm not sure about the former.*
 
 </div>
 <!-- quote-end -->

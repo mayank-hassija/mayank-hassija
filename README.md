@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can judge your age by the amount of pain you feel when you come in contact with a new idea.*
+> *necessity never made a good bargain.*
 
 </div>
 <!-- quote-end -->

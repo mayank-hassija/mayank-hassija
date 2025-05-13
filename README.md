@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people don‘t care about you until… first… they perceive in their own mind that you care about them.*
+> *there is in every true woman‘s heart a spark of heavenly fire, which lies dormant in the broad daylight of prosperity, but which kindles up, and beams and blazes in the dark.*
 
 </div>
 <!-- quote-end -->

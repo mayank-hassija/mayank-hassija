@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *luck? sure. but only after long practice and only with the ability to think under pressure." maintain a long term outlook in all endeavors.*
+> *goals must never be from your ego, but problems that cry for a solution.*
 
 </div>
 <!-- quote-end -->

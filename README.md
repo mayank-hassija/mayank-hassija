@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am thankful for laughter, except when milk comes out of my nose.*
+> *the real glory is being knocked to your knees and then coming back. that's real glory.*
 
 </div>
 <!-- quote-end -->

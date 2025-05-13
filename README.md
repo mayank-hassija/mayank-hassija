@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *learn your savings habits from your dog. when a dog gets a bone, he doesn't go out and make a down payment on a bigger bone. he buries the one he's got.*
+> *don't try to be different. just be good. to be good is different enough.*
 
 </div>
 <!-- quote-end -->

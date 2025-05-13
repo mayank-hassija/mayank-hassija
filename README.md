@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best way to sell yourself to others is first to sell the others to yourself.*
+> *you can judge your age by the amount of pain you feel when you come in contact with a new idea.*
 
 </div>
 <!-- quote-end -->

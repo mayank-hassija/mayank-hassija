@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people with courage and character always seem sinister to the rest.*
+> *i figure lots of predictions is best. people will forget the ones i get wrong and marvel over the rest.*
 
 </div>
 <!-- quote-end -->

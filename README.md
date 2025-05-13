@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you want to make good use of your time, you've got to know what's most important and then give it all you've got.*
+> *great success in examinations does naturally not as a rule go with originality of thought.*
 
 </div>
 <!-- quote-end -->

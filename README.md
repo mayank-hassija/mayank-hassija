@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the real glory is being knocked to your knees and then coming back. that's real glory.*
+> *people don‘t care about you until… first… they perceive in their own mind that you care about them.*
 
 </div>
 <!-- quote-end -->

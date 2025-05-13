@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *conscience is that still, small voice that is sometimes too loud for comfort.*
+> *learn your savings habits from your dog. when a dog gets a bone, he doesn't go out and make a down payment on a bigger bone. he buries the one he's got.*
 
 </div>
 <!-- quote-end -->

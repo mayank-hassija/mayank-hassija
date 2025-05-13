@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are three constants in life... change, choice and principles.*
+> *the best way to sell yourself to others is first to sell the others to yourself.*
 
 </div>
 <!-- quote-end -->

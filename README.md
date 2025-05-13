@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *but for my faith in god, i should have been a raving maniac.*
+> *there are three constants in life... change, choice and principles.*
 
 </div>
 <!-- quote-end -->

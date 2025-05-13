@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i figure lots of predictions is best. people will forget the ones i get wrong and marvel over the rest.*
+> *you either grow or regress. nothing stands still.*
 
 </div>
 <!-- quote-end -->

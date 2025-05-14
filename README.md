@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no logical way to the discovery of these elemental laws. there is only the way of intuition, which is helped by a feeling for the order lying behind the appearance.*
+> *failure is simply a few errors in judgment, repeated every day.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *excellence is not an act. the foundation of excellence is habitually doing what started out as a conscience thought to repeatedly do what you‘re doing better than you used to do it until, without realizing it, you don‘t consciously think about it any longer.*
+> *there is no logical way to the discovery of these elemental laws. there is only the way of intuition, which is helped by a feeling for the order lying behind the appearance.*
 
 </div>
 <!-- quote-end -->

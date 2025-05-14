@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only limit to our realization of tomorrow will be our doubts of today.*
+> *every heart sings a song, incomplete, until another heart whispers back. those who wish to sing always find a song. at the touch of a lover, everyone becomes a poet.*
 
 </div>
 <!-- quote-end -->

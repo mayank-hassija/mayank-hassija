@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we can't all be heroes, because somebody has to sit on the curb and applaud when they go by.*
+> *you don‘t have a business until you have customers.*
 
 </div>
 <!-- quote-end -->

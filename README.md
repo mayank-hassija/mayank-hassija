@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you might well remember that nothing can bring you success but yourself.*
+> *violent men have not been known in history to die to a man. they die up to a point.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ask and it shall be given.*
+> *it is better to conquer yourself than to win a thousand battles. then the victory is yours.*
 
 </div>
 <!-- quote-end -->

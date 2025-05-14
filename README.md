@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *facts are stupid until brought into connection with some general law.*
+> *true friendship is like sound health; the value of it is seldom known until it be lost.*
 
 </div>
 <!-- quote-end -->

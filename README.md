@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *genius is the gold in the mine; talent is the miner who works and brings it out.*
+> *we can't all be heroes, because somebody has to sit on the curb and applaud when they go by.*
 
 </div>
 <!-- quote-end -->

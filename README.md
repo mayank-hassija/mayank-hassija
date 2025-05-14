@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i threw my cup away when i saw a child drinking from his hands at the trough.*
+> *ask yourself whether you should wait for the greatness of heaven or should we start early, enjoying the many blessings available in the here and now. after all, the earth and all its wonderment was also created for our benefit by the creator of the universe.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is better to conquer yourself than to win a thousand battles. then the victory is yours.*
+> *facts are stupid until brought into connection with some general law.*
 
 </div>
 <!-- quote-end -->

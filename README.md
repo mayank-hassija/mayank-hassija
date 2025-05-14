@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure is simply a few errors in judgment, repeated every day.*
+> *the squirrel that you killed in jest, dies in earnest.*
 
 </div>
 <!-- quote-end -->

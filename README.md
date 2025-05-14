@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you don‘t have a business until you have customers.*
+> *excellence is not an act. the foundation of excellence is habitually doing what started out as a conscience thought to repeatedly do what you‘re doing better than you used to do it until, without realizing it, you don‘t consciously think about it any longer.*
 
 </div>
 <!-- quote-end -->

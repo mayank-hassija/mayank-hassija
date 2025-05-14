@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *excess generally causes reaction, and produces a change in the opposite direction, whether it be in the seasons, or in individuals, or in governments.*
+> *never spend money before you have earned it.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.*
+> *genius is the gold in the mine; talent is the miner who works and brings it out.*
 
 </div>
 <!-- quote-end -->

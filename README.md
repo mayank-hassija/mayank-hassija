@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every heart sings a song, incomplete, until another heart whispers back. those who wish to sing always find a song. at the touch of a lover, everyone becomes a poet.*
+> *ask and it shall be given.*
 
 </div>
 <!-- quote-end -->

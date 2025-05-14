@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *look at market fluctuations as your friend rather than your enemy; profit from folly rather than participate in it.*
+> *you might well remember that nothing can bring you success but yourself.*
 
 </div>
 <!-- quote-end -->

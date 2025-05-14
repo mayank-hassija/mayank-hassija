@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *violent men have not been known in history to die to a man. they die up to a point.*
+> *excess generally causes reaction, and produces a change in the opposite direction, whether it be in the seasons, or in individuals, or in governments.*
 
 </div>
 <!-- quote-end -->

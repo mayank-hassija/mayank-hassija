@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *true friendship is like sound health; the value of it is seldom known until it be lost.*
+> *look at market fluctuations as your friend rather than your enemy; profit from folly rather than participate in it.*
 
 </div>
 <!-- quote-end -->

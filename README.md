@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *upper classes are a nation's past; the middle class is its future.*
+> *i threw my cup away when i saw a child drinking from his hands at the trough.*
 
 </div>
 <!-- quote-end -->

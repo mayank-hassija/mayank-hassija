@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have worshipped woman as the living embodiment of the spirit of service and sacrifice.*
+> *sports serve society by providing vivid examples of excellence.*
 
 </div>
 <!-- quote-end -->

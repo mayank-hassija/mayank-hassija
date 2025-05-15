@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our fatigue is often caused not by work, but by worry, frustration and resentment.*
+> *you cannot dream yourself into a character; you must hammer and forge yourself one.*
 
 </div>
 <!-- quote-end -->

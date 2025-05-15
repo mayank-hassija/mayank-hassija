@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people who have good relationships at home are more effective in the marketplace.*
+> *it's hard to lead a cavalry charge if you think you look funny on a horse.*
 
 </div>
 <!-- quote-end -->

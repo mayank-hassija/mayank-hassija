@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wise men don't need advice and fools won't take it.*
+> *the process of scientific discovery is, in effect, a continual flight from wonder.*
 
 </div>
 <!-- quote-end -->

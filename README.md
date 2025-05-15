@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *reflect upon your present blessings, of which every man has many - not on your past.*
+> *when someone shows you who they are, believe them the first time.*
 
 </div>
 <!-- quote-end -->

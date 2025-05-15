@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *sports serve society by providing vivid examples of excellence.*
+> *to deprive a man of his natural liberty and to deny to him the ordinary amenities of life is worse then starving the body; it is starvation of the soul, the dweller in the body.*
 
 </div>
 <!-- quote-end -->

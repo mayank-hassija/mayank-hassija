@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you cannot dream yourself into a character; you must hammer and forge yourself one.*
+> *faith leads to well-being. well-being leads to expression. expression leads to acceleration. moving faster in a calmer way leads to self-confidence. self-confidence leads to creation. creation leads to transition. transition is change.*
 
 </div>
 <!-- quote-end -->

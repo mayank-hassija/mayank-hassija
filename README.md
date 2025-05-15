@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the universal brotherhood of man is our most precious possession.*
+> *i have worshipped woman as the living embodiment of the spirit of service and sacrifice.*
 
 </div>
 <!-- quote-end -->

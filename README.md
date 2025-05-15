@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.*
+> *people who have good relationships at home are more effective in the marketplace.*
 
 </div>
 <!-- quote-end -->

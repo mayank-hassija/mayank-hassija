@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all these primary impulses, not easily described in words, are the springs of man's actions.*
+> *wise men don't need advice and fools won't take it.*
 
 </div>
 <!-- quote-end -->

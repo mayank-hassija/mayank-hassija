@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to deprive a man of his natural liberty and to deny to him the ordinary amenities of life is worse then starving the body; it is starvation of the soul, the dweller in the body.*
+> *throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.*
 
 </div>
 <!-- quote-end -->

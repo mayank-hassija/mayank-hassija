@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's hard to lead a cavalry charge if you think you look funny on a horse.*
+> *always bear in mind that your own resolution to succeed is more important than any other.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the process of scientific discovery is, in effect, a continual flight from wonder.*
+> *reflect upon your present blessings, of which every man has many - not on your past.*
 
 </div>
 <!-- quote-end -->

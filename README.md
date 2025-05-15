@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *against criticism a man can neither protest nor defend himself; he must act in spite of it, and then it will gradually yield to him.*
+> *people don't resist change. they resist being changed.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when someone shows you who they are, believe them the first time.*
+> *our fatigue is often caused not by work, but by worry, frustration and resentment.*
 
 </div>
 <!-- quote-end -->

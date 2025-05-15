@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you cannot get a compliment any other way, pay yourself one.*
+> *the harder someone tries to convince you to trust him, the less you should.*
 
 </div>
 <!-- quote-end -->

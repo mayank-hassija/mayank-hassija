@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *faith leads to well-being. well-being leads to expression. expression leads to acceleration. moving faster in a calmer way leads to self-confidence. self-confidence leads to creation. creation leads to transition. transition is change.*
+> *the only way i'd worry about the weather is if it snows on our side of the field and not on theirs.‘ the only way to discover the limits of the possible is to go beyond them into the impossible.*
 
 </div>
 <!-- quote-end -->

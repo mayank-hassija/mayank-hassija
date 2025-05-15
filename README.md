@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the squirrel that you killed in jest, dies in earnest.*
+> *the universal brotherhood of man is our most precious possession.*
 
 </div>
 <!-- quote-end -->

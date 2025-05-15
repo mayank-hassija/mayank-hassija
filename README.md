@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *always bear in mind that your own resolution to succeed is more important than any other.*
+> *all these primary impulses, not easily described in words, are the springs of man's actions.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people don't resist change. they resist being changed.*
+> *nature and human life are as various as our several constitutions. who shall say what prospect life offers to another?*
 
 </div>
 <!-- quote-end -->

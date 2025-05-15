@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nature and human life are as various as our several constitutions. who shall say what prospect life offers to another?*
+> *when you cannot get a compliment any other way, pay yourself one.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *auto-suggestion – the medium for influencing the subconscious mind.*
+> *everything you are seeking is seeking you in return. therefore, everything you want is already yours. so, you don‘t have to get anything. it is simply a matter of becoming more aware of what you already possess.*
 
 </div>
 <!-- quote-end -->

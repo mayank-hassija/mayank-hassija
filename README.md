@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *good friends, good books and a sleepy conscience: this is the ideal life.*
+> *he that can have patience can have what he will.*
 
 </div>
 <!-- quote-end -->

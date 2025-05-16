@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not fear mistakes. you will know failure. continue to reach out.*
+> *asking is the beginning of receiving. make sure you don't go to the ocean with a teaspoon. at least take a bucket so the kids won't laugh at you.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *silence is a true friend who never betrays.*
+> *a person with a new idea is a crank until the idea succeeds.*
 
 </div>
 <!-- quote-end -->

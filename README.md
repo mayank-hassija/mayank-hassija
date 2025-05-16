@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *where there is no struggle, there is no strength.*
+> *find a place inside where there's joy, and the joy will burn out the pain.*
 
 </div>
 <!-- quote-end -->

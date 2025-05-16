@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *produce more than you consume.*
+> *auto-suggestion – the medium for influencing the subconscious mind.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *must be present to win! where-ever you are, be there!*
+> *how vain it is to sit down to write when you have not stood up to live.*
 
 </div>
 <!-- quote-end -->

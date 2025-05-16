@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *inside every human being is an eternal truth and a life purpose. using our mind power is simply starting the engine on that journey of self-discovery and highest selfactualization.*
+> *good friends, good books and a sleepy conscience: this is the ideal life.*
 
 </div>
 <!-- quote-end -->

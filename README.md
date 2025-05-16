@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the harder someone tries to convince you to trust him, the less you should.*
+> *the legacy of heroes is the memory of a great name and the inheritance of a great example.*
 
 </div>
 <!-- quote-end -->

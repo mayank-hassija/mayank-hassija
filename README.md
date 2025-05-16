@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you want to go somewhere in life, it‘s best to find someone who has already been there. they can cut your learning curve significantly.*
+> *people who fly into a rage always make a bad landing.*
 
 </div>
 <!-- quote-end -->

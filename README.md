@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how vain it is to sit down to write when you have not stood up to live.*
+> *inside every human being is an eternal truth and a life purpose. using our mind power is simply starting the engine on that journey of self-discovery and highest selfactualization.*
 
 </div>
 <!-- quote-end -->

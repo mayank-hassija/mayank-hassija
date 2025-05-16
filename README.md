@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *find a place inside where there's joy, and the joy will burn out the pain.*
+> *if you want to go somewhere in life, it‘s best to find someone who has already been there. they can cut your learning curve significantly.*
 
 </div>
 <!-- quote-end -->

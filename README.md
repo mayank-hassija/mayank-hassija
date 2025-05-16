@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure is impossible.*
+> *do not fear mistakes. you will know failure. continue to reach out.*
 
 </div>
 <!-- quote-end -->

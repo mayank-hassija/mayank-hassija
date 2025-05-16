@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the legacy of heroes is the memory of a great name and the inheritance of a great example.*
+> *where there is no struggle, there is no strength.*
 
 </div>
 <!-- quote-end -->

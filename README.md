@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a person with a new idea is a crank until the idea succeeds.*
+> *what lies behind you and what lies in front of you, pales in comparison to what lies inside of you.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people who fly into a rage always make a bad landing.*
+> *produce more than you consume.*
 
 </div>
 <!-- quote-end -->

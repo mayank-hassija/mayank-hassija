@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *visualization: if you ―send the mind ahead of where you are now‖, the body will follow.*
+> *most great achievers have attained their greatest success just one step beyond their greatest failure.*
 
 </div>
 <!-- quote-end -->

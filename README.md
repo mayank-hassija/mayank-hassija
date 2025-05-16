@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *asking is the beginning of receiving. make sure you don't go to the ocean with a teaspoon. at least take a bucket so the kids won't laugh at you.*
+> *visualization: if you ―send the mind ahead of where you are now‖, the body will follow.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most great achievers have attained their greatest success just one step beyond their greatest failure.*
+> *learn to enjoy every minute of your life. be happy now. don't wait for something outside of yourself to make you happy in the future. think how really precious is the time you have to spend, whether it's at work or with your family. every minute should be enjoyed and savored.*
 
 </div>
 <!-- quote-end -->

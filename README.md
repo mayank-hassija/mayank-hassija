@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he that can have patience can have what he will.*
+> *failure is impossible.*
 
 </div>
 <!-- quote-end -->

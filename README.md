@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *consider every mistake you make to be an asset. one more thing you now know doesn‘t work so you never have to waste your time trying to do that again.*
+> *an empty stomach is not a good political adviser.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god helps those who help themselves.*
+> *football is like life -- it requires perseverance, self-denial, hard work, sacrifice, dedication, and respect for authority.*
 
 </div>
 <!-- quote-end -->

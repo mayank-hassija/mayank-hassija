@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only real valuable thing is intuition.*
+> *people are like dirt. they can either nourish you and help you grow as a person or they can stunt your growth and make you wilt and die.*
 
 </div>
 <!-- quote-end -->

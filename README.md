@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the perception of beauty is a moral test.*
+> *consider every mistake you make to be an asset. one more thing you now know doesn‘t work so you never have to waste your time trying to do that again.*
 
 </div>
 <!-- quote-end -->

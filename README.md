@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *learning never exhausts the mind.*
+> *i shall argue that strong men, conversely, know when to compromise and that all principles can be compromised to serve a greater principle.*
 
 </div>
 <!-- quote-end -->

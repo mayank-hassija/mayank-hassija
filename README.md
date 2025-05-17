@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you tell the truth, you don't have to remember anything.*
+> *god helps those who help themselves.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *keep your eyes wide open before marriage, half shut afterwards.*
+> *every creature is better alive than dead, men and moose and pine trees, and he who understands it aright will rather preserve its life than destroy it.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every creature is better alive than dead, men and moose and pine trees, and he who understands it aright will rather preserve its life than destroy it.*
+> *the perception of beauty is a moral test.*
 
 </div>
 <!-- quote-end -->

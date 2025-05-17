@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *why should we be in such desperate haste to succeed, and in such desperate enterprises? if a man does not keep pace with his companions, perhaps it is because he hears a different drummer.*
+> *learning never exhausts the mind.*
 
 </div>
 <!-- quote-end -->

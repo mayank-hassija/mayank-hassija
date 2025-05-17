@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what lies behind you and what lies in front of you, pales in comparison to what lies inside of you.*
+> *if you tell the truth, you don't have to remember anything.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *for the first half of your life, people tell you what you should do; for the second half, they tell you what you should have done.*
+> *just as a man would not cherish living in a body other than his own, so do nations not just as iron rusts from disuse, even so does inaction spoil the intellect.*
 
 </div>
 <!-- quote-end -->

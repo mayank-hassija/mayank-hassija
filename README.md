@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i shall argue that strong men, conversely, know when to compromise and that all principles can be compromised to serve a greater principle.*
+> *we come this way but once. we can either tiptoe through life and hope we get to death without being badly bruised or we can live a full, complete life achieving our goals and realizing our wildest dreams.*
 
 </div>
 <!-- quote-end -->

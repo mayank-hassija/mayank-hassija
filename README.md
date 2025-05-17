@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it doesn't matter where you come from. all that matters is where you‘re going.*
+> *make no little plans; they have no magic to stir men's blood...make big plans, aim high in hope and work.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is not possible for civilization to flow backwards while there is youth in the world. youth may be headstrong, but it will advance it allotted length.*
+> *the only real valuable thing is intuition.*
 
 </div>
 <!-- quote-end -->

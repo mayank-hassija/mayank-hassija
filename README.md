@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a clear conscience is knowing you always did you best. it‘s like a never-ending christmas present to yourself.*
+> *for the first half of your life, people tell you what you should do; for the second half, they tell you what you should have done.*
 
 </div>
 <!-- quote-end -->

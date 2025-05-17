@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *just as a man would not cherish living in a body other than his own, so do nations not just as iron rusts from disuse, even so does inaction spoil the intellect.*
+> *keep your eyes wide open before marriage, half shut afterwards.*
 
 </div>
 <!-- quote-end -->

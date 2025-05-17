@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *make no little plans; they have no magic to stir men's blood...make big plans, aim high in hope and work.*
+> *your life may be the only bible some people read.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.*
+> *he has the right to criticize who has the heart to help.*
 
 </div>
 <!-- quote-end -->

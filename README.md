@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.*
+> *resistance to tyranny is obedience to god.*
 
 </div>
 <!-- quote-end -->

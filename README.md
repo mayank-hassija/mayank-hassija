@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *lead by example.*
+> *the best investment you will ever make is your steady increase of knowledge.*
 
 </div>
 <!-- quote-end -->

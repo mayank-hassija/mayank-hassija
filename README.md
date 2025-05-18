@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *government "help" to business is just as disastrous as government persecution... the only way a government can be of service to national prosperity is by keeping its hands off.*
+> *yesterday is not ours to recover, but tomorrow is ours to win or lose.*
 
 </div>
 <!-- quote-end -->

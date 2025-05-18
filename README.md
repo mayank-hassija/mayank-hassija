@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *death is a challenge. it tells us not to waste time... it tells us to tell each other right now that we love each other.*
+> *you can out-distance that which is running after you, but not what is running inside you.*
 
 </div>
 <!-- quote-end -->

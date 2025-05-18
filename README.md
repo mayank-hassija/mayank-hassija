@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what we wish, we readily believe, and what we ourselves think, we imagine others think also.*
+> *we must learn to apply all that we know so that we can attract all that we want.*
 
 </div>
 <!-- quote-end -->

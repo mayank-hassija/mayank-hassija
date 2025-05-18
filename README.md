@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is one kind of robber whom the law does not strike at, and who steals what is most precious to men: time.*
+> *the only time you mustn't fail is the last time you try.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he has the right to criticize who has the heart to help.*
+> *self-confident – you need a ―if they can do it, i can do it‖ moment in your life. having the self-confidence that ―i can do it‖ is a form of faith.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *self-confident – you need a ―if they can do it, i can do it‖ moment in your life. having the self-confidence that ―i can do it‖ is a form of faith.*
+> *what we wish, we readily believe, and what we ourselves think, we imagine others think also.*
 
 </div>
 <!-- quote-end -->

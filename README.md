@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what the human mind can conceive and believe it can accomplish.*
+> *coming together, sharing together, working together, succeeding together.*
 
 </div>
 <!-- quote-end -->

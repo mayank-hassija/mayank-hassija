@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *character cannot be summoned at the moment of crisis if it has been squandered by years of compromise and rationalization. the only testing ground for the heroic is the mundane. the only preparation for that one profound decision which can change a life, or even a nation, is those hundreds of half-conscious, self-defining, seemingly insignificant decisions made in private. habit is the daily battleground of character.*
+> *most of the fundamental ideas of science are essentially simple, and may, as a rule, be expressed in a language comprehensible to everyone.*
 
 </div>
 <!-- quote-end -->

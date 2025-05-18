@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *coming together, sharing together, working together, succeeding together.*
+> *gratitude is an attitude that hooks us up to our source of supply. and the more grateful you are, the closer you become to your maker, to the architect of the universe, to the spiritual core of your being. it's a phenomenal lesson.*
 
 </div>
 <!-- quote-end -->

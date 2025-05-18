@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only time you mustn't fail is the last time you try.*
+> *government "help" to business is just as disastrous as government persecution... the only way a government can be of service to national prosperity is by keeping its hands off.*
 
 </div>
 <!-- quote-end -->

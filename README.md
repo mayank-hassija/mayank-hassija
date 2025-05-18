@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *gratitude is an attitude that hooks us up to our source of supply. and the more grateful you are, the closer you become to your maker, to the architect of the universe, to the spiritual core of your being. it's a phenomenal lesson.*
+> *there is one kind of robber whom the law does not strike at, and who steals what is most precious to men: time.*
 
 </div>
 <!-- quote-end -->

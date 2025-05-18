@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you want to accomplish the goals of your life, you have to begin with the spirit.*
+> *the practice of forgiveness is our most important contribution to the healing of the world.*
 
 </div>
 <!-- quote-end -->

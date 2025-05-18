@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can out-distance that which is running after you, but not what is running inside you.*
+> *i think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.*
 
 </div>
 <!-- quote-end -->

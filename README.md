@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best investment you will ever make is your steady increase of knowledge.*
+> *what the human mind can conceive and believe it can accomplish.*
 
 </div>
 <!-- quote-end -->

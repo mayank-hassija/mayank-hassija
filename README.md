@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we come this way but once. we can either tiptoe through life and hope we get to death without being badly bruised or we can live a full, complete life achieving our goals and realizing our wildest dreams.*
+> *character cannot be summoned at the moment of crisis if it has been squandered by years of compromise and rationalization. the only testing ground for the heroic is the mundane. the only preparation for that one profound decision which can change a life, or even a nation, is those hundreds of half-conscious, self-defining, seemingly insignificant decisions made in private. habit is the daily battleground of character.*
 
 </div>
 <!-- quote-end -->

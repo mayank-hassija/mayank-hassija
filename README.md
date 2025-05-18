@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *resistance to tyranny is obedience to god.*
+> *if you want to accomplish the goals of your life, you have to begin with the spirit.*
 
 </div>
 <!-- quote-end -->

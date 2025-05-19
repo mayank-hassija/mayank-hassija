@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *haste makes waste, no less in life than in housekeeping. keep track of the time.*
+> *marriage is the most natural state of man, and... the state in which you will find solid happiness.*
 
 </div>
 <!-- quote-end -->

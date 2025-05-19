@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not worry if you have built your castles in the air. they are where they should be. now put the foundations under them.*
+> *haste makes waste, no less in life than in housekeeping. keep track of the time.*
 
 </div>
 <!-- quote-end -->

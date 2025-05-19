@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if a man neglects education, he walks lame to the end of his life.*
+> *construct your determination with sustained effort, controlled attention, and concentrated energy.*
 
 </div>
 <!-- quote-end -->

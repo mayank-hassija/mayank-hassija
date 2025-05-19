@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.*
+> *a man is rich in proportion to the number of things he can afford to let alone.*
 
 </div>
 <!-- quote-end -->

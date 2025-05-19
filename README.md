@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you hate a person, you hate something in him that is part of yourself. what isn't part of ourselves doesn't disturb us.*
+> *how many things there are concerning which we might well deliberate whether we had better know them.*
 
 </div>
 <!-- quote-end -->

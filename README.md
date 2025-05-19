@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *yesterday is not ours to recover, but tomorrow is ours to win or lose.*
+> *it is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.*
 
 </div>
 <!-- quote-end -->

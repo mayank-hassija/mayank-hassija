@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in business, all costs are passed along to the consumer.*
+> *an eye for an eye only ends up making the whole world blind.*
 
 </div>
 <!-- quote-end -->

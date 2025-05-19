@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *construct your determination with sustained effort, controlled attention, and concentrated energy.*
+> *do not worry if you have built your castles in the air. they are where they should be. now put the foundations under them.*
 
 </div>
 <!-- quote-end -->

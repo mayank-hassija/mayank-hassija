@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he is able who thinks he is able.*
+> *in business, all costs are passed along to the consumer.*
 
 </div>
 <!-- quote-end -->

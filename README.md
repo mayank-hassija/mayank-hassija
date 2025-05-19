@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *marriage is the most natural state of man, and... the state in which you will find solid happiness.*
+> *you can conquer almost any fear if you will only make up your mind to do so. remember, fear doesn't exist anywhere except in the mind.*
 
 </div>
 <!-- quote-end -->

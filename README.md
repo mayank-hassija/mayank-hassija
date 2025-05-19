@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an eye for an eye only ends up making the whole world blind.*
+> *necessity never made a good bargain.*
 
 </div>
 <!-- quote-end -->

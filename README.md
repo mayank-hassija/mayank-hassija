@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *instead of noblemen, let us have villages made up of men who are noble.*
+> *the freethinking of one age is the common sense of the next.*
 
 </div>
 <!-- quote-end -->

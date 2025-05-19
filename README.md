@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can conquer almost any fear if you will only make up your mind to do so. remember, fear doesn't exist anywhere except in the mind.*
+> *everything begins with an idea.*
 
 </div>
 <!-- quote-end -->

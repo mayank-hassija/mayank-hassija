@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everything begins with an idea.*
+> *the environment is everything that isn't me.*
 
 </div>
 <!-- quote-end -->

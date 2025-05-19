@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the environment is everything that isn't me.*
+> *instead of noblemen, let us have villages made up of men who are noble.*
 
 </div>
 <!-- quote-end -->

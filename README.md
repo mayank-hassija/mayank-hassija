@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *envy is a waste of time. you already have all you need.*
+> *he is able who thinks he is able.*
 
 </div>
 <!-- quote-end -->

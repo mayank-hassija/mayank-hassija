@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how many things there are concerning which we might well deliberate whether we had better know them.*
+> *if a man neglects education, he walks lame to the end of his life.*
 
 </div>
 <!-- quote-end -->

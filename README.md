@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *necessity never made a good bargain.*
+> *faith consists in believing when it is beyond the power of reason to believe.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *memory is the treasury and guardian of all things.*
+> *if you hate a person, you hate something in him that is part of yourself. what isn't part of ourselves doesn't disturb us.*
 
 </div>
 <!-- quote-end -->

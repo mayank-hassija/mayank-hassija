@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a man is rich in proportion to the number of things he can afford to let alone.*
+> *envy is a waste of time. you already have all you need.*
 
 </div>
 <!-- quote-end -->

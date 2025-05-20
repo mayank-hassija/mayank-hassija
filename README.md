@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *making good decisions is a crucial skill at every level.*
+> *rights that do not flow from duty well performed are not worth having.*
 
 </div>
 <!-- quote-end -->

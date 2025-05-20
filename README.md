@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nothing strengthens the judgment and quickens the conscience like individual responsibility.*
+> *if honor be your clothing, the suit will last a lifetime; but if clothing be your honor, it will soon be worn threadbare.*
 
 </div>
 <!-- quote-end -->

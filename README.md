@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *leaders are made, they are not born. they are made by hard effort, which is the price anyone of us must pay to achieve any goal that is worthwhile.*
+> *faith never makes a confession.*
 
 </div>
 <!-- quote-end -->

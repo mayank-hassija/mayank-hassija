@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god doesn't require us to succeed; he only requires that you try.*
+> *if one tells the truth, one is sure, sooner or later, to be found out.*
 
 </div>
 <!-- quote-end -->

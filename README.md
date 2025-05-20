@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *competence starts with guaranteeing your work.*
+> *making good decisions is a crucial skill at every level.*
 
 </div>
 <!-- quote-end -->

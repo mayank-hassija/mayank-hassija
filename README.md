@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *man's mind, once stretched by a new idea, never regains its original dimensions.*
+> *culture changes when the organization is transformed.*
 
 </div>
 <!-- quote-end -->

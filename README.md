@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *teachers should guide without dictating, and participate without dominating.*
+> *you don't save a pitcher for tomorrow. tomorrow it may rain.*
 
 </div>
 <!-- quote-end -->

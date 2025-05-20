@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *besides pride, loyalty, discipline, heart, and mind, confidence is the key to all the locks.*
+> *i have been up against tough competition all my life. i wouldn't know how to get along without it.*
 
 </div>
 <!-- quote-end -->

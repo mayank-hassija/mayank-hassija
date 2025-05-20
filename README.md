@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is the good fortune that comes from aspiration, desperation, perspiration and inspiration.*
+> *whatever the difference between brilliant and average brains, we are all creative. and through practice and study we can enhance our skills and talents.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have been up against tough competition all my life. i wouldn't know how to get along without it.*
+> *integrate every aspect of your life (body, mind, spirit, relationships, business) and each within itself. integrating means understanding and digesting a process... and seeing relationships among seemingly unrelated phenomena. it's a sign of innovative genius.*
 
 </div>
 <!-- quote-end -->

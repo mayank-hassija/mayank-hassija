@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you don't save a pitcher for tomorrow. tomorrow it may rain.*
+> *besides pride, loyalty, discipline, heart, and mind, confidence is the key to all the locks.*
 
 </div>
 <!-- quote-end -->

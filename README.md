@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *rights that do not flow from duty well performed are not worth having.*
+> *man's mind, once stretched by a new idea, never regains its original dimensions.*
 
 </div>
 <!-- quote-end -->

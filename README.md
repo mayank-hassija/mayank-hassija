@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if honor be your clothing, the suit will last a lifetime; but if clothing be your honor, it will soon be worn threadbare.*
+> *we are what we think. all that we are arises with our thoughts. with our thoughts, we make the world.*
 
 </div>
 <!-- quote-end -->

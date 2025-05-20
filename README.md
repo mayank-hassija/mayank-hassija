@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't build a reputation on what you are going to do.*
+> *competence starts with guaranteeing your work.*
 
 </div>
 <!-- quote-end -->

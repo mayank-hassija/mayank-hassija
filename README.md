@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *culture changes when the organization is transformed.*
+> *god doesn't require us to succeed; he only requires that you try.*
 
 </div>
 <!-- quote-end -->

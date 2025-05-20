@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if one tells the truth, one is sure, sooner or later, to be found out.*
+> *nothing strengthens the judgment and quickens the conscience like individual responsibility.*
 
 </div>
 <!-- quote-end -->

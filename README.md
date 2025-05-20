@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the freethinking of one age is the common sense of the next.*
+> *teachers should guide without dictating, and participate without dominating.*
 
 </div>
 <!-- quote-end -->

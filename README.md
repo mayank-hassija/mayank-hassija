@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *integrate every aspect of your life (body, mind, spirit, relationships, business) and each within itself. integrating means understanding and digesting a process... and seeing relationships among seemingly unrelated phenomena. it's a sign of innovative genius.*
+> *success is the good fortune that comes from aspiration, desperation, perspiration and inspiration.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everybody has to be able to participate in a future that they want to live for. that's what technology can do.*
+> *you can't build a reputation on what you are going to do.*
 
 </div>
 <!-- quote-end -->

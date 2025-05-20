@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever the difference between brilliant and average brains, we are all creative. and through practice and study we can enhance our skills and talents.*
+> *providence has its appointed hour for everything. we cannot command results, we can only strive.*
 
 </div>
 <!-- quote-end -->

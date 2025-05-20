@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *providence has its appointed hour for everything. we cannot command results, we can only strive.*
+> *everybody has to be able to participate in a future that they want to live for. that's what technology can do.*
 
 </div>
 <!-- quote-end -->

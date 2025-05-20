@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are what we think. all that we are arises with our thoughts. with our thoughts, we make the world.*
+> *leaders are made, they are not born. they are made by hard effort, which is the price anyone of us must pay to achieve any goal that is worthwhile.*
 
 </div>
 <!-- quote-end -->

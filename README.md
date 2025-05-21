@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you‘re not 10 minutes early, you‘re late.*
+> *miss a meal if you have to, but don't miss a book.*
 
 </div>
 <!-- quote-end -->

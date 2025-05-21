@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one strength of the communist system of the east is that it has some of the character of a religion and inspires the emotions of a religion.*
+> *study alone is no substitute for experience.*
 
 </div>
 <!-- quote-end -->

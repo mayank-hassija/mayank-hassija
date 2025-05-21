@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if the answers to all three questions are yes, there is no way you can fail.*
+> *the main ingredient of stardom is the rest of the team.*
 
 </div>
 <!-- quote-end -->

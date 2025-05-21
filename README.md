@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *expect the best, plan for the worst, and prepare to be surprised.*
+> *if the answers to all three questions are yes, there is no way you can fail.*
 
 </div>
 <!-- quote-end -->

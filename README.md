@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *courage is doing what you're afraid to do. there can be no courage unless you're scared.*
+> *don't let the fear of the time it will take to accomplish something stand in the way of your doing it. the time will pass anyway; we might just as well put that passing time to the best possible use.*
 
 </div>
 <!-- quote-end -->

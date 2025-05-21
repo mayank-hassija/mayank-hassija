@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *study alone is no substitute for experience.*
+> *courage is doing what you're afraid to do. there can be no courage unless you're scared.*
 
 </div>
 <!-- quote-end -->

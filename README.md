@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the buck stops here.*
+> *if you put a small value upon youself, rest assured that the world will not raise your price.*
 
 </div>
 <!-- quote-end -->

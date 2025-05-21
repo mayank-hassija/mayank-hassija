@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you treat your wife like a thoroughbred, you'll never end up with a nag.*
+> *if you‘re not 10 minutes early, you‘re late.*
 
 </div>
 <!-- quote-end -->

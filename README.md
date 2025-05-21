@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *determination is a wake-up call to the human will.*
+> *maintain a long term outlook in all endeavors.*
 
 </div>
 <!-- quote-end -->

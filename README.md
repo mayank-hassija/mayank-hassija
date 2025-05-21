@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *glory is fleeting, but obscurity is forever.*
+> *the buck stops here.*
 
 </div>
 <!-- quote-end -->

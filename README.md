@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *maintain a long term outlook in all endeavors.*
+> *expect the best, plan for the worst, and prepare to be surprised.*
 
 </div>
 <!-- quote-end -->

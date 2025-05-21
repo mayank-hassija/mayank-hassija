@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the main ingredient of stardom is the rest of the team.*
+> *the only way to get rid of a temptation is to yield to it.*
 
 </div>
 <!-- quote-end -->

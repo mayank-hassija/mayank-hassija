@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what we wish, we readily believe, and what we ourselves think, we imagine others think also.*
+> *one strength of the communist system of the east is that it has some of the character of a religion and inspires the emotions of a religion.*
 
 </div>
 <!-- quote-end -->

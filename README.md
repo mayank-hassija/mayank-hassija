@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one can never consent to creep when one feels an impulse to soar.*
+> *glory is fleeting, but obscurity is forever.*
 
 </div>
 <!-- quote-end -->

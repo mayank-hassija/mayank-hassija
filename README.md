@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.*
+> *if you treat your wife like a thoroughbred, you'll never end up with a nag.*
 
 </div>
 <!-- quote-end -->

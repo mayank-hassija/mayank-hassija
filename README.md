@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are four ways, and only four ways, in which we have contact with the world. we are evaluated and classified by these four contacts: what we do, how we look, what we say, and how we say it.*
+> *you can out-distance that which is running after you, but not what is running inside you.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *miss a meal if you have to, but don't miss a book.*
+> *one can never consent to creep when one feels an impulse to soar.*
 
 </div>
 <!-- quote-end -->

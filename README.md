@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can out-distance that which is running after you, but not what is running inside you.*
+> *what we wish, we readily believe, and what we ourselves think, we imagine others think also.*
 
 </div>
 <!-- quote-end -->

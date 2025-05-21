@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you put a small value upon youself, rest assured that the world will not raise your price.*
+> *liberty means responsibility. that is why most men dread it.*
 
 </div>
 <!-- quote-end -->

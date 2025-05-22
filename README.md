@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every scientific truth goes through three states: first, people say it conflicts with the bible; next, they say it has been discovered before; lastly, they say they always believed it.*
+> *you find that you have peace of mind and can enjoy yourself, get more sleep, rest when you know that it was a one hundred percent effort that you gave - win or lose.*
 
 </div>
 <!-- quote-end -->

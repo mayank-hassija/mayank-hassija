@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *interrogative questions (there are six.) - who - what - when - where - how - why invest profits (the application of compound interest) for wealth preservation and growth invest your time and/or money only after strict and complete due diligence. don't allow yourself to be rushed.*
+> *excess generally causes reaction, and produces a change in the opposite direction, whether it be in the seasons, or in individuals, or in governments.*
 
 </div>
 <!-- quote-end -->

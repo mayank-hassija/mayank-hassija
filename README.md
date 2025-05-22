@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the way you overcome shyness is to become so wrapped up in something that you forget to be afraid.*
+> *people are like precious stones. they shine in direct relationship to how much abrasion they‘ve been exposed to.*
 
 </div>
 <!-- quote-end -->

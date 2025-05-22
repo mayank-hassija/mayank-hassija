@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *better to light a candle than to curse the darkness.*
+> *you never pull the trigger until you know you can win.*
 
 </div>
 <!-- quote-end -->

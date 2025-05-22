@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *more gold has been mined from the thoughts of men than has been taken from the earth.*
+> *we must not allow the clock and the calendar to blind us to the fact that each moment of life is a miracle and mystery.*
 
 </div>
 <!-- quote-end -->

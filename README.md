@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what this country needs is more unemployed politicians.*
+> *courage is what it takes to stand up and speak. courage is also what it takes to sit down courtesy is as much a mark of a gentleman as courage.*
 
 </div>
 <!-- quote-end -->

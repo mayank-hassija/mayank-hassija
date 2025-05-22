@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you find that you have peace of mind and can enjoy yourself, get more sleep, rest when you know that it was a one hundred percent effort that you gave - win or lose.*
+> *individually, we are one drop. together, we are an ocean.*
 
 </div>
 <!-- quote-end -->

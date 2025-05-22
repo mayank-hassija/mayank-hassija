@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my ideas usually come not at my desk writing but in the midst of living.*
+> *you are today where your thoughts have brought you; you will be tomorrow where your thoughts on this day take you.*
 
 </div>
 <!-- quote-end -->

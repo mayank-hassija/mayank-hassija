@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the surest way not to fail is to be determined to succeed.*
+> *interrogative questions (there are six.) - who - what - when - where - how - why invest profits (the application of compound interest) for wealth preservation and growth invest your time and/or money only after strict and complete due diligence. don't allow yourself to be rushed.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must not allow the clock and the calendar to blind us to the fact that each moment of life is a miracle and mystery.*
+> *above all, be of single aim; have a legitimate and useful purpose, and devote yourself unreservedly to it.*
 
 </div>
 <!-- quote-end -->

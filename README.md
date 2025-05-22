@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *courage is what it takes to stand up and speak. courage is also what it takes to sit down courtesy is as much a mark of a gentleman as courage.*
+> *more gold has been mined from the thoughts of men than has been taken from the earth.*
 
 </div>
 <!-- quote-end -->

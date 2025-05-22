@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you are today where your thoughts have brought you; you will be tomorrow where your thoughts on this day take you.*
+> *the way you overcome shyness is to become so wrapped up in something that you forget to be afraid.*
 
 </div>
 <!-- quote-end -->

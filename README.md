@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i believe that every single event in life happens in an opportunity to choose love over fear.*
+> *the surest way not to fail is to be determined to succeed.*
 
 </div>
 <!-- quote-end -->

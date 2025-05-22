@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you never pull the trigger until you know you can win.*
+> *loyalty is something you give regardless of what you get back, and in giving loyalty, you're getting more loyalty; and out of loyalty flow other great qualities.*
 
 </div>
 <!-- quote-end -->

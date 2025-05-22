@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *individually, we are one drop. together, we are an ocean.*
+> *i believe that every single event in life happens in an opportunity to choose love over fear.*
 
 </div>
 <!-- quote-end -->

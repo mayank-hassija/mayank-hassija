@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *above all, be of single aim; have a legitimate and useful purpose, and devote yourself unreservedly to it.*
+> *better to light a candle than to curse the darkness.*
 
 </div>
 <!-- quote-end -->

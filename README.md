@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *build up your weaknesses until they become your strong points.*
+> *every scientific truth goes through three states: first, people say it conflicts with the bible; next, they say it has been discovered before; lastly, they say they always believed it.*
 
 </div>
 <!-- quote-end -->

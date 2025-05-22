@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dogs are not our whole life, but they make our lives whole.*
+> *my ideas usually come not at my desk writing but in the midst of living.*
 
 </div>
 <!-- quote-end -->

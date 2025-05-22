@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *liberty means responsibility. that is why most men dread it.*
+> *dogs are not our whole life, but they make our lives whole.*
 
 </div>
 <!-- quote-end -->

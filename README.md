@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the conventional view serves to protect us from the painful job of thinking.*
+> *i'm very pleased to be here. let's face it, at 90, i'm very pleased to be anywhere.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *any man who reads too much and uses his own brain too little falls into lazy habits of thinking.*
+> *some are reputed sick and some are not. it often happens that the sicker man is the nurse to the sounder.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *many of life's failures are people who did not realize how close they were to success when they gave up.*
+> *the speed of the boss is the speed of the team.*
 
 </div>
 <!-- quote-end -->

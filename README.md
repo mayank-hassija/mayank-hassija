@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you don‘t understand anything until you can explain it to someone else so that they understand it.*
+> *it is not what we get. but who we become, what we contribute... that gives meaning to our lives.*
 
 </div>
 <!-- quote-end -->

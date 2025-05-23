@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the easy road to discipline includes setting deadlines.*
+> *i like thinking big. if you're going to be thinking anything, you might as well think big.*
 
 </div>
 <!-- quote-end -->

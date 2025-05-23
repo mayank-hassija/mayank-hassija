@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is not what we get. but who we become, what we contribute... that gives meaning to our lives.*
+> *take good care of those you love.*
 
 </div>
 <!-- quote-end -->

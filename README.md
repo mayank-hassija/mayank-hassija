@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have often been afraid, but i would not give in to it. i made myself act as though i was not afraid and gradually my fear disappeared.*
+> *setting goals is the first step in turning the invisible into the visible.*
 
 </div>
 <!-- quote-end -->

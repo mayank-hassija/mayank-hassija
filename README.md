@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i like thinking big. if you're going to be thinking anything, you might as well think big.*
+> *i have friends in overalls whose friendship i would not swap for the favor of the kings of the world.*
 
 </div>
 <!-- quote-end -->

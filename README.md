@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people with courage and character always seem sinister to the rest.*
+> *always have options. options are a primary source of power. power also comes from stripping away appearances and seeing things as they really are.*
 
 </div>
 <!-- quote-end -->

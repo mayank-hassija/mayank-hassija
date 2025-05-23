@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you‘re tough on yourself, life will be easy on you. when you are easy on yourself, life will be tough on you.*
+> *you don‘t understand anything until you can explain it to someone else so that they understand it.*
 
 </div>
 <!-- quote-end -->

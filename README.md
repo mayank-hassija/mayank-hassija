@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *setting goals is the first step in turning the invisible into the visible.*
+> *failure lies not in falling down. failure lies in not getting up.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *some are reputed sick and some are not. it often happens that the sicker man is the nurse to the sounder.*
+> *the conventional view serves to protect us from the painful job of thinking.*
 
 </div>
 <!-- quote-end -->

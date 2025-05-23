@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.*
+> *the easy road to discipline includes setting deadlines.*
 
 </div>
 <!-- quote-end -->

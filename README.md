@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the attempt to combine wisdom and power has only rarely been successful and then only for a short while.*
+> *there are no mistakes. the events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure lies not in falling down. failure lies in not getting up.*
+> *people with courage and character always seem sinister to the rest.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have friends in overalls whose friendship i would not swap for the favor of the kings of the world.*
+> *many of life's failures are people who did not realize how close they were to success when they gave up.*
 
 </div>
 <!-- quote-end -->

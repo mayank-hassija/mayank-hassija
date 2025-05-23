@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take good care of those you love.*
+> *if you‘re properly prepared, you will have confidence.*
 
 </div>
 <!-- quote-end -->

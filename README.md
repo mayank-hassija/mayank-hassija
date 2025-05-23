@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *always have options. options are a primary source of power. power also comes from stripping away appearances and seeing things as they really are.*
+> *if you can envision it, you can have it!*
 
 </div>
 <!-- quote-end -->

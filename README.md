@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i'm very pleased to be here. let's face it, at 90, i'm very pleased to be anywhere.*
+> *when you‘re tough on yourself, life will be easy on you. when you are easy on yourself, life will be tough on you.*
 
 </div>
 <!-- quote-end -->

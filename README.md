@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you‘re properly prepared, you will have confidence.*
+> *success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.*
 
 </div>
 <!-- quote-end -->

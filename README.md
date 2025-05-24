@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in all men is evil sleeping; the good man is he who will not awaken it, in himself or in other men.*
+> *life is a great big canvas, and you should throw all the paint you can on it.*
 
 </div>
 <!-- quote-end -->

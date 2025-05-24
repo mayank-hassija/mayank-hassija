@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i would heartily welcome the union of east and west provided it is not based on brute force.*
+> *the investor of today does not profit from yesterday's growth.*
 
 </div>
 <!-- quote-end -->

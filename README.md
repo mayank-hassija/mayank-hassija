@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *(b) take personal responsibility for changing them beginning today.*
+> *action is the ultimate measure of intelligence.*
 
 </div>
 <!-- quote-end -->

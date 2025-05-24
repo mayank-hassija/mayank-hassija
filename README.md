@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *action is the ultimate measure of intelligence.*
+> *no one's head aches when he is comforting another.*
 
 </div>
 <!-- quote-end -->

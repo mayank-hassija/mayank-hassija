@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *faith is much better than belief. belief is when someone else does the thinking.*
+> *successful people are always looking for opportunities to help others. unsuccessful people are always asking, "what's in it for me?" successful people are clear on their purpose in life – and they are committed to it.*
 
 </div>
 <!-- quote-end -->

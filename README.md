@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take full control of, and responsibility for, your conscious mind and every other aspect of your life.*
+> *he that cannot reason is a fool. he that will not is a bigot. he that dare not is a slave.*
 
 </div>
 <!-- quote-end -->

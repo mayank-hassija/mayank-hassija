@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must learn to view change as a natural phenomenon - to anticipate it and to plan for it. the future is ours to channel in the direction we want to go... we must continually ask ourselves, "what will happen if...?" or better still, "how can we make it happen?*
+> *happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.*
 
 </div>
 <!-- quote-end -->

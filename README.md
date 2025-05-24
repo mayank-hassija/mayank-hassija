@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is a great big canvas, and you should throw all the paint you can on it.*
+> *take full control of, and responsibility for, your conscious mind and every other aspect of your life.*
 
 </div>
 <!-- quote-end -->

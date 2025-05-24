@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.*
+> *in all men is evil sleeping; the good man is he who will not awaken it, in himself or in other men.*
 
 </div>
 <!-- quote-end -->

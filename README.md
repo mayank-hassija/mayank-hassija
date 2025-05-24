@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the investor of today does not profit from yesterday's growth.*
+> *worrying is like paying on a debt that may never come due.*
 
 </div>
 <!-- quote-end -->

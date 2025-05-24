@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are three methods to gaining wisdom. the first is reflection, which is the highest.*
+> *let everyone try and find that as a result of daily prayer he adds something new to his life, something with which nothing can be compared.*
 
 </div>
 <!-- quote-end -->

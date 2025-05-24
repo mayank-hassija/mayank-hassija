@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your children get only one childhood.*
+> *there are three methods to gaining wisdom. the first is reflection, which is the highest.*
 
 </div>
 <!-- quote-end -->

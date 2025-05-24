@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one's head aches when he is comforting another.*
+> *i would heartily welcome the union of east and west provided it is not based on brute force.*
 
 </div>
 <!-- quote-end -->

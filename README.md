@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *house guests, like fish, begin to smell after three days.*
+> *people with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.*
 
 </div>
 <!-- quote-end -->

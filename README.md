@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *happiness is an attitude of mind, born of the simple determination to be happy under all outward circumstances.*
+> *science is organized knowledge. wisdom is organized life.*
 
 </div>
 <!-- quote-end -->

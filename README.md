@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are no mistakes. the events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go.*
+> *big pay and little responsibility are circumstances seldom found together.*
 
 </div>
 <!-- quote-end -->

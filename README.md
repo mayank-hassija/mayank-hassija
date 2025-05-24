@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he that cannot reason is a fool. he that will not is a bigot. he that dare not is a slave.*
+> *(b) take personal responsibility for changing them beginning today.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *science is organized knowledge. wisdom is organized life.*
+> *your children get only one childhood.*
 
 </div>
 <!-- quote-end -->

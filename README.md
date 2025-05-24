@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *big pay and little responsibility are circumstances seldom found together.*
+> *do not look for approval except for the consciousness of doing your best.*
 
 </div>
 <!-- quote-end -->

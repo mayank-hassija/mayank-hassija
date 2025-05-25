@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *some people are at the top of the ladder, some are in the middle, still more are at the bottom, and a whole lot more don't even know there is a ladder.*
+> *i always like to look on the optimistic side of life, but i am realistic enough to know that life is a complex matter.*
 
 </div>
 <!-- quote-end -->

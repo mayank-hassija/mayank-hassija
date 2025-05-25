@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *as selfishness and complaint pervert the mind, so love with its joy clears and sharpens the vision.*
+> *it is a fine thing to have ability, but the ability to discover ability in others is the true test.*
 
 </div>
 <!-- quote-end -->

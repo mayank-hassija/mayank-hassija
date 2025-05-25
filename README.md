@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *unity can only be manifested by the binary. unity itself and the idea of unity are already two.*
+> *whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. so shall we take occasion, from one bitter root, to raise perhaps many flowers.*
 
 </div>
 <!-- quote-end -->

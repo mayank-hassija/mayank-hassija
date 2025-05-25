@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a positive mental attitude is the catalyst that causes a spark that starts a chain reaction of extraordinary results.*
+> *happiness is found in doing, not merely possessing.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *science is organized knowledge. wisdom is organized life.*
+> *some people are at the top of the ladder, some are in the middle, still more are at the bottom, and a whole lot more don't even know there is a ladder.*
 
 </div>
 <!-- quote-end -->

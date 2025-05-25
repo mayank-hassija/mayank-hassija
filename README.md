@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no remedy for love but to love more.*
+> *science is organized knowledge. wisdom is organized life.*
 
 </div>
 <!-- quote-end -->

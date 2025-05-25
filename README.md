@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have always recognized that the object of business is to make money in an honorable manner. i have endeavored to remember that the object of life is to do good.*
+> *as selfishness and complaint pervert the mind, so love with its joy clears and sharpens the vision.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must be willing to let go of the life we have planned, so as to have the life that is waiting for us.*
+> *a positive mental attitude is the catalyst that causes a spark that starts a chain reaction of extraordinary results.*
 
 </div>
 <!-- quote-end -->

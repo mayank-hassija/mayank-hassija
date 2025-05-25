@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god sometimes does try to the uttermost those whom he wishes to bless.*
+> *there are two worlds for you to master: the inner world, the mental world (the quantity and quality of the thinking going on in your own mind). and, the outer world, the physical-external world (the health of your body; controlling your time; building better relationships in all areas of your life; and how you go about earning money, saving money and wisely using money to grow your money.*
 
 </div>
 <!-- quote-end -->

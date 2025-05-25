@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *competence starts with guaranteeing your work.*
+> *we must be willing to let go of the life we have planned, so as to have the life that is waiting for us.*
 
 </div>
 <!-- quote-end -->

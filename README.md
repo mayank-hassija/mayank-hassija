@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. so shall we take occasion, from one bitter root, to raise perhaps many flowers.*
+> *i have always recognized that the object of business is to make money in an honorable manner. i have endeavored to remember that the object of life is to do good.*
 
 </div>
 <!-- quote-end -->

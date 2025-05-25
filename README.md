@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is a fine thing to have ability, but the ability to discover ability in others is the true test.*
+> *people are like precious stones. they shine in direct relationship to how much abrasion they‘ve been exposed to.*
 
 </div>
 <!-- quote-end -->

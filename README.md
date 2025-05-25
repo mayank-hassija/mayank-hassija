@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every action and feeling is preceded by a thought.*
+> *there is no remedy for love but to love more.*
 
 </div>
 <!-- quote-end -->

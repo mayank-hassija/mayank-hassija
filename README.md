@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *worrying is like paying on a debt that may never come due.*
+> *what matters most in life is what you choose to be.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *happiness is found in doing, not merely possessing.*
+> *unity can only be manifested by the binary. unity itself and the idea of unity are already two.*
 
 </div>
 <!-- quote-end -->

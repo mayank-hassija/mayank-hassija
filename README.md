@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what lies behind us and what lies ahead of us are tiny matters compared to what lives within us.*
+> *god sometimes does try to the uttermost those whom he wishes to bless.*
 
 </div>
 <!-- quote-end -->

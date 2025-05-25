@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are two worlds for you to master: the inner world, the mental world (the quantity and quality of the thinking going on in your own mind). and, the outer world, the physical-external world (the health of your body; controlling your time; building better relationships in all areas of your life; and how you go about earning money, saving money and wisely using money to grow your money.*
+> *i don't make deals for the money. i've got enough, much more than i'll ever need. i do it to do it.*
 
 </div>
 <!-- quote-end -->

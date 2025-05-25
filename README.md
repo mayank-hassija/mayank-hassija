@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people are like precious stones. they shine in direct relationship to how much abrasion they‘ve been exposed to.*
+> *reinvent yourself as often as is necessary.*
 
 </div>
 <!-- quote-end -->

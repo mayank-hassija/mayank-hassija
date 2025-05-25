@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what matters most in life is what you choose to be.*
+> *every action and feeling is preceded by a thought.*
 
 </div>
 <!-- quote-end -->

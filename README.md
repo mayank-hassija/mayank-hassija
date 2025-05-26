@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble.*
+> *virtue is persecuted more by the wicked than it is loved by the good.*
 
 </div>
 <!-- quote-end -->

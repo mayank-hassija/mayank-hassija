@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wherever you go, no matter what the weather, always bring your own sunshine.*
+> *most people are totally satisfied to only know what happened. the really smart people are not satisfied until they also know why it happened.*
 
 </div>
 <!-- quote-end -->

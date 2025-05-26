@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you're going through hell, keep going.*
+> *universal mind a/k/a the subconscious mind unless a man believes in himself and makes a total commitment to his career and puts everything he has into his mind, his body and his heart… what is life worth to him?*
 
 </div>
 <!-- quote-end -->

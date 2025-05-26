@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *compensation comes in two forms, money and personal satisfaction. the amount of money you earn may be pre-determined by the industry you work in and who you work for. how much personal satisfaction you receive from your work is strictly up to you and no one else.*
+> *just because two people argue, doesn't mean they don't love each other. just because they don't argue, doesn't mean they do love each other.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us.*
+> *commit yourself to constant improvement.*
 
 </div>
 <!-- quote-end -->

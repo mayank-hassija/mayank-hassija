@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are two educations. one should teach us how to make a living and the other how to live.*
+> *change yourself and your work will seem different.*
 
 </div>
 <!-- quote-end -->

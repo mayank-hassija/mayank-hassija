@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *commit yourself to constant improvement.*
+> *there are two educations. one should teach us how to make a living and the other how to live.*
 
 </div>
 <!-- quote-end -->

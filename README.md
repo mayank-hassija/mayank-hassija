@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how do you know… that you know… that you know? when you have (l)learned something so well you )u)understand the information and then, can (t)teach it to someone else so well they too understand it and also (a) apply the knowledge for your benefit. the acronym is, ‗luta‘. remember, you only have to learn something once. after that, you own it. your luta‘s are you servants in life. once you possess an idea or group of ideas that fit all four criteria, these ideas will obediently serve you throughout your life.*
+> *if you're going through hell, keep going.*
 
 </div>
 <!-- quote-end -->

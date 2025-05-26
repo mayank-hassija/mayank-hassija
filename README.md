@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the difference between stupidity and genius is that genius has its limits.*
+> *let everyone try and find that as a result of daily prayer he adds something new to his life, something with which nothing can be compared.*
 
 </div>
 <!-- quote-end -->

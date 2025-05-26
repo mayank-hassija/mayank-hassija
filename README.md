@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *just because two people argue, doesn't mean they don't love each other. just because they don't argue, doesn't mean they do love each other.*
+> *how do you know… that you know… that you know? when you have (l)learned something so well you )u)understand the information and then, can (t)teach it to someone else so well they too understand it and also (a) apply the knowledge for your benefit. the acronym is, ‗luta‘. remember, you only have to learn something once. after that, you own it. your luta‘s are you servants in life. once you possess an idea or group of ideas that fit all four criteria, these ideas will obediently serve you throughout your life.*
 
 </div>
 <!-- quote-end -->

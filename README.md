@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *virtue is persecuted more by the wicked than it is loved by the good.*
+> *wherever you go, no matter what the weather, always bring your own sunshine.*
 
 </div>
 <!-- quote-end -->

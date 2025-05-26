@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ninety percent of being successful in life is just showing up. the other ten percent is a combination of paying attention once you‘re there and contributing one hundred percent of everything you‘ve got. hold nothing back. anything less is unacceptable.*
+> *when one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us.*
 
 </div>
 <!-- quote-end -->

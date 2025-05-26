@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most people are totally satisfied to only know what happened. the really smart people are not satisfied until they also know why it happened.*
+> *to be admitted to nature's hearth costs nothing. none is excluded, but excludes himself. you have only to push aside the curtain.*
 
 </div>
 <!-- quote-end -->

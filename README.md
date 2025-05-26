@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to be admitted to nature's hearth costs nothing. none is excluded, but excludes himself. you have only to push aside the curtain.*
+> *self-confident – you need a ―if they can do it, i can do it‖ moment in your life. having the self-confidence that ―i can do it‖ is a form of faith.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is of practical value to learn to like yourself. since you must spend so much time with yourself you might as well get some satisfaction out of the relationship.*
+> *ninety percent of being successful in life is just showing up. the other ten percent is a combination of paying attention once you‘re there and contributing one hundred percent of everything you‘ve got. hold nothing back. anything less is unacceptable.*
 
 </div>
 <!-- quote-end -->

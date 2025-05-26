@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *change yourself and your work will seem different.*
+> *i long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble.*
 
 </div>
 <!-- quote-end -->

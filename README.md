@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i don't make deals for the money. i've got enough, much more than i'll ever need. i do it to do it.*
+> *everyone is born a genius, but the process of living de-geniuses them.*
 
 </div>
 <!-- quote-end -->

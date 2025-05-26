@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let everyone try and find that as a result of daily prayer he adds something new to his life, something with which nothing can be compared.*
+> *we turn not older with years, but newer every day.*
 
 </div>
 <!-- quote-end -->

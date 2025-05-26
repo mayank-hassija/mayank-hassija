@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *universal mind a/k/a the subconscious mind unless a man believes in himself and makes a total commitment to his career and puts everything he has into his mind, his body and his heart… what is life worth to him?*
+> *the difference between stupidity and genius is that genius has its limits.*
 
 </div>
 <!-- quote-end -->

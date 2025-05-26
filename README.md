@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everyone is born a genius, but the process of living de-geniuses them.*
+> *it is of practical value to learn to like yourself. since you must spend so much time with yourself you might as well get some satisfaction out of the relationship.*
 
 </div>
 <!-- quote-end -->

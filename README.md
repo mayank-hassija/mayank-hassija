@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our moments of inspiration are not lost though we have no particular poem to show for them; for those experiences have left an indelible impression, and we are ever and anon reminded of them.*
+> *do what nobody else can do for you.*
 
 </div>
 <!-- quote-end -->

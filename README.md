@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i always like to look on the optimistic side of life, but i am realistic enough to know that life is a complex matter.*
+> *i exhort you also to take part in the great combat, which is the combat of life, and greater than every other earthly conflict.*
 
 </div>
 <!-- quote-end -->

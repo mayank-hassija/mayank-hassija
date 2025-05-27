@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i exhort you also to take part in the great combat, which is the combat of life, and greater than every other earthly conflict.*
+> *our moments of inspiration are not lost though we have no particular poem to show for them; for those experiences have left an indelible impression, and we are ever and anon reminded of them.*
 
 </div>
 <!-- quote-end -->

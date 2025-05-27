@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *without continual growth and progress, such words as improvement, achievement, and success have no real meaning to you.*
+> *death is not extinguishing the light; it is only putting out the lamp because the dawn has come.*
 
 </div>
 <!-- quote-end -->

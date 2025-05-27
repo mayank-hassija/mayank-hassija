@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never interrupt your enemy when he is making a mistake.*
+> *nature and human life are as various as our several constitutions. who shall say what prospect life offers to another?*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ah, hope! what would life be, stripped of thy encouraging smiles, that teach us to look behind the dark clouds of today, for the golden beams that are to gild the morrow.*
+> *never leave anything till tomorrow which you can do today.*
 
 </div>
 <!-- quote-end -->

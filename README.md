@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *not until we are lost do we begin to understand ourselves.*
+> *life is managed; it is not cured.*
 
 </div>
 <!-- quote-end -->

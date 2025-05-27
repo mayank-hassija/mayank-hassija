@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we turn not older with years, but newer every day.*
+> *not until we are lost do we begin to understand ourselves.*
 
 </div>
 <!-- quote-end -->

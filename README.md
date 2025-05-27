@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never leave anything till tomorrow which you can do today.*
+> *the secret of life is to have no fear; it's the only way to function.*
 
 </div>
 <!-- quote-end -->

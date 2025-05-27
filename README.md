@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nature and human life are as various as our several constitutions. who shall say what prospect life offers to another?*
+> *enthusiasm is the yeast that makes your hopes shine to the stars. enthusiasm is the sparkle in your eyes, the swing in your gait. the grip of your hand, the irresistible surge of will and energy to execute your ideas.*
 
 </div>
 <!-- quote-end -->

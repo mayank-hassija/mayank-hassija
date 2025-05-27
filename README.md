@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how many things there are concerning which we might well deliberate whether we had better know them.*
+> *never interrupt your enemy when he is making a mistake.*
 
 </div>
 <!-- quote-end -->

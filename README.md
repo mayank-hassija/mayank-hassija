@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do what nobody else can do for you.*
+> *if the machine of government is of such a nature that it requires you to be the agent of injustice to another, then, i say, break the law.*
 
 </div>
 <!-- quote-end -->

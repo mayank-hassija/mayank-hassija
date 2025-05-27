@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is managed; it is not cured.*
+> *change yourself and your work will seem different.*
 
 </div>
 <!-- quote-end -->

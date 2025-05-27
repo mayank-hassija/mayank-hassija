@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *name the greatest of all inventors. accident.*
+> *a pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.*
 
 </div>
 <!-- quote-end -->

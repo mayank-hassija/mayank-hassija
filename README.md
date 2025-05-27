@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is wonderful how much time good people spend fighting the devil. if they would only expend the same amount of energy loving their fellow men, the devil would die in his own tracks of ennui.*
+> *ah, hope! what would life be, stripped of thy encouraging smiles, that teach us to look behind the dark clouds of today, for the golden beams that are to gild the morrow.*
 
 </div>
 <!-- quote-end -->

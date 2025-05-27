@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if the machine of government is of such a nature that it requires you to be the agent of injustice to another, then, i say, break the law.*
+> *without continual growth and progress, such words as improvement, achievement, and success have no real meaning to you.*
 
 </div>
 <!-- quote-end -->

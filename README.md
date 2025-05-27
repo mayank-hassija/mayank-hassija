@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *change yourself and your work will seem different.*
+> *name the greatest of all inventors. accident.*
 
 </div>
 <!-- quote-end -->

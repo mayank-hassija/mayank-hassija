@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *death is not extinguishing the light; it is only putting out the lamp because the dawn has come.*
+> *the successful person has the habit of doing the things failures don't like to do. they don't like doing them either necessarily. but their disliking is subordinated to the strength of their purpose.*
 
 </div>
 <!-- quote-end -->

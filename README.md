@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret of life is to have no fear; it's the only way to function.*
+> *some of our greatest historical and artistic treasures we place in museums; others, we take for walks.*
 
 </div>
 <!-- quote-end -->

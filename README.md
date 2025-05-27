@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the successful person has the habit of doing the things failures don't like to do. they don't like doing them either necessarily. but their disliking is subordinated to the strength of their purpose.*
+> *how many things there are concerning which we might well deliberate whether we had better know them.*
 
 </div>
 <!-- quote-end -->

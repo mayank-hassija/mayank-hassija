@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *some of our greatest historical and artistic treasures we place in museums; others, we take for walks.*
+> *i always like to look on the optimistic side of life, but i am realistic enough to know that life is a complex matter.*
 
 </div>
 <!-- quote-end -->

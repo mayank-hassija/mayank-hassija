@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.*
+> *it is wonderful how much time good people spend fighting the devil. if they would only expend the same amount of energy loving their fellow men, the devil would die in his own tracks of ennui.*
 
 </div>
 <!-- quote-end -->

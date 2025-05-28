@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a good teacher is like a candle - it consumes itself to light the way for others.*
+> *failure to follow through on a good idea is the cause of most failures.*
 
 </div>
 <!-- quote-end -->

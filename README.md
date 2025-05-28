@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think earning money is the simplest thing in the world once you learn how to do it. it's like driving a car. it's simple if you know how to do it.*
+> *opportunity is missed by most because it is dressed in overalls and looks a lot like work.*
 
 </div>
 <!-- quote-end -->

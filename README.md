@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all religions, arts and sciences are branches of the same tree.*
+> *defeat is not the worst of failures. not to have tried is the true failure.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wisdom is the supreme part of happiness wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.*
+> *i think earning money is the simplest thing in the world once you learn how to do it. it's like driving a car. it's simple if you know how to do it.*
 
 </div>
 <!-- quote-end -->

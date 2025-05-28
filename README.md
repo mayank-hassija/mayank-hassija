@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we do not learn; and what we call learning is only a process of recollection.*
+> *a successful team is a group of many hands but of one mind.*
 
 </div>
 <!-- quote-end -->

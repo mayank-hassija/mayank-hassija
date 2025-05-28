@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can create paradise on earth. many people do.*
+> *the best way to sell yourself to others is first to sell the others to yourself.*
 
 </div>
 <!-- quote-end -->

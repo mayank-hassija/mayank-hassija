@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a successful team is a group of many hands but of one mind.*
+> *freedom is never dear at any price. it is the breath of life. what would a man not pay for living?*
 
 </div>
 <!-- quote-end -->

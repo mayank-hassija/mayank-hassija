@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure to follow through on a good idea is the cause of most failures.*
+> *there has never been a truly great man that was not at the same time truly virtuous.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *opportunity is missed by most because it is dressed in overalls and looks a lot like work.*
+> *he who would accomplish little must sacrifice little; he who would achieve much must sacrifice much; he who would attain highly must sacrifice greatly.*
 
 </div>
 <!-- quote-end -->

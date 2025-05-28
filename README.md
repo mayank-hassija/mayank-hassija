@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *long ago i compromised my eight hours a night.*
+> *we do not learn; and what we call learning is only a process of recollection.*
 
 </div>
 <!-- quote-end -->

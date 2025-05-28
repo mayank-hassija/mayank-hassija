@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *defeat is not the worst of failures. not to have tried is the true failure.*
+> *against criticism a man can neither protest nor defend himself; he must act in spite of it, and then it will gradually yield to him.*
 
 </div>
 <!-- quote-end -->

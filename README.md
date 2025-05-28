@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there has never been a truly great man that was not at the same time truly virtuous.*
+> *celebrate endings - for they precede new beginnings.*
 
 </div>
 <!-- quote-end -->

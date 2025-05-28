@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best way to sell yourself to others is first to sell the others to yourself.*
+> *everything in this book is a ‗what to do‘ suggestion so you can be better than you were. the really big question is not ‗what to do‘ but, ‗how do you do it?‘ everything is funny, as long as it's happening to somebody else.*
 
 </div>
 <!-- quote-end -->

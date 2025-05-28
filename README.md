@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everything in this book is a ‗what to do‘ suggestion so you can be better than you were. the really big question is not ‗what to do‘ but, ‗how do you do it?‘ everything is funny, as long as it's happening to somebody else.*
+> *long ago i compromised my eight hours a night.*
 
 </div>
 <!-- quote-end -->

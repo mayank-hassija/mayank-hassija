@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we tend to live up to our own expectations.*
+> *wisdom is the supreme part of happiness wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.*
 
 </div>
 <!-- quote-end -->

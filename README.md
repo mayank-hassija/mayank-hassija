@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he who would accomplish little must sacrifice little; he who would achieve much must sacrifice much; he who would attain highly must sacrifice greatly.*
+> *a good teacher is like a candle - it consumes itself to light the way for others.*
 
 </div>
 <!-- quote-end -->

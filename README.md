@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *just in terms of allocation of time resources, religion is not very efficient. there's a lot more i could be doing on a sunday morning.*
+> *we tend to live up to our own expectations.*
 
 </div>
 <!-- quote-end -->

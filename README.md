@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *enthusiasm is the yeast that makes your hopes shine to the stars. enthusiasm is the sparkle in your eyes, the swing in your gait. the grip of your hand, the irresistible surge of will and energy to execute your ideas.*
+> *you can create paradise on earth. many people do.*
 
 </div>
 <!-- quote-end -->

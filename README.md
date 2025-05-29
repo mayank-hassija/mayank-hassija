@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *pessimism never won any battle.*
+> *the true sign of intelligence is not knowledge but imagination.*
 
 </div>
 <!-- quote-end -->

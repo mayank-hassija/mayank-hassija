@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *big pay and little responsibility are circumstances seldom found together.*
+> *whatever you have, you must either use or lose.*
 
 </div>
 <!-- quote-end -->

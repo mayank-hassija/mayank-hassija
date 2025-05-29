@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wealth, like happiness, is never attained when sought after directly. it comes as a byproduct of providing a useful service.*
+> *if past history was all there was to the game, the richest people would be librarians.*
 
 </div>
 <!-- quote-end -->

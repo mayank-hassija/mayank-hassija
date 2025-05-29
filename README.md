@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the weak can never forgive. forgiveness is the attribute of the strong.*
+> *stand a little less between me and the sun.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *modesty is the only sure bait when you angle for praise.*
+> *pessimism never won any battle.*
 
 </div>
 <!-- quote-end -->

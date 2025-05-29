@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the good man is the friend of all living things.*
+> *this and no other is the root from which a tyrant springs; when he first appears he is a protector.*
 
 </div>
 <!-- quote-end -->

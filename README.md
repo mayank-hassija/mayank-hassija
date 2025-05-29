@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you can't feed a hundred people, then just feed one.*
+> *greatness lies not in being strong, but in the right use of strength.*
 
 </div>
 <!-- quote-end -->

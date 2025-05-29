@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life – must be present to win!*
+> *formal education will make you a living, self-education will make you a fortune.*
 
 </div>
 <!-- quote-end -->

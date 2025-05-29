@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *greatness lies not in being strong, but in the right use of strength.*
+> *modesty is the only sure bait when you angle for praise.*
 
 </div>
 <!-- quote-end -->

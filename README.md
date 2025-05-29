@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.*
+> *be where the luck is.*
 
 </div>
 <!-- quote-end -->

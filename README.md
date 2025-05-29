@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *formal education will make you a living, self-education will make you a fortune.*
+> *luck? i don't know anything about luck. i've never banked on it and i'm afraid of people who do. luck to me is something else: hard work -- and realizing what is opportunity and what isn't.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *this and no other is the root from which a tyrant springs; when he first appears he is a protector.*
+> *life – must be present to win!*
 
 </div>
 <!-- quote-end -->

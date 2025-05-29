@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the true sign of intelligence is not knowledge but imagination.*
+> *the weak can never forgive. forgiveness is the attribute of the strong.*
 
 </div>
 <!-- quote-end -->

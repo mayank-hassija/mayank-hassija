@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones.*
+> *in the end, we will remember not the words of our enemies, but the silence of our friends.*
 
 </div>
 <!-- quote-end -->

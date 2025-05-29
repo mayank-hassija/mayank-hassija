@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if past history was all there was to the game, the richest people would be librarians.*
+> *the rarest quality in an epitaph is truth.*
 
 </div>
 <!-- quote-end -->

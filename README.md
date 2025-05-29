@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the rarest quality in an epitaph is truth.*
+> *develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.*
 
 </div>
 <!-- quote-end -->

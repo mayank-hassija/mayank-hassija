@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *luck? i don't know anything about luck. i've never banked on it and i'm afraid of people who do. luck to me is something else: hard work -- and realizing what is opportunity and what isn't.*
+> *wealth, like happiness, is never attained when sought after directly. it comes as a byproduct of providing a useful service.*
 
 </div>
 <!-- quote-end -->

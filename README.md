@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *celebrate endings - for they precede new beginnings.*
+> *your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever you have, you must either use or lose.*
+> *if you can't feed a hundred people, then just feed one.*
 
 </div>
 <!-- quote-end -->

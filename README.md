@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in the end, we will remember not the words of our enemies, but the silence of our friends.*
+> *the good man is the friend of all living things.*
 
 </div>
 <!-- quote-end -->

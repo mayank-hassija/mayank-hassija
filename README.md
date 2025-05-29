@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if gm had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 mpg.*
+> *big pay and little responsibility are circumstances seldom found together.*
 
 </div>
 <!-- quote-end -->

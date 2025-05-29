@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be where the luck is.*
+> *if gm had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 mpg.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never take a wife until you have a house to put her in.*
+> *the size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.*
 
 </div>
 <!-- quote-end -->

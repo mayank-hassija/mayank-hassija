@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all achievements, all earned riches, have their beginning in an idea.*
+> *marketing is what you do when your product is no good.*
 
 </div>
 <!-- quote-end -->

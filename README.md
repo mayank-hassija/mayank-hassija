@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *have fun. the single key to a successful happy life is finding a vocation you enjoy - one that excites you the most.*
+> *never take a wife until you have a house to put her in.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you must take personal responsibility. you cannot change the circumstances, the seasons, or the wind, but you can change yourself. that is something you have charge of.*
+> *self-respect knows no considerations.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think a lot of developments start with the desire of the developer to get what he really wants so that he can use it. it's not just the technical fascination or the business opportunity.*
+> *all achievements, all earned riches, have their beginning in an idea.*
 
 </div>
 <!-- quote-end -->

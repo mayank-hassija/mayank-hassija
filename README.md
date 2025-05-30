@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the miracle is not that we do this work, but that we are happy to do it.*
+> *no matter how you feel, get up, dress up, and show up.*
 
 </div>
 <!-- quote-end -->

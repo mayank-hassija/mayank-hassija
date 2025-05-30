@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *mistakes are necessary learning steps. they are merely the steps up the ladder.*
+> *have fun. the single key to a successful happy life is finding a vocation you enjoy - one that excites you the most.*
 
 </div>
 <!-- quote-end -->

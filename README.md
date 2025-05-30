@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great things are not done by impulse, but by a series of small things brought together.*
+> *there is no comparison between that which is lost by not succeeding and that which is lost by not trying.*
 
 </div>
 <!-- quote-end -->

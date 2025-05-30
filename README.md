@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do to others as you would have them do to you.*
+> *outside of yourself, you control nothing… but you can manage anything.*
 
 </div>
 <!-- quote-end -->

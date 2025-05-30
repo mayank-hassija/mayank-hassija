@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *outside of yourself, you control nothing… but you can manage anything.*
+> *my life is my message.*
 
 </div>
 <!-- quote-end -->

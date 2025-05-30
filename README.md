@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *cry with someone. it's more healing than crying alone.*
+> *great things are not done by impulse, but by a series of small things brought together.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.*
+> *do to others as you would have them do to you.*
 
 </div>
 <!-- quote-end -->

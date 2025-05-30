@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *self-respect knows no considerations.*
+> *go in search of something to fall in love with... something about yourself, your career, your spouse.*
 
 </div>
 <!-- quote-end -->

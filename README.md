@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather in a lack of will. the will to succeed is critical to having the things you want.*
+> *cry with someone. it's more healing than crying alone.*
 
 </div>
 <!-- quote-end -->

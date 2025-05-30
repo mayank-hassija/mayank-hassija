@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *stand a little less between me and the sun.*
+> *the miracle is not that we do this work, but that we are happy to do it.*
 
 </div>
 <!-- quote-end -->

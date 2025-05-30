@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no comparison between that which is lost by not succeeding and that which is lost by not trying.*
+> *experience is a revelation in the light of which we renounce our errors of youth for those of age.*
 
 </div>
 <!-- quote-end -->

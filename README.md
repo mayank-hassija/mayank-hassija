@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *marketing is what you do when your product is no good.*
+> *an idea, like a ghost, must be spoken to a little before it will explain itself.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *disneyland is the star of the show, everything else is the supporting cast.*
+> *i hope i shall possess firmness and virtue enough to maintain what i consider the most enviable of all titles, the character of an honest man.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *move out of your comfort zone. you can only grow if you are willing to feel awkward and uncomfortable when you try something new.*
+> *our history begins before we are born. we represent the hereditary influences of our race, and our ancestors virtually live in us.*
 
 </div>
 <!-- quote-end -->

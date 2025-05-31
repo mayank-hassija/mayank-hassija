@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an error does not become truth by reason of multiplied propagation, nor does truth become error because nobody sees it.*
+> *pure mathematics is, in its way, the poetry of logical ideas.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *pure mathematics is, in its way, the poetry of logical ideas.*
+> *move out of your comfort zone. you can only grow if you are willing to feel awkward and uncomfortable when you try something new.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you must be the change you wish to see in the world.*
+> *do the best you can, and don't take life too serious.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *against criticism a man can neither protest nor defend himself; he must act in spite of it, and then it will gradually yield to him.*
+> *an error does not become truth by reason of multiplied propagation, nor does truth become error because nobody sees it.*
 
 </div>
 <!-- quote-end -->

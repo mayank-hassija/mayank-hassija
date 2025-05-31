@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the income tax has made liars out of more americans than golf.*
+> *against criticism a man can neither protest nor defend himself; he must act in spite of it, and then it will gradually yield to him.*
 
 </div>
 <!-- quote-end -->

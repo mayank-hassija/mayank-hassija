@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life shrinks or expands in proportion to one's courage.*
+> *if you cannot do great things, do small things in a great way.*
 
 </div>
 <!-- quote-end -->

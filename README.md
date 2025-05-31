@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let your hopes, not your hurts, shape your future.*
+> *happiness is nothing more than good health and a bad memory.*
 
 </div>
 <!-- quote-end -->

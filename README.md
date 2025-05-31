@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *as a single footstep will not make a path on the earth, so a single thought will not make a pathway to the mind. to make a deep physical path, we walk again and again. to make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives.*
+> *life shrinks or expands in proportion to one's courage.*
 
 </div>
 <!-- quote-end -->

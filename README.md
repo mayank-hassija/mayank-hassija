@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you cannot do great things, do small things in a great way.*
+> *the income tax has made liars out of more americans than golf.*
 
 </div>
 <!-- quote-end -->

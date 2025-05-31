@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is the supreme art of the teacher to awaken joy in creative expression and knowledge.*
+> *as a single footstep will not make a path on the earth, so a single thought will not make a pathway to the mind. to make a deep physical path, we walk again and again. to make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives.*
 
 </div>
 <!-- quote-end -->

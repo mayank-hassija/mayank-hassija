@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not repeat anything you will not sign your name to.*
+> *let your hopes, not your hurts, shape your future.*
 
 </div>
 <!-- quote-end -->

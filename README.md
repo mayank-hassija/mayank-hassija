@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all these primary impulses, not easily described in words, are the springs of man's actions.*
+> *i think an education is not only important, it is the most important thing you can do with your life.*
 
 </div>
 <!-- quote-end -->

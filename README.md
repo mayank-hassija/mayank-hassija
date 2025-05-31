@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do the best you can, and don't take life too serious.*
+> *disneyland is the star of the show, everything else is the supporting cast.*
 
 </div>
 <!-- quote-end -->

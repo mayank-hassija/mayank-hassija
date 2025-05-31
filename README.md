@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think an education is not only important, it is the most important thing you can do with your life.*
+> *it is the supreme art of the teacher to awaken joy in creative expression and knowledge.*
 
 </div>
 <!-- quote-end -->

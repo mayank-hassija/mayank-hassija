@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when someone shows you who they are, believe them the first time.*
+> *do not repeat anything you will not sign your name to.*
 
 </div>
 <!-- quote-end -->

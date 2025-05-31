@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you can‘t do great things, do small things in a great way.*
+> *when someone shows you who they are, believe them the first time.*
 
 </div>
 <!-- quote-end -->

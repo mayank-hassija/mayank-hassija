@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our history begins before we are born. we represent the hereditary influences of our race, and our ancestors virtually live in us.*
+> *worthless people live only to eat and drink; people of worth eat and drink only to live.*
 
 </div>
 <!-- quote-end -->

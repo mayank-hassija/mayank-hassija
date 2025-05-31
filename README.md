@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i hope i shall possess firmness and virtue enough to maintain what i consider the most enviable of all titles, the character of an honest man.*
+> *all these primary impulses, not easily described in words, are the springs of man's actions.*
 
 </div>
 <!-- quote-end -->

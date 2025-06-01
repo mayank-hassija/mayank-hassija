@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *better understated than overstated. let people be surprised that it was more than you promised and easier than you said.*
+> *be where the luck is.*
 
 </div>
 <!-- quote-end -->

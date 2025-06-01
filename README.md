@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most of the successful people i've known are the ones who do more listening than talking.*
+> *a lot of competition will keep any business on its toes.*
 
 </div>
 <!-- quote-end -->

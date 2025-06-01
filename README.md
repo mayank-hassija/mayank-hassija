@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the greatest achievement was at first and for a time a dream. the oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs. dreams are the seedlings of realities.*
+> *experience is a dear teacher, but fools will learn no other way.*
 
 </div>
 <!-- quote-end -->

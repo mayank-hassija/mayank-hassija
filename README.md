@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are what we think we are. we do based on what we think we are.*
+> *it's not what you pay a man, but what he costs you that counts.*
 
 </div>
 <!-- quote-end -->

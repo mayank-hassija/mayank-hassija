@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's not what you pay a man, but what he costs you that counts.*
+> *most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit.*
 
 </div>
 <!-- quote-end -->

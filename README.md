@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *guard well within yourself that treasure known as kindness. know how to give without hesitation, how to lose without regret, how to acquire without meanness.*
+> *better understated than overstated. let people be surprised that it was more than you promised and easier than you said.*
 
 </div>
 <!-- quote-end -->

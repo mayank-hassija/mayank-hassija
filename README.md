@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit.*
+> *guard well within yourself that treasure known as kindness. know how to give without hesitation, how to lose without regret, how to acquire without meanness.*
 
 </div>
 <!-- quote-end -->

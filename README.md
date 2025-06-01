@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are people who can do all fine and heroic things but one - keep from telling their happiness to the unhappy.*
+> *failure is a detour, not a dead-end street.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *worthless people live only to eat and drink; people of worth eat and drink only to live.*
+> *to live in the presence of great truths and eternal laws, to be led by permanent ideals – that is what keeps a man patient when the world ignores him, and calm and unspoiled when the world praises him.*
 
 </div>
 <!-- quote-end -->

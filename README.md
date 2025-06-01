@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life's easy when you live it the hard way... and hard if you try to live it the easy way.*
+> *how to get more of what you want: always attract. never attack.*
 
 </div>
 <!-- quote-end -->

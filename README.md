@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all successful men and women are big dreamers. they imagine what their future could be, ideal in every respect, and then they work every day toward their distant vision, that goal or purpose.*
+> *life's easy when you live it the hard way... and hard if you try to live it the easy way.*
 
 </div>
 <!-- quote-end -->

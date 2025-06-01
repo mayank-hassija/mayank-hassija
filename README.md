@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nothing in the affairs of men is worthy of great anxiety.*
+> *we are what we think we are. we do based on what we think we are.*
 
 </div>
 <!-- quote-end -->

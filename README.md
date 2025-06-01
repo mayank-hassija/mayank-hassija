@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure is a detour, not a dead-end street.*
+> *today will never happen again. don't waste it with a false start or no start at all.*
 
 </div>
 <!-- quote-end -->

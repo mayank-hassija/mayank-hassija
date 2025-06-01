@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how to get more of what you want: always attract. never attack.*
+> *there are people who can do all fine and heroic things but one - keep from telling their happiness to the unhappy.*
 
 </div>
 <!-- quote-end -->

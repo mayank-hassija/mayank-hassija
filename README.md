@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to live in the presence of great truths and eternal laws, to be led by permanent ideals – that is what keeps a man patient when the world ignores him, and calm and unspoiled when the world praises him.*
+> *all successful men and women are big dreamers. they imagine what their future could be, ideal in every respect, and then they work every day toward their distant vision, that goal or purpose.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is either a great adventure or nothing.*
+> *the greatest achievement was at first and for a time a dream. the oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs. dreams are the seedlings of realities.*
 
 </div>
 <!-- quote-end -->

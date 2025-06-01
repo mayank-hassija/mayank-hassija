@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience is a dear teacher, but fools will learn no other way.*
+> *biology is the least of what makes someone a mother.*
 
 </div>
 <!-- quote-end -->

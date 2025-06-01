@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a lot of competition will keep any business on its toes.*
+> *courage is what it takes to stand up and speak. courage is also what it takes to sit down courtesy is as much a mark of a gentleman as courage.*
 
 </div>
 <!-- quote-end -->

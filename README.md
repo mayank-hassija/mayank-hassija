@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *today will never happen again. don't waste it with a false start or no start at all.*
+> *most of the successful people i've known are the ones who do more listening than talking.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be where the luck is.*
+> *life is either a great adventure or nothing.*
 
 </div>
 <!-- quote-end -->

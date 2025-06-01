@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *courage is what it takes to stand up and speak. courage is also what it takes to sit down courtesy is as much a mark of a gentleman as courage.*
+> *nothing in the affairs of men is worthy of great anxiety.*
 
 </div>
 <!-- quote-end -->

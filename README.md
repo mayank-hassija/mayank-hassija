@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never apologize for showing feeling. when you do so, you apologize for truth.*
+> *it's always too early to quit.*
 
 </div>
 <!-- quote-end -->

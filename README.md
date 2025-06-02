@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the movies are the only business where you can go out front and applaud yourself.*
+> *never reward negative behavior in a child or an adult. whatever you reward, you get more of.*
 
 </div>
 <!-- quote-end -->

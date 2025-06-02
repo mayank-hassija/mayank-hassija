@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the question isn't who is going to let me?; it's who is going to stop me?*
+> *arise awake and stop not till the goal is reached.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *where there is no struggle, there is no strength.*
+> *to begin to think with purpose, is to enter the ranks of those strong ones who only recognize failure as one of the pathways to attainment.*
 
 </div>
 <!-- quote-end -->

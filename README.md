@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *animation can best explain whatever the mind of man can conceive. this facility makes it the most versatile and explicit means of communication yet devised for quick mass appreciation.*
+> *mickey mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from manhattan to hollywood at a time when business fortunes of my brother roy and myself were at lowest ebb and disaster seemed right around the corner.*
 
 </div>
 <!-- quote-end -->

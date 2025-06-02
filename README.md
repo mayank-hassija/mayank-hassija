@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a professional is nothing more than an amateur who never stopped trying.*
+> *you have to perform at a consistently higher level than others. that's the mark of a true professional.*
 
 </div>
 <!-- quote-end -->

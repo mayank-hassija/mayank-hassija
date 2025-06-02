@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the greatest mistake you can make in life is to be continually fearing you will make one.*
+> *never tell people how to do things. tell them what to do and they will surprise you with their ingenuity.*
 
 </div>
 <!-- quote-end -->

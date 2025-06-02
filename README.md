@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's always too early to quit.*
+> *unless commitment is made, there are only promises and hopes...but no plans.*
 
 </div>
 <!-- quote-end -->

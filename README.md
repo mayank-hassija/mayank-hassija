@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what others think of you is none of your business.*
+> *the movies are the only business where you can go out front and applaud yourself.*
 
 </div>
 <!-- quote-end -->

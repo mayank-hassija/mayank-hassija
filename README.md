@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never reward negative behavior in a child or an adult. whatever you reward, you get more of.*
+> *the privilege of a lifetime is being who you are.*
 
 </div>
 <!-- quote-end -->

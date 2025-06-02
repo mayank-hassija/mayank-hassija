@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great minds must be ready not only to take opportunities, but to make them.*
+> *animation can best explain whatever the mind of man can conceive. this facility makes it the most versatile and explicit means of communication yet devised for quick mass appreciation.*
 
 </div>
 <!-- quote-end -->

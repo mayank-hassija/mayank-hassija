@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *relationships are the hallmark of the mature person.*
+> *where there is no struggle, there is no strength.*
 
 </div>
 <!-- quote-end -->

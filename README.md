@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *unless commitment is made, there are only promises and hopes...but no plans.*
+> *a professional is nothing more than an amateur who never stopped trying.*
 
 </div>
 <!-- quote-end -->

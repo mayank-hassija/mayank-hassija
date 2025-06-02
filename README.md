@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *produce more than you consume.*
+> *the greatest mistake you can make in life is to be continually fearing you will make one.*
 
 </div>
 <!-- quote-end -->

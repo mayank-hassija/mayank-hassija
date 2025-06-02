@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *biology is the least of what makes someone a mother.*
+> *produce more than you consume.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the privilege of a lifetime is being who you are.*
+> *there is no substitute for hard work, 23 or 24 hours a day. and there is no substitute for patience and acceptance.*
 
 </div>
 <!-- quote-end -->

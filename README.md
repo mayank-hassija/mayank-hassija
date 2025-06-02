@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never tell people how to do things. tell them what to do and they will surprise you with their ingenuity.*
+> *great minds must be ready not only to take opportunities, but to make them.*
 
 </div>
 <!-- quote-end -->

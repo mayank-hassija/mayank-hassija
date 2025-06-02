@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *arise awake and stop not till the goal is reached.*
+> *never apologize for showing feeling. when you do so, you apologize for truth.*
 
 </div>
 <!-- quote-end -->

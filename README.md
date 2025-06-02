@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to begin to think with purpose, is to enter the ranks of those strong ones who only recognize failure as one of the pathways to attainment.*
+> *the question isn't who is going to let me?; it's who is going to stop me?*
 
 </div>
 <!-- quote-end -->

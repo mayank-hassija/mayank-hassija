@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *mickey mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from manhattan to hollywood at a time when business fortunes of my brother roy and myself were at lowest ebb and disaster seemed right around the corner.*
+> *it was a favorite expression of theophrastus that time was the most valuable thing that a man could spend.*
 
 </div>
 <!-- quote-end -->

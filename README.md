@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it was a favorite expression of theophrastus that time was the most valuable thing that a man could spend.*
+> *relationships are the hallmark of the mature person.*
 
 </div>
 <!-- quote-end -->

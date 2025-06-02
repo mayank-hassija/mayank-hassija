@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you have to perform at a consistently higher level than others. that's the mark of a true professional.*
+> *what others think of you is none of your business.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you can't feed a hundred people, then just feed one.*
+> *if you think you can or think you can‘t, you‘re right.*
 
 </div>
 <!-- quote-end -->

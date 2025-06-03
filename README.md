@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes 20 years to build a reputation and five minutes to ruin it. if you think about that, you'll do things differently.*
+> *the only limits to the possibilities in your life tomorrow are the buts you use today.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. if you do that, you're in control of your life. if you don't, life controls you.*
+> *great minds have purposes, others have wishes.*
 
 </div>
 <!-- quote-end -->

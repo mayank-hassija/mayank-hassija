@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only limits to the possibilities in your life tomorrow are the buts you use today.*
+> *whoever undertakes to set himself up as a judge of truth and knowledge is shipwrecked by the laughter of the gods.*
 
 </div>
 <!-- quote-end -->

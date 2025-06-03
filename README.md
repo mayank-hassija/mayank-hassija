@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you cannot do a kindness too soon, for you never know how soon it will be too late.*
+> *a problem well stated is a problem half-solved.*
 
 </div>
 <!-- quote-end -->

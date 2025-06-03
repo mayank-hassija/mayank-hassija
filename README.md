@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great minds have purposes, others have wishes.*
+> *in the practice of tolerance, one's enemy is the best teacher.*
 
 </div>
 <!-- quote-end -->

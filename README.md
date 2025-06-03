@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the crystal-clear, laser-focused, single most important, (written) vision of the future you, combined with a ‗world class level of commitment to the completion‘ of your stated purpose, and the bullet-proof faith that you can and always will ‗take the next single necessary step‘ in the direction of the biggest single goal in your life along with the endless depth of your sincere gratitude is how you can attract into your life anything you decide you either need or want. life operates like a bank. it will ‗cash absolutely any size check you write‘… with your mind.*
+> *the happiest people don't necessarily have the best of everything; they just make the most of everything they have.*
 
 </div>
 <!-- quote-end -->

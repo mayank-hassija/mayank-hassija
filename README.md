@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *perhaps the single most important element in mastering the techniques and tactics of racing is experience. but once you have the fundamentals, acquiring the experience is a matter of time.*
+> *the secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. if you do that, you're in control of your life. if you don't, life controls you.*
 
 </div>
 <!-- quote-end -->

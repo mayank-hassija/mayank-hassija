@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a problem well stated is a problem half-solved.*
+> *keep fully insured physically and materially and keep hedged emotionally.*
 
 </div>
 <!-- quote-end -->

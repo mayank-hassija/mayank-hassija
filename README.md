@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in the practice of tolerance, one's enemy is the best teacher.*
+> *though we may know him by a thousand names, he is one and the same to us all.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *keep fully insured physically and materially and keep hedged emotionally.*
+> *once made equal to man, woman becomes his superior.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.*
+> *you cannot do a kindness too soon, for you never know how soon it will be too late.*
 
 </div>
 <!-- quote-end -->

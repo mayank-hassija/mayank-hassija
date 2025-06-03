@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *though we may know him by a thousand names, he is one and the same to us all.*
+> *knowing others is intelligence; knowing yourself is true wisdom. mastering others is strength; mastering yourself is true power.*
 
 </div>
 <!-- quote-end -->

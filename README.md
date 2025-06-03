@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no substitute for hard work, 23 or 24 hours a day. and there is no substitute for patience and acceptance.*
+> *perhaps the single most important element in mastering the techniques and tactics of racing is experience. but once you have the fundamentals, acquiring the experience is a matter of time.*
 
 </div>
 <!-- quote-end -->

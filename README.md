@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the happiest people don't necessarily have the best of everything; they just make the most of everything they have.*
+> *when the mind is thinking it is talking to itself.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when the mind is thinking it is talking to itself.*
+> *if you can't feed a hundred people, then just feed one.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whoever undertakes to set himself up as a judge of truth and knowledge is shipwrecked by the laughter of the gods.*
+> *time is more value than money. you can get more money, but you cannot get more time.*
 
 </div>
 <!-- quote-end -->

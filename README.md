@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *time is more value than money. you can get more money, but you cannot get more time.*
+> *happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.*
 
 </div>
 <!-- quote-end -->

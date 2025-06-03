@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *once made equal to man, woman becomes his superior.*
+> *a thousand words will not leave so deep an impression as one deed.*
 
 </div>
 <!-- quote-end -->

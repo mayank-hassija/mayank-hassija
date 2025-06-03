@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the perception of beauty is a moral test.*
+> *it takes 20 years to build a reputation and five minutes to ruin it. if you think about that, you'll do things differently.*
 
 </div>
 <!-- quote-end -->

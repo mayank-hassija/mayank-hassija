@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you think you can or think you can‘t, you‘re right.*
+> *the perception of beauty is a moral test.*
 
 </div>
 <!-- quote-end -->

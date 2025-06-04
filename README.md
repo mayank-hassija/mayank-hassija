@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.*
+> *nearly everything you do is of no importance, but it is important that you do it.*
 
 </div>
 <!-- quote-end -->

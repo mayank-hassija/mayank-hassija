@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.*
+> *no army can withstand the strength of an idea whose time has come.*
 
 </div>
 <!-- quote-end -->

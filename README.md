@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nearly everything you do is of no importance, but it is important that you do it.*
+> *there is no harm in repeating a good thing.*
 
 </div>
 <!-- quote-end -->

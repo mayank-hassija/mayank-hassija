@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you have made mistakes, even serious ones, there is always another chance for you. what we call failure is not the falling down but the staying down.*
+> *there are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.*
 
 </div>
 <!-- quote-end -->

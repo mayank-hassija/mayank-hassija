@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no person has the right to rain on your dreams.*
+> *if you have made mistakes, even serious ones, there is always another chance for you. what we call failure is not the falling down but the staying down.*
 
 </div>
 <!-- quote-end -->

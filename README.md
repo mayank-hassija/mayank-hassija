@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *man is made or unmade by himself. by the right choice he ascends. as a being of power, intelligence, and love, and the lord of his own thoughts, he holds the key to every situation.*
+> *cowards die many times before their actual deaths.*
 
 </div>
 <!-- quote-end -->

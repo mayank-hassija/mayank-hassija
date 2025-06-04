@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no harm in repeating a good thing.*
+> *eat to please yourself, but dress to please others.*
 
 </div>
 <!-- quote-end -->

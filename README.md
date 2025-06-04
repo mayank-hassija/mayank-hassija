@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *science may have found a cure for most evils; but it has found no remedy for the worst of them all - the apathy of human beings.*
+> *people who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.*
 
 </div>
 <!-- quote-end -->

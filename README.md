@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *for every person who doubts you, tells you you will fail, try twice as hard to prove them wrong.*
+> *the three keys to managing your attitude are: reinforce; reinforce; reinforce.*
 
 </div>
 <!-- quote-end -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *eat to please yourself, but dress to please others.*
+> *genius is one percent inspiration and ninety-nine percent perspiration.*
 
 </div>
 <!-- quote-end -->

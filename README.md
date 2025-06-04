@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *opportunity is missed by most because it is dressed in overalls and looks a lot like work.*
+> *human beings, by changing the inner attitudes of their minds, can change the outer aspects of their lives.*
 
 </div>
 <!-- quote-end -->

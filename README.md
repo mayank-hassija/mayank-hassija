@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *memory is the treasury and guardian of all things.*
+> *man is made or unmade by himself. by the right choice he ascends. as a being of power, intelligence, and love, and the lord of his own thoughts, he holds the key to every situation.*
 
 </div>
 <!-- quote-end -->

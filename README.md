@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we will never have true civilization until we have learned to recognize the rights of others.*
+> *for every person who doubts you, tells you you will fail, try twice as hard to prove them wrong.*
 
 </div>
 <!-- quote-end -->

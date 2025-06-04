@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the battle is all over except the "shouting" when one knows what is wanted and has made up his mind to get it, whatever the price may be.*
+> *memory is the treasury and guardian of all things.*
 
 </div>
 <!-- quote-end -->

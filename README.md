@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the three keys to managing your attitude are: reinforce; reinforce; reinforce.*
+> *the best surprise is when there are no surprises in a business transaction.*
 
 </div>
 <!-- quote-end -->

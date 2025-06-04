@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best surprise is when there are no surprises in a business transaction.*
+> *i would rather be right than be the president.*
 
 </div>
 <!-- quote-end -->

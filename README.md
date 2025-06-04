@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a thousand words will not leave so deep an impression as one deed.*
+> *opportunity is missed by most because it is dressed in overalls and looks a lot like work.*
 
 </div>
 <!-- quote-end -->

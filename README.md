@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one knows whether death, which people fear to be the greatest evil, may not be the greatest good.*
+> *science may have found a cure for most evils; but it has found no remedy for the worst of them all - the apathy of human beings.*
 
 </div>
 <!-- quote-end -->

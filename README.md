@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *human beings, by changing the inner attitudes of their minds, can change the outer aspects of their lives.*
+> *there is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.*
 
 </div>
 <!-- quote-end -->

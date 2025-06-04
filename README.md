@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=mayank-hassija&theme=default)](https://git.io/streak-stats)
-
 ![top](https://github.com/user-attachments/assets/c0ff87ae-14a3-4edd-a449-ee6e0e2f73f5)
 
 <!-- quote-start -->

@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i would rather be right than be the president.*
+> *no person has the right to rain on your dreams.*
 
 </div>
 <!-- quote-end -->

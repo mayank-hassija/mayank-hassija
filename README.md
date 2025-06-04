@@ -4,7 +4,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are moments when all anxiety and stated toil are becalmed in the infinite leisure and repose of nature.*
+> *humor is mankind's greatest blessing.*
 
 </div>
 <!-- quote-end -->

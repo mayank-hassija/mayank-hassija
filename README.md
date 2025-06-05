@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nature cannot be tricked or cheated. she will give up to you the object of your struggles only after you have paid her price.*
+> *it is easier to do a job right than to explain why you didn't.*
 
 </div>
 <!-- quote-end -->

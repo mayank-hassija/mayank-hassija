@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i hope you never get everything you want. if you did, you‘d have nothing to look forward to.*
+> *take time to gather up the past so that you will be able to draw from your experience and invest them in the future.*
 
 </div>
 <!-- quote-end -->

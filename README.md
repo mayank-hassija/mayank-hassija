@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the business schools reward difficult complex behavior more than simple behavior, but simple behavior is more effective.*
+> *i hope you never get everything you want. if you did, you‘d have nothing to look forward to.*
 
 </div>
 <!-- quote-end -->

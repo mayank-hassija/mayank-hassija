@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think it's fair to say that personal computers have become the most empowering tool we've ever created. they're tools of communication, they're tools of creativity, and they can be shaped by their user.*
+> *nature cannot be tricked or cheated. she will give up to you the object of your struggles only after you have paid her price.*
 
 </div>
 <!-- quote-end -->

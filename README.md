@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *cowards die many times before their actual deaths.*
+> *the business schools reward difficult complex behavior more than simple behavior, but simple behavior is more effective.*
 
 </div>
 <!-- quote-end -->

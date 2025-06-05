@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is easier to do a job right than to explain why you didn't.*
+> *respect commands itself and can neither be given nor withheld when it is due.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take time to gather up the past so that you will be able to draw from your experience and invest them in the future.*
+> *i think it's fair to say that personal computers have become the most empowering tool we've ever created. they're tools of communication, they're tools of creativity, and they can be shaped by their user.*
 
 </div>
 <!-- quote-end -->

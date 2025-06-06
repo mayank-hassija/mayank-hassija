@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.*
+> *thousands of geniuses live and die undiscovered - either by themselves or by others.*
 
 </div>
 <!-- quote-end -->

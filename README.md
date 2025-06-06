@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great spirits have always encountered violent opposition from mediocre minds.*
+> *it‘s never too late to learn something new.*
 
 </div>
 <!-- quote-end -->

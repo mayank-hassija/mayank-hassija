@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we do not need to proselytize either by our speech or by our writing. we can only do so really with our lives. let our lives be open books for all to study.*
+> *you can't understand the present if you don't understand the past...*
 
 </div>
 <!-- quote-end -->

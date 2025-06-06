@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *respect commands itself and can neither be given nor withheld when it is due.*
+> *the reason that fiction is more interesting than any other form of literature, to those who really like to study people, is that in fiction the author can really tell the truth without humiliating himself.*
 
 </div>
 <!-- quote-end -->

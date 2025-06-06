@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *thousands of geniuses live and die undiscovered - either by themselves or by others.*
+> *far away there in the sunshine… are my highest aspirations. i may not reach them, but i can look up and see their beauty, believe in them, and try to follow where they lead.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't understand the present if you don't understand the past...*
+> *anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.*
 
 </div>
 <!-- quote-end -->

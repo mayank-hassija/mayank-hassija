@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the reason that fiction is more interesting than any other form of literature, to those who really like to study people, is that in fiction the author can really tell the truth without humiliating himself.*
+> *we do not need to proselytize either by our speech or by our writing. we can only do so really with our lives. let our lives be open books for all to study.*
 
 </div>
 <!-- quote-end -->

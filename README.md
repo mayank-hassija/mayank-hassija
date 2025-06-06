@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *far away there in the sunshine… are my highest aspirations. i may not reach them, but i can look up and see their beauty, believe in them, and try to follow where they lead.*
+> *great spirits have always encountered violent opposition from mediocre minds.*
 
 </div>
 <!-- quote-end -->

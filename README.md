@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the learning and knowledge that we have, is, at the most, but little compared with that of which we are ignorant.*
+> *it isn't what you have, or who you are, or where you are, or what you‘re doing that makes you happy or unhappy. it is what you think about.*
 
 </div>
 <!-- quote-end -->

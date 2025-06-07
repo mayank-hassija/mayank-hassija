@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i don't believe in pessimism. if something doesn't come up the way you want, forge ahead. if you think it's going to rain, it will.*
+> *find an excuse to laugh every chance you get, especially when you least feel like it.*
 
 </div>
 <!-- quote-end -->

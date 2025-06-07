@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it‘s never too late to learn something new.*
+> *the learning and knowledge that we have, is, at the most, but little compared with that of which we are ignorant.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it isn't what you have, or who you are, or where you are, or what you‘re doing that makes you happy or unhappy. it is what you think about.*
+> *it is not desirable to cultivate a respect for the law, so much as for the right.*
 
 </div>
 <!-- quote-end -->

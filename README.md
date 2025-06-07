@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *more important than talent, strength, or knowledge is the ability to laugh at yourself and enjoy the pursuit of your dreams.*
+> *a table, a chair, a bowl of fruit and music; what else does a man need to be happy?*
 
 </div>
 <!-- quote-end -->

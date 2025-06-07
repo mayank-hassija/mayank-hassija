@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *find an excuse to laugh every chance you get, especially when you least feel like it.*
+> *more important than talent, strength, or knowledge is the ability to laugh at yourself and enjoy the pursuit of your dreams.*
 
 </div>
 <!-- quote-end -->

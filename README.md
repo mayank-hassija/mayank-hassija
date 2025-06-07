@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is not desirable to cultivate a respect for the law, so much as for the right.*
+> *i don't believe in pessimism. if something doesn't come up the way you want, forge ahead. if you think it's going to rain, it will.*
 
 </div>
 <!-- quote-end -->

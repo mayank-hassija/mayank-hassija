@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a table, a chair, a bowl of fruit and music; what else does a man need to be happy?*
+> *life is an exciting business, and most exciting when it is lived for others.*
 
 </div>
 <!-- quote-end -->

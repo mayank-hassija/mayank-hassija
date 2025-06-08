@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *today, you have 100% of your life left.*
+> *no one ever teaches well who wants to teach, or governs well who wants to govern.*
 
 </div>
 <!-- quote-end -->

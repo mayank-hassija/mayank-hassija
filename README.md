@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all this worldly wisdom was once the unimaginable heresy of one wise man.*
+> *the ladder of success is best climbed by stepping on the rungs of opportunity.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when everything seems to be going against you, remember that the airplane takes off against the wind, not with it.*
+> *love is always bestowed as a gift - freely, willingly and without expectation. we don't love to be loved; we love to love.*
 
 </div>
 <!-- quote-end -->

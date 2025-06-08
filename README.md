@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love is always bestowed as a gift - freely, willingly and without expectation. we don't love to be loved; we love to love.*
+> *if we wish to free ourselves from enslavement, we must choose freedom and the responsibility this entails.*
 
 </div>
 <!-- quote-end -->

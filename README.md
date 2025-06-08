@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is an exciting business, and most exciting when it is lived for others.*
+> *when everything seems to be going against you, remember that the airplane takes off against the wind, not with it.*
 
 </div>
 <!-- quote-end -->

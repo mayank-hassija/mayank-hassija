@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if we wish to free ourselves from enslavement, we must choose freedom and the responsibility this entails.*
+> *the first half of your life, you will feel like lack of money is your biggest limitation. the second half of your life, you will feel like lack of time is your biggest limitation.*
 
 </div>
 <!-- quote-end -->

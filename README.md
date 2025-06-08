@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the first half of your life, you will feel like lack of money is your biggest limitation. the second half of your life, you will feel like lack of time is your biggest limitation.*
+> *today, you have 100% of your life left.*
 
 </div>
 <!-- quote-end -->

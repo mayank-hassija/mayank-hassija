@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the ladder of success is best climbed by stepping on the rungs of opportunity.*
+> *the right word may be effective, but no word was ever as effective as a rightly timed pause.*
 
 </div>
 <!-- quote-end -->

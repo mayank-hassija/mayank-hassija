@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no such thing as "just a little theft" or "just a little dishonesty".*
+> *the secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. if you do that, you're in control of your life. if you don't, life controls you.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the right word may be effective, but no word was ever as effective as a rightly timed pause.*
+> *develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.*
 
 </div>
 <!-- quote-end -->

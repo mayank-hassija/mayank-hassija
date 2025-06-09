@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever the difference between brilliant and average brains, we are all creative. and through practice and study we can enhance our skills and talents.*
+> *there are some things you don‘t have to know how it works—only that it works. while some people are studying the roots, others are picking the fruit. it just depends on which end of this you want to get in on.*
 
 </div>
 <!-- quote-end -->

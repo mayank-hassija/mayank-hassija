@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is simple. do what's right, the right way, at the right time.*
+> *whatever the difference between brilliant and average brains, we are all creative. and through practice and study we can enhance our skills and talents.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. if you do that, you're in control of your life. if you don't, life controls you.*
+> *success is simple. do what's right, the right way, at the right time.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.*
+> *loyalty is something you give regardless of what you get back, and in giving loyalty, you're getting more loyalty; and out of loyalty flow other great qualities.*
 
 </div>
 <!-- quote-end -->

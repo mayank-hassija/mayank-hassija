@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *loyalty is something you give regardless of what you get back, and in giving loyalty, you're getting more loyalty; and out of loyalty flow other great qualities.*
+> *there is no such thing as "just a little theft" or "just a little dishonesty".*
 
 </div>
 <!-- quote-end -->

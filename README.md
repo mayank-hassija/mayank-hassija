@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the sum of wisdom is that time is never lost that is devoted to work.*
+> *name the greatest of all inventors. accident.*
 
 </div>
 <!-- quote-end -->

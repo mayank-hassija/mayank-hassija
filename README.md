@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most important choices you'll ever make are how you use your time.*
+> *happiness is that state of consciousness which proceeds from the achievement of one's values.*
 
 </div>
 <!-- quote-end -->

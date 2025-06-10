@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *name the greatest of all inventors. accident.*
+> *a mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.*
 
 </div>
 <!-- quote-end -->

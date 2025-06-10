@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *happiness is that state of consciousness which proceeds from the achievement of one's values.*
+> *action is the ultimate measure of intelligence.*
 
 </div>
 <!-- quote-end -->

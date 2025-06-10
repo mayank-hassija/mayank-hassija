@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to go beyond is as wrong as to fall short.*
+> *the most important choices you'll ever make are how you use your time.*
 
 </div>
 <!-- quote-end -->

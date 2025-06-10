@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a mediocre idea that generates enthusiasm will go further than a great idea that inspires no one.*
+> *to go beyond is as wrong as to fall short.*
 
 </div>
 <!-- quote-end -->

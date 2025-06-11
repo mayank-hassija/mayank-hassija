@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most precious things in life cannot be made by hand or bought by man.*
+> *when fate hands you a lemon, make lemonade.*
 
 </div>
 <!-- quote-end -->

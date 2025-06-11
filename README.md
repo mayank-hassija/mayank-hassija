@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when fate hands you a lemon, make lemonade.*
+> *the best opportunities in life are the ones we create. goal setting provides for you the opportunity to create an extraordinary life.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *truth never damages a cause that is just.*
+> *it is not a disgrace to fail. failing is one of the greatest arts in the world.*
 
 </div>
 <!-- quote-end -->

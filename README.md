@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all you have to do is know where you're going. the answers will come to you of their own accord.*
+> *if the desire to kill and the opportunity to kill came always together, who would escape hanging?*
 
 </div>
 <!-- quote-end -->

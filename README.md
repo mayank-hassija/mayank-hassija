@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best opportunities in life are the ones we create. goal setting provides for you the opportunity to create an extraordinary life.*
+> *true knowledge exists in knowing that you know nothing.*
 
 </div>
 <!-- quote-end -->

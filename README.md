@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *true knowledge exists in knowing that you know nothing.*
+> *all you have to do is know where you're going. the answers will come to you of their own accord.*
 
 </div>
 <!-- quote-end -->

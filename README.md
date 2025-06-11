@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is not a disgrace to fail. failing is one of the greatest arts in the world.*
+> *the most precious things in life cannot be made by hand or bought by man.*
 
 </div>
 <!-- quote-end -->

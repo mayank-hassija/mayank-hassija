@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a man has to learn that he cannot command things, but that he can command himself; that he cannot coerce the wills of others, but that he can mold and master his own will: and things serve him who serves truth; people seek guidance of him who is master of himself.*
+> *you've got to get to the stage in life where going for it is more important than winning or losing.*
 
 </div>
 <!-- quote-end -->

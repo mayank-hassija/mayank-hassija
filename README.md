@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the fantasy is always better than the reality.*
+> *men have the grand vision, and they pass it on to somebody else to put into practice. women follow the details more. they want to know what it is being put into practice.*
 
 </div>
 <!-- quote-end -->

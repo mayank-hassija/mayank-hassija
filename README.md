@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *freedom from the desire for an answer is essential to the understanding of a problem.*
+> *no matter what you've done for yourself or for humanity, if you can't look back on having given love and attention to your own family, what have you really accomplished?*
 
 </div>
 <!-- quote-end -->

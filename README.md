@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you've got to get to the stage in life where going for it is more important than winning or losing.*
+> *science is nothing but perception.*
 
 </div>
 <!-- quote-end -->

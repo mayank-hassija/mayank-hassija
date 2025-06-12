@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the foundation of every state is the education of its youth.*
+> *the fantasy is always better than the reality.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men have the grand vision, and they pass it on to somebody else to put into practice. women follow the details more. they want to know what it is being put into practice.*
+> *freedom from the desire for an answer is essential to the understanding of a problem.*
 
 </div>
 <!-- quote-end -->

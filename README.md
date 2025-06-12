@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no matter what you've done for yourself or for humanity, if you can't look back on having given love and attention to your own family, what have you really accomplished?*
+> *a man has to learn that he cannot command things, but that he can command himself; that he cannot coerce the wills of others, but that he can mold and master his own will: and things serve him who serves truth; people seek guidance of him who is master of himself.*
 
 </div>
 <!-- quote-end -->

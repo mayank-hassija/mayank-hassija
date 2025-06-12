@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if the desire to kill and the opportunity to kill came always together, who would escape hanging?*
+> *the foundation of every state is the education of its youth.*
 
 </div>
 <!-- quote-end -->

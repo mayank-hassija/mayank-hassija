@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *honesty is the first chapter of the book of wisdom.*
+> *follow your instincts. that's where true wisdom manifests itself.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *science is nothing but perception.*
+> *be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.*
 
 </div>
 <!-- quote-end -->

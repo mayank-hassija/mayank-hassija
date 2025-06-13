@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *keep track of the time.*
+> *keep fully insured physically and materially and keep hedged emotionally.*
 
 </div>
 <!-- quote-end -->

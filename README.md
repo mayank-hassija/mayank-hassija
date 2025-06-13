@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.*
+> *honesty is the first chapter of the book of wisdom.*
 
 </div>
 <!-- quote-end -->

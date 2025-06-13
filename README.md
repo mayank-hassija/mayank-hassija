@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *follow your instincts. that's where true wisdom manifests itself.*
+> *the cautious seldom err.*
 
 </div>
 <!-- quote-end -->

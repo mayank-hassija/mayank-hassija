@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the cautious seldom err.*
+> *an empty stomach is not a good political adviser.*
 
 </div>
 <!-- quote-end -->

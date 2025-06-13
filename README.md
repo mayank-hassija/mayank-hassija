@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.*
+> *keep track of the time.*
 
 </div>
 <!-- quote-end -->

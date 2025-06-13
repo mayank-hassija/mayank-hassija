@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an empty stomach is not a good political adviser.*
+> *there is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.*
 
 </div>
 <!-- quote-end -->

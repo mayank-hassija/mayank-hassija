@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never, never, never, never ever give up!*
+> *the only way you can beat the lawyers is to die with nothing.*
 
 </div>
 <!-- quote-end -->

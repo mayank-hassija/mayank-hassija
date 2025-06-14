@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only way you can beat the lawyers is to die with nothing.*
+> *the only correct actions are those that demand no explanation and no apology.*
 
 </div>
 <!-- quote-end -->

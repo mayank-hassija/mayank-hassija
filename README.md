@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it has been my experience that folks who have no vices have very few virtues.*
+> *you find yourself refreshed in the presence of cheerful people. why not make an honest effort to confer that pleasure on others? half the battle is gained if you never allow yourself to say anything gloomy.*
 
 </div>
 <!-- quote-end -->

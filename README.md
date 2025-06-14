@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only correct actions are those that demand no explanation and no apology.*
+> *it has been my experience that folks who have no vices have very few virtues.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a habit cannot be tossed out the window; it must be coaxed down the stairs, one step at a time.*
+> *achievement is largely the product of steadily raising one's levels of aspiration and expectation.*
 
 </div>
 <!-- quote-end -->

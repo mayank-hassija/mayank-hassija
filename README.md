@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you find yourself refreshed in the presence of cheerful people. why not make an honest effort to confer that pleasure on others? half the battle is gained if you never allow yourself to say anything gloomy.*
+> *a habit cannot be tossed out the window; it must be coaxed down the stairs, one step at a time.*
 
 </div>
 <!-- quote-end -->

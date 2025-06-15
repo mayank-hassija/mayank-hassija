@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *make important decisions carefully, consider your gut feelings... then pull the trigger.*
+> *discontent is the first necessity of progress discovery consists of seeing what everybody has seen and thinking what nobody has thought.*
 
 </div>
 <!-- quote-end -->

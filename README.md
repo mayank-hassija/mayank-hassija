@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *achievement is largely the product of steadily raising one's levels of aspiration and expectation.*
+> *there is only one way to achieve happiness on this terrestrial ball, and that is to have either a clear conscience or none at all.*
 
 </div>
 <!-- quote-end -->

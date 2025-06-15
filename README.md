@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never bring the problem solving stage into the decision making stage. otherwise, you surrender yourself to the problem rather than the solution.*
+> *to the man who only has a hammer in the toolkit, every problem looks like a nail.*
 
 </div>
 <!-- quote-end -->

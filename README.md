@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people often say that motivation doesn't last. well, neither does bathing - that's why we recommend it daily.*
+> *make important decisions carefully, consider your gut feelings... then pull the trigger.*
 
 </div>
 <!-- quote-end -->

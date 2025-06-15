@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to the man who only has a hammer in the toolkit, every problem looks like a nail.*
+> *grief is the agony of an instant, the indulgence of grief the blunder of a life.*
 
 </div>
 <!-- quote-end -->

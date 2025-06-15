@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you treat every situation as a life and death matter, you'll die a lot of times.*
+> *people often say that motivation doesn't last. well, neither does bathing - that's why we recommend it daily.*
 
 </div>
 <!-- quote-end -->

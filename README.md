@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *grief is the agony of an instant, the indulgence of grief the blunder of a life.*
+> *if you treat every situation as a life and death matter, you'll die a lot of times.*
 
 </div>
 <!-- quote-end -->

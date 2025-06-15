@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is only one way to achieve happiness on this terrestrial ball, and that is to have either a clear conscience or none at all.*
+> *never bring the problem solving stage into the decision making stage. otherwise, you surrender yourself to the problem rather than the solution.*
 
 </div>
 <!-- quote-end -->

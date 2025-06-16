@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i, with a deeper instinct, choose a man who compels my strength, who makes enormous demands on me, who does not doubt my courage or my toughness, who does not believe me naive or innocent, who has the courage to treat me like a woman.*
+> *you'll find boredom where there is the absence of a good idea.*
 
 </div>
 <!-- quote-end -->

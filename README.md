@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wide diversification is only required when investors do not understand what they are doing.*
+> *the best and fastest way to learn a sport is to watch and imitate a champion.*
 
 </div>
 <!-- quote-end -->

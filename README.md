@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best and fastest way to learn a sport is to watch and imitate a champion.*
+> *i, with a deeper instinct, choose a man who compels my strength, who makes enormous demands on me, who does not doubt my courage or my toughness, who does not believe me naive or innocent, who has the courage to treat me like a woman.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret of success is making your vocation your vacation.*
+> *non-violence and truth are inseparable and presuppose one another.*
 
 </div>
 <!-- quote-end -->

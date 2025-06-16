@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *non-violence and truth are inseparable and presuppose one another.*
+> *if moral behavior were simply following rules, we could program a computer to be moral.*
 
 </div>
 <!-- quote-end -->

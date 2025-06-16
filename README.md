@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you'll find boredom where there is the absence of a good idea.*
+> *the secret of success is making your vocation your vacation.*
 
 </div>
 <!-- quote-end -->

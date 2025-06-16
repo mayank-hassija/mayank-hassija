@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *discontent is the first necessity of progress discovery consists of seeing what everybody has seen and thinking what nobody has thought.*
+> *keep your eyes wide open before marriage, half shut afterwards.*
 
 </div>
 <!-- quote-end -->

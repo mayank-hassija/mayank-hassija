@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *keep your eyes wide open before marriage, half shut afterwards.*
+> *wide diversification is only required when investors do not understand what they are doing.*
 
 </div>
 <!-- quote-end -->

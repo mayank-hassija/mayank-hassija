@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most beautiful thing we can experience is the mysterious. it is the source of all true art and science.*
+> *concentration is my motto - first honesty, then industry, then concentration.*
 
 </div>
 <!-- quote-end -->

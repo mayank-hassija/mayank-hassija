@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if moral behavior were simply following rules, we could program a computer to be moral.*
+> *price is what you pay. value is what you get.*
 
 </div>
 <!-- quote-end -->

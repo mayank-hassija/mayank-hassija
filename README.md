@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can pretend to be serious; you can't pretend to be witty.*
+> *understanding can overcome any situation, however mysterious or insurmountable it may appear to be.*
 
 </div>
 <!-- quote-end -->

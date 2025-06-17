@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to go to the world below, having a soul which is like a vessel full of injustice, is the last and worst of all the evils.*
+> *remember, if you‘re headed in the wrong direction, god allows u-turns!*
 
 </div>
 <!-- quote-end -->

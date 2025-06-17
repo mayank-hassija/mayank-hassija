@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *remember, if you‘re headed in the wrong direction, god allows u-turns!*
+> *you can pretend to be serious; you can't pretend to be witty.*
 
 </div>
 <!-- quote-end -->

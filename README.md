@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *price is what you pay. value is what you get.*
+> *the most beautiful thing we can experience is the mysterious. it is the source of all true art and science.*
 
 </div>
 <!-- quote-end -->

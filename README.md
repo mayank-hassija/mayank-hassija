@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great discoveries and improvements invariably involve the cooperation of many minds. i may be given credit for having blazed the trail, but when i look at the subsequent developments i feel the credit is due to others rather than to myself.*
+> *to go to the world below, having a soul which is like a vessel full of injustice, is the last and worst of all the evils.*
 
 </div>
 <!-- quote-end -->

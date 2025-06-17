@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *concentration is my motto - first honesty, then industry, then concentration.*
+> *great discoveries and improvements invariably involve the cooperation of many minds. i may be given credit for having blazed the trail, but when i look at the subsequent developments i feel the credit is due to others rather than to myself.*
 
 </div>
 <!-- quote-end -->

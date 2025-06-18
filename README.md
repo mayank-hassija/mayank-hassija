@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *understanding can overcome any situation, however mysterious or insurmountable it may appear to be.*
+> *if you reveal your secrets to the wind you should not blame the wind for revealing them to the trees.*
 
 </div>
 <!-- quote-end -->

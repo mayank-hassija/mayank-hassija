@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it has been my observation that most people get ahead during the time that others waste.*
+> *action is no less necessary than thought to the instinctive tendencies of the human frame.*
 
 </div>
 <!-- quote-end -->

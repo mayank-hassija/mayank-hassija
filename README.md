@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *old age is like everything else. to make a success of it, you've got to start young.*
+> *dictatorship naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme liberty.*
 
 </div>
 <!-- quote-end -->

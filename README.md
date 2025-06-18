@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only guy i have to get better than is who i am right now.*
+> *love does not consist in gazing at each other but in looking outward together in the same direction.*
 
 </div>
 <!-- quote-end -->

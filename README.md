@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dictatorship naturally arises out of democracy, and the most aggravated form of tyranny and slavery out of the most extreme liberty.*
+> *man is made or unmade by himself. by the right choice he ascends. as a being of power, intelligence, and love, and the lord of his own thoughts, he holds the key to every situation.*
 
 </div>
 <!-- quote-end -->

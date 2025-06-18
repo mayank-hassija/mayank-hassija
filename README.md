@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *action is no less necessary than thought to the instinctive tendencies of the human frame.*
+> *old age is like everything else. to make a success of it, you've got to start young.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you reveal your secrets to the wind you should not blame the wind for revealing them to the trees.*
+> *it has been my observation that most people get ahead during the time that others waste.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the longest journey of any person is the journey inward.*
+> *love is a serious mental disease.*
 
 </div>
 <!-- quote-end -->

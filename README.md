@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is ten times easier to satisfy an existing customer than it is to find a new one. remember that when one of your customers becomes difficult to deal with.*
+> *courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air.*
 
 </div>
 <!-- quote-end -->

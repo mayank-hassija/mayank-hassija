@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air.*
+> *you have teenagers thinking they're going to make millions as nba stars when that's not realistic for even one percent of them. becoming a scientist or engineer is.*
 
 </div>
 <!-- quote-end -->

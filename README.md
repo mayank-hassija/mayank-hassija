@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *kindness is a language which the deaf can hear, and the blind can read.*
+> *the longest journey of any person is the journey inward.*
 
 </div>
 <!-- quote-end -->

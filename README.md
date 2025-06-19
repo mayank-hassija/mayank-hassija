@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is a higher court than courts of justice and that is the court of conscience. it supersedes all other courts.*
+> *kindness is a language which the deaf can hear, and the blind can read.*
 
 </div>
 <!-- quote-end -->

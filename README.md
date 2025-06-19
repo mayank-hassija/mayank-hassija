@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a goal properly set is halfway reached.*
+> *there is a higher court than courts of justice and that is the court of conscience. it supersedes all other courts.*
 
 </div>
 <!-- quote-end -->

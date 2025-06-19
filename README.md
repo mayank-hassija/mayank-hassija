@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love does not consist in gazing at each other but in looking outward together in the same direction.*
+> *it is ten times easier to satisfy an existing customer than it is to find a new one. remember that when one of your customers becomes difficult to deal with.*
 
 </div>
 <!-- quote-end -->

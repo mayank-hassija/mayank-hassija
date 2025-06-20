@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love is a serious mental disease.*
+> *the ladder of success is best climbed by stepping on the rungs of opportunity.*
 
 </div>
 <!-- quote-end -->

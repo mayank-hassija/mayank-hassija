@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *true knowledge exists in knowing that you know nothing.*
+> *people always fear change. people feared electricity when it was invented, didn't they?*
 
 </div>
 <!-- quote-end -->

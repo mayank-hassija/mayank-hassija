@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best way to sell yourself to others is first to sell the others to yourself.*
+> *there will be no end to the troubles of states, or of humanity itself, till philosophers become kings in this world, or till those we now call kings and rulers really and truly become philosophers, and political power and philosophy thus come into the same hands.*
 
 </div>
 <!-- quote-end -->

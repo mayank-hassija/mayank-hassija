@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *specialized knowledge – personal experiences or observations spectacular achievement is always preceded by unspectacular preparation.*
+> *the future belongs to those who believe in the beauty of their dreams.*
 
 </div>
 <!-- quote-end -->

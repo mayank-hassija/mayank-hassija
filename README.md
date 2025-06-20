@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the ladder of success is best climbed by stepping on the rungs of opportunity.*
+> *true knowledge exists in knowing that you know nothing.*
 
 </div>
 <!-- quote-end -->

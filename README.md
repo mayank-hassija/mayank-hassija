@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people always fear change. people feared electricity when it was invented, didn't they?*
+> *specialized knowledge – personal experiences or observations spectacular achievement is always preceded by unspectacular preparation.*
 
 </div>
 <!-- quote-end -->

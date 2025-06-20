@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the future belongs to those who believe in the beauty of their dreams.*
+> *the best way to sell yourself to others is first to sell the others to yourself.*
 
 </div>
 <!-- quote-end -->

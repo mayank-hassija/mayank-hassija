@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we learn the inner secret of happiness when we learn to direct our inner drives, our interest and our attention to something besides ourselves.*
+> *if time is the most precious of all things, wasting time must be the greatest tragedy.*
 
 </div>
 <!-- quote-end -->

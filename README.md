@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never say or do anything you wouldn‘t want published on the front page of the local newspaper.*
+> *i put a piece of paper under my pillow, and when i could not sleep i wrote in the dark.*
 
 </div>
 <!-- quote-end -->

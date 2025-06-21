@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it isn't enough for you to love money -- it's also necessary that money should love you.*
+> *never say or do anything you wouldn‘t want published on the front page of the local newspaper.*
 
 </div>
 <!-- quote-end -->

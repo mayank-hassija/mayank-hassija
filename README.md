@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *speak when you are angry, and you will make the best speech you'll ever regret.*
+> *it isn't enough for you to love money -- it's also necessary that money should love you.*
 
 </div>
 <!-- quote-end -->

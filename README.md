@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i put a piece of paper under my pillow, and when i could not sleep i wrote in the dark.*
+> *let architects sing of aesthetics that bring rich clients in hordes to their knees; just give me a home, in a great circle dome where stresses and strains are at ease.*
 
 </div>
 <!-- quote-end -->

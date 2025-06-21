@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let architects sing of aesthetics that bring rich clients in hordes to their knees; just give me a home, in a great circle dome where stresses and strains are at ease.*
+> *reflect upon your present blessings, of which every man has many - not on your past.*
 
 </div>
 <!-- quote-end -->

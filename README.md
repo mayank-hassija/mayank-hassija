@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if time is the most precious of all things, wasting time must be the greatest tragedy.*
+> *why shouldn't truth be stranger than fiction? fiction, after all, has to make sense.*
 
 </div>
 <!-- quote-end -->

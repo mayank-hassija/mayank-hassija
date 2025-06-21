@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *reflect upon your present blessings, of which every man has many - not on your past.*
+> *we learn the inner secret of happiness when we learn to direct our inner drives, our interest and our attention to something besides ourselves.*
 
 </div>
 <!-- quote-end -->

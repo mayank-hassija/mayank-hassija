@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the mediocre teacher tells. the good teacher explains. the superior teacher demonstrates. the great teacher inspires.*
+> *more important than talent, strength, or knowledge is the ability to laugh at yourself and enjoy the pursuit of your dreams.*
 
 </div>
 <!-- quote-end -->

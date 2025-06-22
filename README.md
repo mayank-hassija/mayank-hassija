@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *more important than talent, strength, or knowledge is the ability to laugh at yourself and enjoy the pursuit of your dreams.*
+> *our words reveal our thoughts; our manners reveal our self-esteem; our actions reveal our character; our habits predict our future.*
 
 </div>
 <!-- quote-end -->

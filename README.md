@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you come to fame not understanding who you are, it will define who you are.*
+> *man's mind, once stretched by a new idea, never regains its original dimensions.*
 
 </div>
 <!-- quote-end -->

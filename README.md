@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a vow is a purely religious act which cannot be taken in a fit of passion. it can be taken only with a mind purified and composed and with god as witness.*
+> *if you come to fame not understanding who you are, it will define who you are.*
 
 </div>
 <!-- quote-end -->

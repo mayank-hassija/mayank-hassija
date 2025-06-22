@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *why shouldn't truth be stranger than fiction? fiction, after all, has to make sense.*
+> *the more you like yourself, the less you are like anyone else, which makes you unique.*
 
 </div>
 <!-- quote-end -->

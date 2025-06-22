@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *man's mind, once stretched by a new idea, never regains its original dimensions.*
+> *the mediocre teacher tells. the good teacher explains. the superior teacher demonstrates. the great teacher inspires.*
 
 </div>
 <!-- quote-end -->

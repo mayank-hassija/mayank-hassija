@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the more you like yourself, the less you are like anyone else, which makes you unique.*
+> *life is managed; it is not cured.*
 
 </div>
 <!-- quote-end -->

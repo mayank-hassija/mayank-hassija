@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is managed; it is not cured.*
+> *a vow is a purely religious act which cannot be taken in a fit of passion. it can be taken only with a mind purified and composed and with god as witness.*
 
 </div>
 <!-- quote-end -->

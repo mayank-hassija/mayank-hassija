@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret to a rich life is to have more beginnings than endings.*
+> *be sure you put your feet in the right place, then stand firm.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our words reveal our thoughts; our manners reveal our self-esteem; our actions reveal our character; our habits predict our future.*
+> *do the thing you fear most and the death of fear is certain.*
 
 </div>
 <!-- quote-end -->

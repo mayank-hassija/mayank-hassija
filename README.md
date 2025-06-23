@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *live with goals. live with passion! live with a purpose!*
+> *the best way to have good ideas is to have lots of ideas.*
 
 </div>
 <!-- quote-end -->

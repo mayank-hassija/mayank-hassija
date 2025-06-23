@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do the thing you fear most and the death of fear is certain.*
+> *set a goal and don't quit until you attain it. when you do attain it, repeat the process.*
 
 </div>
 <!-- quote-end -->

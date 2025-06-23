@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what separates the winners from the losers is how a person reacts to each new twist of fate.*
+> *live with goals. live with passion! live with a purpose!*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be sure you put your feet in the right place, then stand firm.*
+> *what separates the winners from the losers is how a person reacts to each new twist of fate.*
 
 </div>
 <!-- quote-end -->

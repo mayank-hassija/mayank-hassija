@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *set a goal and don't quit until you attain it. when you do attain it, repeat the process.*
+> *to err is human; to forgive, infrequent.*
 
 </div>
 <!-- quote-end -->

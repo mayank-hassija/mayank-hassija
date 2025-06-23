@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to err is human; to forgive, infrequent.*
+> *the secret to a rich life is to have more beginnings than endings.*
 
 </div>
 <!-- quote-end -->

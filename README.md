@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never mistake knowledge for wisdom. one helps you make a living; the other helps you make a life.*
+> *anger that lingers is in the heart of a foolish man is the monster that will swallow him up.*
 
 </div>
 <!-- quote-end -->

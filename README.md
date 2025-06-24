@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *give so much time to the improvement of yourself you have no time left over to criticize others.*
+> *sports teach us the principles to win the game of life but to succeed in any game what is needed the most is inspiration and dedication. here are some of the inspirational quotes that would ignite the fire of determination in any sports person.*
 
 </div>
 <!-- quote-end -->

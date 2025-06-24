@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wine is constant proof that god loves us and loves to see us happy.*
+> *great ideas originate in the muscles.*
 
 </div>
 <!-- quote-end -->

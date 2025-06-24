@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the price of hating other human beings is loving oneself less.*
+> *wine is constant proof that god loves us and loves to see us happy.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best way to have good ideas is to have lots of ideas.*
+> *the price of hating other human beings is loving oneself less.*
 
 </div>
 <!-- quote-end -->

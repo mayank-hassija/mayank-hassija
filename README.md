@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great ideas originate in the muscles.*
+> *give so much time to the improvement of yourself you have no time left over to criticize others.*
 
 </div>
 <!-- quote-end -->

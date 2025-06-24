@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *anger that lingers is in the heart of a foolish man is the monster that will swallow him up.*
+> *do not wait for extraordinary circumstances to do good; try to use ordinary situations.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *but for my faith in god, i should have been a raving maniac.*
+> *success does not come from one big idea, but from relentless application to detail.*
 
 </div>
 <!-- quote-end -->

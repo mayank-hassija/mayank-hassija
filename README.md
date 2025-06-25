@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when angry, count ten, before you speak; if very angry, a hundred.*
+> *concern for man and his fate must always form the chief interest of all technical endeavors. never forget this in the midst of your diagrams and equations.*
 
 </div>
 <!-- quote-end -->

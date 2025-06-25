@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the life of inner peace, is being harmonious and without stress, it‘s the easiest type of existence.*
+> *when angry, count ten, before you speak; if very angry, a hundred.*
 
 </div>
 <!-- quote-end -->

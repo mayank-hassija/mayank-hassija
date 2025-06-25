@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is neither wealth nor splendor; but tranquility and occupation which give happiness.*
+> *you only fail when you fall down and don‘t get back up.*
 
 </div>
 <!-- quote-end -->

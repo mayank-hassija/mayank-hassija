@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you only fail when you fall down and don‘t get back up.*
+> *the life of inner peace, is being harmonious and without stress, it‘s the easiest type of existence.*
 
 </div>
 <!-- quote-end -->

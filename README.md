@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not wait for extraordinary circumstances to do good; try to use ordinary situations.*
+> *it is neither wealth nor splendor; but tranquility and occupation which give happiness.*
 
 </div>
 <!-- quote-end -->

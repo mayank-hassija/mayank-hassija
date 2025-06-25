@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success does not come from one big idea, but from relentless application to detail.*
+> *the harder i work, the luckier i get.*
 
 </div>
 <!-- quote-end -->

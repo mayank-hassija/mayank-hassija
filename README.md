@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *concern for man and his fate must always form the chief interest of all technical endeavors. never forget this in the midst of your diagrams and equations.*
+> *but for my faith in god, i should have been a raving maniac.*
 
 </div>
 <!-- quote-end -->

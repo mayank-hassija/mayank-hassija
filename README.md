@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wrinkles should merely indicate where smiles have been.*
+> *faith is the strength by which a shattered world shall emerge into the light.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *better to do something imperfectly than to do nothing perfectly.*
+> *wrinkles should merely indicate where smiles have been.*
 
 </div>
 <!-- quote-end -->

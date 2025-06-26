@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i put a piece of paper under my pillow, and when i could not sleep i wrote in the dark.*
+> *in great attempts, it is glorious even to fail.*
 
 </div>
 <!-- quote-end -->

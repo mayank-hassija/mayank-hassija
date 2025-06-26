@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in great attempts, it is glorious even to fail.*
+> *better to do something imperfectly than to do nothing perfectly.*
 
 </div>
 <!-- quote-end -->

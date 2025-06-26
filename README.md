@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are two ways to live your life. one is as though nothing is a miracle. the other is as though everything is a miracle.*
+> *i put a piece of paper under my pillow, and when i could not sleep i wrote in the dark.*
 
 </div>
 <!-- quote-end -->

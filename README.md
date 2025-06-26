@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the harder i work, the luckier i get.*
+> *there are two ways to live your life. one is as though nothing is a miracle. the other is as though everything is a miracle.*
 
 </div>
 <!-- quote-end -->

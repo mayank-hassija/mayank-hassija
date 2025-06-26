@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are shaped by our thoughts; we become what we think. when the mind is pure, joy follows like a shadow that never leaves.*
+> *experience taught me a few things. one is to listen to your gut, no matter how good something sounds on paper. the second is that you're generally better off sticking with what you know. and the third is that sometimes your best investments are the ones you don't make.*
 
 </div>
 <!-- quote-end -->

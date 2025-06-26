@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *faith is the strength by which a shattered world shall emerge into the light.*
+> *we are shaped by our thoughts; we become what we think. when the mind is pure, joy follows like a shadow that never leaves.*
 
 </div>
 <!-- quote-end -->

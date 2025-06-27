@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nice to be here? at my age it's nice to be anywhere.*
+> *you give before you get.*
 
 </div>
 <!-- quote-end -->

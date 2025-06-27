@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love the moment. flowers grow out of dark moments. therefore, each moment is vital.*
+> *if particulars are to have meaning, there must be universals.*
 
 </div>
 <!-- quote-end -->

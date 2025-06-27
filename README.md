@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience taught me a few things. one is to listen to your gut, no matter how good something sounds on paper. the second is that you're generally better off sticking with what you know. and the third is that sometimes your best investments are the ones you don't make.*
+> *just as a man would not cherish living in a body other than his own, so do nations not just as iron rusts from disuse, even so does inaction spoil the intellect.*
 
 </div>
 <!-- quote-end -->

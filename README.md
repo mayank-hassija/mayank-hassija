@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *just as a man would not cherish living in a body other than his own, so do nations not just as iron rusts from disuse, even so does inaction spoil the intellect.*
+> *nice to be here? at my age it's nice to be anywhere.*
 
 </div>
 <!-- quote-end -->

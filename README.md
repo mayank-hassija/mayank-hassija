@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if particulars are to have meaning, there must be universals.*
+> *as the builders say, the larger stones do not lie well without the lesser.*
 
 </div>
 <!-- quote-end -->

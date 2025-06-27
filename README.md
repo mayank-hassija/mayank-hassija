@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you give before you get.*
+> *conscience is that still, small voice that is sometimes too loud for comfort.*
 
 </div>
 <!-- quote-end -->

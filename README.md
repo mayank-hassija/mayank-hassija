@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *as the builders say, the larger stones do not lie well without the lesser.*
+> *without feelings of respect, what is there to distinguish men from beasts?*
 
 </div>
 <!-- quote-end -->

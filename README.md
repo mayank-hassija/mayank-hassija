@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *conscience is that still, small voice that is sometimes too loud for comfort.*
+> *love the moment. flowers grow out of dark moments. therefore, each moment is vital.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *lost time is never found again.*
+> *do not worry about your difficulties in mathematics. i can assure you mine are still greater.*
 
 </div>
 <!-- quote-end -->

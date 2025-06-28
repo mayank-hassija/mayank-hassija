@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.*
+> *if you think you can do a thing or think you can't do a thing, you're right.*
 
 </div>
 <!-- quote-end -->

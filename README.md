@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not worry about your difficulties in mathematics. i can assure you mine are still greater.*
+> *you don‘t have to win every argument. agree to disagreements.*
 
 </div>
 <!-- quote-end -->

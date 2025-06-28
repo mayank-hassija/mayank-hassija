@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *without feelings of respect, what is there to distinguish men from beasts?*
+> *lost time is never found again.*
 
 </div>
 <!-- quote-end -->

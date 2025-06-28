@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *make a written plan for achieving your goals and then, set a hardcore-deadline for you to accomplish your goal(s). without a ‗do-it-or-die‘ type of deadline for the attainment of what you want, all you‘ve created is a ―wish list.‖ wishes only come true at disneyland.*
+> *do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all over the place, from the popular culture to the propaganda system, there is constant pressure to make people feel that they are helpless, that the only role they can have is to ratify decisions and to consume.*
+> *good ideas are not adopted automatically. they must be driven into practice with courageous patience.*
 
 </div>
 <!-- quote-end -->

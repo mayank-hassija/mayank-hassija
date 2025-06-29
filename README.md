@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *big shots are only little shots who kept shooting.*
+> *life is not fair; get used to it.*
 
 </div>
 <!-- quote-end -->

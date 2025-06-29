@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the principle is competing against yourself. it's about self improvement, about being better than you were the day before.*
+> *either you repeat the same conventional doctrines everybody else is saying, or else you can say something that‘s actually true.*
 
 </div>
 <!-- quote-end -->

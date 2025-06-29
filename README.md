@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *either you repeat the same conventional doctrines everybody else is saying, or else you can say something that‘s actually true.*
+> *successful people are always looking for opportunities to help others. unsuccessful people are always asking, "what's in it for me?" successful people are clear on their purpose in life – and they are committed to it.*
 
 </div>
 <!-- quote-end -->

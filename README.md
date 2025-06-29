@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *auto-suggestion – the medium for influencing the subconscious mind.*
+> *the principle is competing against yourself. it's about self improvement, about being better than you were the day before.*
 
 </div>
 <!-- quote-end -->

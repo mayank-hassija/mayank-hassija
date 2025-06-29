@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't be afraid to give your best to what seemingly are small jobs. every time you conquer one it makes you that much stronger. if you do the little jobs well, the big ones will tend to take care of themselves.*
+> *auto-suggestion – the medium for influencing the subconscious mind.*
 
 </div>
 <!-- quote-end -->

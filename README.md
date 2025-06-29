@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *successful people are always looking for opportunities to help others. unsuccessful people are always asking, "what's in it for me?" successful people are clear on their purpose in life – and they are committed to it.*
+> *big shots are only little shots who kept shooting.*
 
 </div>
 <!-- quote-end -->

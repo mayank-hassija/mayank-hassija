@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *asking is the beginning of receiving. make sure you don't go to the ocean with a teaspoon. at least take a bucket so the kids won't laugh at you.*
+> *construct your determination with sustained effort, controlled attention, and concentrated energy.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i wake at dawn with a winged heart and give thanks for another day of loving.*
+> *i don't build in order to have clients. i have clients in order to build.*
 
 </div>
 <!-- quote-end -->

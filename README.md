@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you give but little when you give of your possessions. it is when you give of yourself that you truly give.*
+> *i wake at dawn with a winged heart and give thanks for another day of loving.*
 
 </div>
 <!-- quote-end -->

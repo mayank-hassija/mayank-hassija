@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *inside of every problem lies an opportunity.*
+> *asking is the beginning of receiving. make sure you don't go to the ocean with a teaspoon. at least take a bucket so the kids won't laugh at you.*
 
 </div>
 <!-- quote-end -->

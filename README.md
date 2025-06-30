@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i don't build in order to have clients. i have clients in order to build.*
+> *if you want to be creative in your company, your career, your life, all it takes is one easy step… the extra one. when you encounter a familiar plan, you just ask one question: what else could we do?*
 
 </div>
 <!-- quote-end -->

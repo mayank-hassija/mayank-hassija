@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *construct your determination with sustained effort, controlled attention, and concentrated energy.*
+> *nearly everything you do is of no importance, but it is important that you do it.*
 
 </div>
 <!-- quote-end -->

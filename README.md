@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is not fair; get used to it.*
+> *you give but little when you give of your possessions. it is when you give of yourself that you truly give.*
 
 </div>
 <!-- quote-end -->

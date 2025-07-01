@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *restlessness and discontent are the first necessities of progress.*
+> *growing old beats the alternative -- dying young.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *remember that failure is an event, not a person.*
+> *nature is full of genius, full of the divinity; so that not a snowflake escapes its fashioning hand.*
 
 </div>
 <!-- quote-end -->

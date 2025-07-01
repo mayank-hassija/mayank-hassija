@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men are anxious to improve their circumstances, but are unwilling to improve themselves; they therefore remain a slave to their self-limiting vision.*
+> *never let your sense of morals prevent you from doing what's right.*
 
 </div>
 <!-- quote-end -->

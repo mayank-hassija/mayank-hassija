@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it affects the whole. life is a succession of such moments and to live each, is to succeed.*
+> *restlessness and discontent are the first necessities of progress.*
 
 </div>
 <!-- quote-end -->

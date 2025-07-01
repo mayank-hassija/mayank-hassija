@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nearly everything you do is of no importance, but it is important that you do it.*
+> *when you're curious, you find lots of interesting things to do.*
 
 </div>
 <!-- quote-end -->

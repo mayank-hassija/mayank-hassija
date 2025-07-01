@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you're curious, you find lots of interesting things to do.*
+> *it affects the whole. life is a succession of such moments and to live each, is to succeed.*
 
 </div>
 <!-- quote-end -->

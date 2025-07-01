@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nature is full of genius, full of the divinity; so that not a snowflake escapes its fashioning hand.*
+> *men are anxious to improve their circumstances, but are unwilling to improve themselves; they therefore remain a slave to their self-limiting vision.*
 
 </div>
 <!-- quote-end -->

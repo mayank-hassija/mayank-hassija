@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *growing old beats the alternative -- dying young.*
+> *remember that failure is an event, not a person.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i would rather go to bed without dinner than to awaken in debt.*
+> *procrastination is the bad habit of putting off until the day after tomorrow what should have been done the day before yesterday.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what the country needs is dirtier fingernails and cleaner minds.*
+> *it takes a wise man to learn from his own mistakes... and a genius to learn and profit from the mistakes and experiences of others.*
 
 </div>
 <!-- quote-end -->

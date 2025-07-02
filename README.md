@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never say or do anything you wouldn‘t want published on the front page of the local newspaper.*
+> *what the country needs is dirtier fingernails and cleaner minds.*
 
 </div>
 <!-- quote-end -->

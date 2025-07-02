@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never let your sense of morals prevent you from doing what's right.*
+> *i would rather go to bed without dinner than to awaken in debt.*
 
 </div>
 <!-- quote-end -->

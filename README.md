@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes a wise man to learn from his own mistakes... and a genius to learn and profit from the mistakes and experiences of others.*
+> *you don't marry someone you can live with - you marry the person who you cannot live without.*
 
 </div>
 <!-- quote-end -->

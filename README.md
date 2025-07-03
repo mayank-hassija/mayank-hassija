@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your lifelong partner, where earning money is concerned, is the irs. like al capone ran chicago in the heyday of big-time gangsters, as long as you pay them first, they‘ll leave you alone to do what you do best.*
+> *there are two educations. one should teach us how to make a living and the other how to live.*
 
 </div>
 <!-- quote-end -->

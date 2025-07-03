@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are two educations. one should teach us how to make a living and the other how to live.*
+> *money will make you more of what you already are. if you're not a nice person, money's going to make you a despicable individual. if you're a good person, money's going to make you a better person.*
 
 </div>
 <!-- quote-end -->

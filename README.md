@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it isn't always enough, to be forgiven by others. sometimes, you have to learn to forgive yourself.*
+> *there is one consolation in being sick; and that is the possibility that you may recover to a better state than you were ever in before.*
 
 </div>
 <!-- quote-end -->

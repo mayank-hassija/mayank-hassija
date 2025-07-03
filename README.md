@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *money will make you more of what you already are. if you're not a nice person, money's going to make you a despicable individual. if you're a good person, money's going to make you a better person.*
+> *i am thankful for laughter, except when milk comes out of my nose.*
 
 </div>
 <!-- quote-end -->

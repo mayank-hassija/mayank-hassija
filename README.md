@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am thankful for laughter, except when milk comes out of my nose.*
+> *whatever doesn't kill you really does make you stronger.*
 
 </div>
 <!-- quote-end -->

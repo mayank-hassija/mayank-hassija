@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever doesn't kill you really does make you stronger.*
+> *the poor and middle class work for money. the rich let money work for them.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is one consolation in being sick; and that is the possibility that you may recover to a better state than you were ever in before.*
+> *your lifelong partner, where earning money is concerned, is the irs. like al capone ran chicago in the heyday of big-time gangsters, as long as you pay them first, they‘ll leave you alone to do what you do best.*
 
 </div>
 <!-- quote-end -->

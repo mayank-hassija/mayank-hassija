@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the poor and middle class work for money. the rich let money work for them.*
+> *civilization is the progress toward a society of privacy. the savage's whole existence is public, ruled by the laws of his tribe. civilization is the process of setting man free from men.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *better to do something imperfectly than to do nothing perfectly.*
+> *first comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. the beginning, as you will observe, is in your imagination.*
 
 </div>
 <!-- quote-end -->

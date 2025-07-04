@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *only two things are infinite, the universe and human stupidity, and i'm not sure about the former.*
+> *the man who will use his skill and constructive imagination to see how much he can give for a dollar, instead of how little he can give for a dollar, is bound to succeed.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we may never be strong enough to be entirely nonviolent in thought, word and deed. but we must keep nonviolence as our goal and make strong progress towards it.*
+> *better to do something imperfectly than to do nothing perfectly.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *first comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. the beginning, as you will observe, is in your imagination.*
+> *winning is not a sometime thing: it's an all the time thing. you don't win once in a while; you don't do the right thing once in a while; you do them right all the time. winning is a habit. unfortunately, so is losing winning is not everything --- but making the effort to win is.*
 
 </div>
 <!-- quote-end -->

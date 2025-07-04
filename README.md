@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *civilization is the progress toward a society of privacy. the savage's whole existence is public, ruled by the laws of his tribe. civilization is the process of setting man free from men.*
+> *only two things are infinite, the universe and human stupidity, and i'm not sure about the former.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the man who will use his skill and constructive imagination to see how much he can give for a dollar, instead of how little he can give for a dollar, is bound to succeed.*
+> *we may never be strong enough to be entirely nonviolent in thought, word and deed. but we must keep nonviolence as our goal and make strong progress towards it.*
 
 </div>
 <!-- quote-end -->

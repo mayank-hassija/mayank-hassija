@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if gm had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 mpg.*
+> *the highest application of education is tolerance.*
 
 </div>
 <!-- quote-end -->

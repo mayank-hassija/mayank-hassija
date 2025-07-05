@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the highest application of education is tolerance.*
+> *we're so engaged in doing things to achieve purposes of outer value that we forget the inner value, the rapture that is associated with being alive, is what it is all about.*
 
 </div>
 <!-- quote-end -->

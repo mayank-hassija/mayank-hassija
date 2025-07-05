@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *without good health, nothing else matters.*
+> *it is easier to stay out of trouble than it is to get out of trouble. the same could be said of marriage.*
 
 </div>
 <!-- quote-end -->

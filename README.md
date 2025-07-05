@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *decisiveness is a characteristic of high-performing men and women. almost any decision is better than no decision at all.*
+> *get your facts first.*
 
 </div>
 <!-- quote-end -->

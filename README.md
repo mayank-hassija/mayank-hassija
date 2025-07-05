@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you want to conquer fear, don't sit home and think about it. go out and get busy.*
+> *experience shows that success is due less to ability than to zeal. the winner is he who gives himself to his work, body and soul.*
 
 </div>
 <!-- quote-end -->

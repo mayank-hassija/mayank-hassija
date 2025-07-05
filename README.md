@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience shows that success is due less to ability than to zeal. the winner is he who gives himself to his work, body and soul.*
+> *without good health, nothing else matters.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we're so engaged in doing things to achieve purposes of outer value that we forget the inner value, the rapture that is associated with being alive, is what it is all about.*
+> *imagination – the workshop of the mind.*
 
 </div>
 <!-- quote-end -->

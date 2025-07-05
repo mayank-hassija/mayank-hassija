@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *get your facts first.*
+> *if you want to conquer fear, don't sit home and think about it. go out and get busy.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *imagination – the workshop of the mind.*
+> *decisiveness is a characteristic of high-performing men and women. almost any decision is better than no decision at all.*
 
 </div>
 <!-- quote-end -->

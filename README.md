@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i believe in being an innovator.*
+> *beauty in things exists in the mind which contemplates them.*
 
 </div>
 <!-- quote-end -->

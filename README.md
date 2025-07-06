@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes a wise man to discover a wise man.*
+> *price is what you pay. value is what you get.*
 
 </div>
 <!-- quote-end -->

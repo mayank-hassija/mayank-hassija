@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to do a better job of managing your time, get organized: a place for everything and everything in its place.*
+> *there is one quality which one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.*
 
 </div>
 <!-- quote-end -->

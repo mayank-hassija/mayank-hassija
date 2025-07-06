@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *luck is a matter of preparation meeting opportunity.*
+> *i believe in being an innovator.*
 
 </div>
 <!-- quote-end -->

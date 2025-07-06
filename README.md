@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is the mark of an educated mind to be able to entertain a thought without accepting it.*
+> *to do a better job of managing your time, get organized: a place for everything and everything in its place.*
 
 </div>
 <!-- quote-end -->

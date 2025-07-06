@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is one quality which one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.*
+> *luck is a matter of preparation meeting opportunity.*
 
 </div>
 <!-- quote-end -->

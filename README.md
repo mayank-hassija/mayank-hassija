@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is easier to stay out of trouble than it is to get out of trouble. the same could be said of marriage.*
+> *it is the mark of an educated mind to be able to entertain a thought without accepting it.*
 
 </div>
 <!-- quote-end -->

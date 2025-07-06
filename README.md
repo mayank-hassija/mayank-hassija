@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *beauty in things exists in the mind which contemplates them.*
+> *it takes a wise man to discover a wise man.*
 
 </div>
 <!-- quote-end -->

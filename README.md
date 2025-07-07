@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am an old man and have known a great many troubles, but most of them never happened.*
+> *it is always your next move.*
 
 </div>
 <!-- quote-end -->

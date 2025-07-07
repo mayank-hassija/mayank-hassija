@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you can't make it good, at least make it look good.*
+> *i am an old man and have known a great many troubles, but most of them never happened.*
 
 </div>
 <!-- quote-end -->

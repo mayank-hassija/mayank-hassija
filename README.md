@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *price is what you pay. value is what you get.*
+> *if a man is proud of his wealth, he should not be praised until it is known how he employs it.*
 
 </div>
 <!-- quote-end -->

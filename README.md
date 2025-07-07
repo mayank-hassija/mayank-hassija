@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love is the master key which opens the gates of happiness.*
+> *if you can't make it good, at least make it look good.*
 
 </div>
 <!-- quote-end -->

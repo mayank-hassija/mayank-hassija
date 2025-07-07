@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the body is a community made up of its innumerable cells or inhabitants.*
+> *how am i going to live today in order to create the tomorrow i'm committed to?*
 
 </div>
 <!-- quote-end -->

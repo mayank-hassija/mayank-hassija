@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if a man is proud of his wealth, he should not be praised until it is known how he employs it.*
+> *love is the master key which opens the gates of happiness.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *golf is a game whose aim is to hit a very small ball into an even smaller hole, with weapons singularly ill-designed for the purpose.*
+> *the body is a community made up of its innumerable cells or inhabitants.*
 
 </div>
 <!-- quote-end -->

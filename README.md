@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the way i see it, if you want the rainbow, you gotta put up with the rain.*
+> *my biggest worry is i'm running out of time and energy. thirty years ago i thought 10 years was a really long time.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how am i going to live today in order to create the tomorrow i'm committed to?*
+> *unity can only be manifested by the binary. unity itself and the idea of unity are already two.*
 
 </div>
 <!-- quote-end -->

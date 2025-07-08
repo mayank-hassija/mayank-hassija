@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when in doubt, make a fool of yourself. there is a microscopically thin line between being brilliantly creative and acting like the most gigantic idiot on earth. so, what the hell, leap.*
+> *even death is not to be feared by one who has lived wisely.*
 
 </div>
 <!-- quote-end -->

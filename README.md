@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if we wait for the moment when everything, absolutely everything is ready, we shall never begin.*
+> *the way i see it, if you want the rainbow, you gotta put up with the rain.*
 
 </div>
 <!-- quote-end -->

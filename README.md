@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *unity can only be manifested by the binary. unity itself and the idea of unity are already two.*
+> *if we wait for the moment when everything, absolutely everything is ready, we shall never begin.*
 
 </div>
 <!-- quote-end -->

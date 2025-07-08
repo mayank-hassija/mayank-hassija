@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my biggest worry is i'm running out of time and energy. thirty years ago i thought 10 years was a really long time.*
+> *if you need know the value of money, go and try to borrow some.*
 
 </div>
 <!-- quote-end -->

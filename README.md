@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you need know the value of money, go and try to borrow some.*
+> *when in doubt, make a fool of yourself. there is a microscopically thin line between being brilliantly creative and acting like the most gigantic idiot on earth. so, what the hell, leap.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *learning is a treasure that will follow its owner everywhere.*
+> *dare to be all that you can be. you can do almost anything. the question is, are you willing?*
 
 </div>
 <!-- quote-end -->

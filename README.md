@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *that man is the richest whose pleasures are the cheapest.*
+> *learning is a treasure that will follow its owner everywhere.*
 
 </div>
 <!-- quote-end -->

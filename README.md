@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the aim of argument, or of discussion, should not be victory, but progress.*
+> *let your pledged word be forever sacred.*
 
 </div>
 <!-- quote-end -->

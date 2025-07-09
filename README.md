@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let your pledged word be forever sacred.*
+> *it is easy enough to be friendly to one's friends. but to befriend the one who regards himself as your enemy is the quintessence of true religion. the other is mere business.*
 
 </div>
 <!-- quote-end -->

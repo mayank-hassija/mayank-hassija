@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are at our very best, and we are happiest, when we are fully engaged in work we enjoy on the journey toward the goal we've established for ourselves. it gives meaning to our time off and comfort to our sleep. it makes everything else in life so wonderful, so worthwhile.*
+> *that man is the richest whose pleasures are the cheapest.*
 
 </div>
 <!-- quote-end -->

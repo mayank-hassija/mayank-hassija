@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is easy enough to be friendly to one's friends. but to befriend the one who regards himself as your enemy is the quintessence of true religion. the other is mere business.*
+> *we should feel sorrow, but not sink under its oppression.*
 
 </div>
 <!-- quote-end -->

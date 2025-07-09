@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *power comes from stripping away appearances and seeing things as they really are.*
+> *the aim of argument, or of discussion, should not be victory, but progress.*
 
 </div>
 <!-- quote-end -->

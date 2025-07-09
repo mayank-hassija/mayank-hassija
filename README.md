@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dare to be all that you can be. you can do almost anything. the question is, are you willing?*
+> *power comes from stripping away appearances and seeing things as they really are.*
 
 </div>
 <!-- quote-end -->

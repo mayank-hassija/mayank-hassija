@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should feel sorrow, but not sink under its oppression.*
+> *it is easy to hate and it is difficult to love. this is how the whole scheme of things works. all good things are difficult to achieve; and bad things are very easy to get.*
 
 </div>
 <!-- quote-end -->

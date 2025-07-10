@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *laws, rules and regulations too gentle are seldom obeyed; too severe, seldom executed.*
+> *the choice to exert integrated effort or to default to camouflaged laziness is the key choice that determines your character, competence and future. that critical choice must be made continually – throughout life.*
 
 </div>
 <!-- quote-end -->

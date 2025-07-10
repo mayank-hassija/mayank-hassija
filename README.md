@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no better teacher than adversity.*
+> *i can live for two months on a good compliment.*
 
 </div>
 <!-- quote-end -->

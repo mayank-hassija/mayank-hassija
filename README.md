@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i can live for two months on a good compliment.*
+> *laws, rules and regulations too gentle are seldom obeyed; too severe, seldom executed.*
 
 </div>
 <!-- quote-end -->

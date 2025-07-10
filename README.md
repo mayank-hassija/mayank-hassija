@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *work and acquire, and thou hast chained the wheel of chance.*
+> *time has no meaning in itself unless we choose to give it significance.*
 
 </div>
 <!-- quote-end -->

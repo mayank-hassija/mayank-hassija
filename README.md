@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the choice to exert integrated effort or to default to camouflaged laziness is the key choice that determines your character, competence and future. that critical choice must be made continually – throughout life.*
+> *success is a lousy teacher. it seduces smart people into thinking they can't lose.*
 
 </div>
 <!-- quote-end -->

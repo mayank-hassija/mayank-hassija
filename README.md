@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *time has no meaning in itself unless we choose to give it significance.*
+> *there is no better teacher than adversity.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the walls we build around us to keep sadness out also keeps out the joy.*
+> *coming together is a beginning; keeping together is progress; working together is success.*
 
 </div>
 <!-- quote-end -->

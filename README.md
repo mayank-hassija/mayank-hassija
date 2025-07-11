@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *then not only an old man, but also a drunkard, becomes a second time a child.*
+> *a slave is one who waits for someone to come and free him." a slip of the foot you soon recover, but a slip of the tongue you never get over.*
 
 </div>
 <!-- quote-end -->

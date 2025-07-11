@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is a lousy teacher. it seduces smart people into thinking they can't lose.*
+> *if you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.*
 
 </div>
 <!-- quote-end -->

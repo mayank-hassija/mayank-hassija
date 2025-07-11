@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.*
+> *i learned that the only way you are going to get anywhere in life is to work hard at it.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a slave is one who waits for someone to come and free him." a slip of the foot you soon recover, but a slip of the tongue you never get over.*
+> *kissing is like drinking salted water: you drink and your thirst increases.*
 
 </div>
 <!-- quote-end -->

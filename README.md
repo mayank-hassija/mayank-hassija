@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i learned that the only way you are going to get anywhere in life is to work hard at it.*
+> *then not only an old man, but also a drunkard, becomes a second time a child.*
 
 </div>
 <!-- quote-end -->

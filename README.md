@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *kissing is like drinking salted water: you drink and your thirst increases.*
+> *true luck consists not in holding the best of the cards at the table; luckiest is he who knows just when to rise and go home. - john hay, 1838-1905 true religion is real living; living with all one's soul, with all one's goodness and righteousness.*
 
 </div>
 <!-- quote-end -->

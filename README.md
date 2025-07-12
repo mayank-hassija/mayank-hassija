@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the worst wheel of the cart makes the most noise.*
+> *the human race has one really effective weapon, and that is laughter.*
 
 </div>
 <!-- quote-end -->

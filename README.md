@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one can never consent to creep when one feels an impulse to soar.*
+> *do not squander time for that is the stuff life is made of.*
 
 </div>
 <!-- quote-end -->

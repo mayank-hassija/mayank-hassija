@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *being an optimist after you've got everything you want doesn't count.*
+> *happiness is not something ready made. it comes from your own actions.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *coming together is a beginning; keeping together is progress; working together is success.*
+> *one can never consent to creep when one feels an impulse to soar.*
 
 </div>
 <!-- quote-end -->

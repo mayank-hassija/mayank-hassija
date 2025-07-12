@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not squander time for that is the stuff life is made of.*
+> *the worst wheel of the cart makes the most noise.*
 
 </div>
 <!-- quote-end -->

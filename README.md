@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am thankful for laughter, except when milk comes out of my nose.*
+> *being an optimist after you've got everything you want doesn't count.*
 
 </div>
 <!-- quote-end -->

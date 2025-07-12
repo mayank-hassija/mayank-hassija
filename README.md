@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the human race has one really effective weapon, and that is laughter.*
+> *your sacred space is where you can find yourself again and again.*
 
 </div>
 <!-- quote-end -->

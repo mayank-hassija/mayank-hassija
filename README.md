@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes almost the same amount of time and energy to manage tiny projects or businesses as it does to manage massive ones... and the massive ones carry with them - proportional rewards.*
+> *ask and ye shall receive.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ask and ye shall receive.*
+> *individual rights are not subject to a public vote; a majority has no right to vote away the rights of a minority; the political function of rights is precisely to protect minorities from oppression by majorities (and the smallest minority on earth is the individual).*
 
 </div>
 <!-- quote-end -->

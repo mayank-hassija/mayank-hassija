@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *happiness is not something ready made. it comes from your own actions.*
+> *basketball is like photography, if you don't focus, all you have is the negative.*
 
 </div>
 <!-- quote-end -->

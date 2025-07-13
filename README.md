@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you cannot dream yourself into a character; you must hammer and forge yourself one.*
+> *when life gives you lemons, you make lemonade. i have several stands around here.*
 
 </div>
 <!-- quote-end -->

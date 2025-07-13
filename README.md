@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you must take personal responsibility. you cannot change the circumstances, the seasons, or the wind, but you can change yourself. that is something you have charge of.*
+> *it takes almost the same amount of time and energy to manage tiny projects or businesses as it does to manage massive ones... and the massive ones carry with them - proportional rewards.*
 
 </div>
 <!-- quote-end -->

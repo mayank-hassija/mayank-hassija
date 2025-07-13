@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i believe in the fundamental truth of all great religions of the world.*
+> *you cannot dream yourself into a character; you must hammer and forge yourself one.*
 
 </div>
 <!-- quote-end -->

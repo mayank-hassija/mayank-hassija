@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *basketball is like photography, if you don't focus, all you have is the negative.*
+> *you must take personal responsibility. you cannot change the circumstances, the seasons, or the wind, but you can change yourself. that is something you have charge of.*
 
 </div>
 <!-- quote-end -->

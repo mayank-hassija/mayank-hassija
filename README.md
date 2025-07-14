@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *constantly seek to improve your manners and graces, for they are the sugar to which all are attracted.*
+> *do not compromise if you are right. hold your ground, show no fear, ask for what you want and the opposition will usually agree.*
 
 </div>
 <!-- quote-end -->

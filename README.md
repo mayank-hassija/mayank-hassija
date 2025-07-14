@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is a fine thing to have ability, but the ability to discover ability in others is the true test.*
+> *constantly seek to improve your manners and graces, for they are the sugar to which all are attracted.*
 
 </div>
 <!-- quote-end -->

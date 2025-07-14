@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever you choose to do today, make sure it‘s small enough you can actually do it but, large enough to make a difference in your life.*
+> *it is a fine thing to have ability, but the ability to discover ability in others is the true test.*
 
 </div>
 <!-- quote-end -->

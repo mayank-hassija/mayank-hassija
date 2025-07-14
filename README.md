@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not compromise if you are right. hold your ground, show no fear, ask for what you want and the opposition will usually agree.*
+> *a sense of humor is part of the art of leadership, of getting along with people, of getting things done.*
 
 </div>
 <!-- quote-end -->

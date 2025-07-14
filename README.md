@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is always your next move.*
+> *if there is no struggle, there is no progress.*
 
 </div>
 <!-- quote-end -->

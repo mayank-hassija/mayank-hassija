@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a sense of humor is part of the art of leadership, of getting along with people, of getting things done.*
+> *so you think that money is the root of all evil. have you ever asked what is the root of all money?*
 
 </div>
 <!-- quote-end -->

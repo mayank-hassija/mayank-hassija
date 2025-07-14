@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when life gives you lemons, you make lemonade. i have several stands around here.*
+> *whatever you choose to do today, make sure it‘s small enough you can actually do it but, large enough to make a difference in your life.*
 
 </div>
 <!-- quote-end -->

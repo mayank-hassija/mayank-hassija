@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dream big!*
+> *if you're going through hell, keep going.*
 
 </div>
 <!-- quote-end -->

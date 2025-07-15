@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's never too late to realize your ambitions. take the first step by daring to dream big dreams. then have the confidence to take a few risks and make those dreams a reality. you'll be glad you did.*
+> *all the adversity i've had in my life, all my troubles and obstacles, have strengthened me... you may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to desire is to obtain; to aspire is to achieve.*
+> *i believe god is managing affairs and that he doesn't need any advice from me. with god in charge, i believe everything will work out for the best in the end. so what is there to worry about.*
 
 </div>
 <!-- quote-end -->

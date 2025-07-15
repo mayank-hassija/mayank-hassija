@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all the adversity i've had in my life, all my troubles and obstacles, have strengthened me... you may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.*
+> *vision - is a clearly articulated, results oriented, picture of the future-you that you are creating. a vision without a task is but a dream. a task without a vision is drudgery. a vision and a task are the hope of the world.*
 
 </div>
 <!-- quote-end -->

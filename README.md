@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i believe god is managing affairs and that he doesn't need any advice from me. with god in charge, i believe everything will work out for the best in the end. so what is there to worry about.*
+> *it's never too late to realize your ambitions. take the first step by daring to dream big dreams. then have the confidence to take a few risks and make those dreams a reality. you'll be glad you did.*
 
 </div>
 <!-- quote-end -->

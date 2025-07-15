@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you're going through hell, keep going.*
+> *to desire is to obtain; to aspire is to achieve.*
 
 </div>
 <!-- quote-end -->

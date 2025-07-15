@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *vision - is a clearly articulated, results oriented, picture of the future-you that you are creating. a vision without a task is but a dream. a task without a vision is drudgery. a vision and a task are the hope of the world.*
+> *you can't say civilization don't advance... in every war they have new and better ways to kill you.*
 
 </div>
 <!-- quote-end -->

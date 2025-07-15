@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if there is no struggle, there is no progress.*
+> *dream big!*
 
 </div>
 <!-- quote-end -->

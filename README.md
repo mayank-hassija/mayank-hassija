@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can judge your age by the amount of pain you feel when you come in contact with a new idea.*
+> *i am prepared to die, but there is no cause for which i am prepared to kill.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take advantage of every opportunity to practice your communication skills so that when important occasions arise, you will have the gift, the style, the sharpness, the clarity, and the emotions to affect other people.*
+> *i think, at a child's birth, if a mother could ask a fairy godmother to endow it with the most useful gift, that gift would be curiosity.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't say civilization don't advance... in every war they have new and better ways to kill you.*
+> *you can find 10,000 years of stories of every known way to fail or succeed in books. if you can‘t afford to buy them, get a library card. there‘s a free library not far from where you live. with all of this knowledge available to you, there is no acceptable excuse for you not to succeed at anything you do.*
 
 </div>
 <!-- quote-end -->

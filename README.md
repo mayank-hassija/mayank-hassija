@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to be wronged is nothing unless you continue to remember it.*
+> *take advantage of every opportunity to practice your communication skills so that when important occasions arise, you will have the gift, the style, the sharpness, the clarity, and the emotions to affect other people.*
 
 </div>
 <!-- quote-end -->

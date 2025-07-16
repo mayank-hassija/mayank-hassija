@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i think, at a child's birth, if a mother could ask a fairy godmother to endow it with the most useful gift, that gift would be curiosity.*
+> *teamwork is so important that it is virtually impossible for you to reach the heights of your capabilities or make the money that you want without becoming very good at it.*
 
 </div>
 <!-- quote-end -->

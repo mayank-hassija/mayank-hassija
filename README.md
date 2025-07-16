@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am prepared to die, but there is no cause for which i am prepared to kill.*
+> *if your purpose of life is security, you will be a failure. security is the lowest form of happiness.*
 
 </div>
 <!-- quote-end -->

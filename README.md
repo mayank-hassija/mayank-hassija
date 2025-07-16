@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *teamwork is so important that it is virtually impossible for you to reach the heights of your capabilities or make the money that you want without becoming very good at it.*
+> *you can judge your age by the amount of pain you feel when you come in contact with a new idea.*
 
 </div>
 <!-- quote-end -->

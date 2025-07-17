@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *that which we persist in doing becomes easier - not that the nature of the task has changed, but our ability to do has increased.*
+> *the most important choices you'll ever make are how you use your time.*
 
 </div>
 <!-- quote-end -->

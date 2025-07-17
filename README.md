@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *knowledge will forever govern ignorance; and a people who mean to be their own governors must arm themselves with the power which knowledge gives.‖ knowledge without justice ought to be called cunning rather than wisdom.*
+> *an artist paints with his brains and not with his hands.*
 
 </div>
 <!-- quote-end -->

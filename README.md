@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what do people fear most about death? being forgotten.*
+> *a broad margin of leisure is as beautiful in a man's life as in a book. haste makes waste, no less in life than in housekeeping. keep track of the time.*
 
 </div>
 <!-- quote-end -->

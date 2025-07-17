@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *produce for wealth creation and accumulation.*
+> *that which we persist in doing becomes easier - not that the nature of the task has changed, but our ability to do has increased.*
 
 </div>
 <!-- quote-end -->

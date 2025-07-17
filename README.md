@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a broad margin of leisure is as beautiful in a man's life as in a book. haste makes waste, no less in life than in housekeeping. keep track of the time.*
+> *produce for wealth creation and accumulation.*
 
 </div>
 <!-- quote-end -->

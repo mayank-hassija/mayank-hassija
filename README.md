@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not depend upon others.*
+> *what do people fear most about death? being forgotten.*
 
 </div>
 <!-- quote-end -->

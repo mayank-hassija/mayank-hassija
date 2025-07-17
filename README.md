@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if your purpose of life is security, you will be a failure. security is the lowest form of happiness.*
+> *do not depend upon others.*
 
 </div>
 <!-- quote-end -->

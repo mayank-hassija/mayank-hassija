@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an artist paints with his brains and not with his hands.*
+> *in every person who comes near you look for what is good and strong; honor that; try to imitate it, and your faults will drop off like dead leaves when their time comes.*
 
 </div>
 <!-- quote-end -->

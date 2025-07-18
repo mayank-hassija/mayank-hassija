@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *perception is what you believe to be true based on five things: sight; smell; taste; touch and hearing.*
+> *walking with a friend in the dark is better than walking alone in the light.*
 
 </div>
 <!-- quote-end -->

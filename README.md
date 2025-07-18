@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in every person who comes near you look for what is good and strong; honor that; try to imitate it, and your faults will drop off like dead leaves when their time comes.*
+> *there are some things you don‘t have to know how it works—only that it works. while some people are studying the roots, others are picking the fruit. it just depends on which end of this you want to get in on.*
 
 </div>
 <!-- quote-end -->

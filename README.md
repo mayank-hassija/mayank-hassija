@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are some things you don‘t have to know how it works—only that it works. while some people are studying the roots, others are picking the fruit. it just depends on which end of this you want to get in on.*
+> *the human contribution is the essential ingredient. it is only in the giving of oneself to others that we truly live.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your company's most valuable asset is the company‘s reputation with its customers.*
+> *the most precious things in life cannot be made by hand or bought by man.*
 
 </div>
 <!-- quote-end -->

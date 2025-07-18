@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should feel sorrow, but not sink under its oppression.*
+> *perception is what you believe to be true based on five things: sight; smell; taste; touch and hearing.*
 
 </div>
 <!-- quote-end -->

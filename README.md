@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most precious things in life cannot be made by hand or bought by man.*
+> *we should feel sorrow, but not sink under its oppression.*
 
 </div>
 <!-- quote-end -->

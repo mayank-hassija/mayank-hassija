@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the human contribution is the essential ingredient. it is only in the giving of oneself to others that we truly live.*
+> *your company's most valuable asset is the company‘s reputation with its customers.*
 
 </div>
 <!-- quote-end -->

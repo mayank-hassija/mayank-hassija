@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when it comes to going after what you love in life, don't take no for an answer.*
+> *work harder on yourself than you do on your job.*
 
 </div>
 <!-- quote-end -->

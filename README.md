@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *self-praise is for losers. be a winner. stand for something. always have class, and be humble.*
+> *it doesn't matter where you come from. all that matters is where you‘re going.*
 
 </div>
 <!-- quote-end -->

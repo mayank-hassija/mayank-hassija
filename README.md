@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it doesn't matter where you come from. all that matters is where you‘re going.*
+> *when it comes to going after what you love in life, don't take no for an answer.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is an illusion to think that peace can be attained by strength of arms, it can only be found within yourself by all who are peaceful & defenseless.*
+> *self-praise is for losers. be a winner. stand for something. always have class, and be humble.*
 
 </div>
 <!-- quote-end -->

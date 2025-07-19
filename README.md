@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *walking with a friend in the dark is better than walking alone in the light.*
+> *self-respect knows no considerations.*
 
 </div>
 <!-- quote-end -->

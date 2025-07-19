@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *work harder on yourself than you do on your job.*
+> *the only limit to your impact is your level-of-imagination and your level-of-commitment.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is a journey from darkness to darkness. what comes in between is a relationship with your family, friends and loved ones." life in itself is a great wave of encouragement in the still waters of death and pain. every time, this wave comes towards the shore and hits itself against huge rocks and retreats. but, after many years you will find the rocks smaller and worn out, but will never find the wave lose its pace and vigor. that's life!*
+> *it is an illusion to think that peace can be attained by strength of arms, it can only be found within yourself by all who are peaceful & defenseless.*
 
 </div>
 <!-- quote-end -->

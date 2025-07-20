@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when anger rises, think of the consequences.*
+> *service which is rendered without joy helps neither the servant nor the served. but all other pleasures and possessions pale into nothingness before service which is rendered in a spirit of joy.*
 
 </div>
 <!-- quote-end -->

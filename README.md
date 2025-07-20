@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is a miserable state of mind to have few things to desire, and many things to fear.*
+> *when i look back in my life, the worst discouragement valleys have been because of a lack of knowledge. i simply did not know what certain things meant until i met them "face to face".*
 
 </div>
 <!-- quote-end -->

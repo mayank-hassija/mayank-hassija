@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only limit to your impact is your level-of-imagination and your level-of-commitment.*
+> *never tell people how to do things. tell them what to do and they will surprise you with their ingenuity.*
 
 </div>
 <!-- quote-end -->

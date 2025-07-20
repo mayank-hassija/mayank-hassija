@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your big opportunity may be right where you are now.*
+> *when anger rises, think of the consequences.*
 
 </div>
 <!-- quote-end -->

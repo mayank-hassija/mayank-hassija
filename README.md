@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *service which is rendered without joy helps neither the servant nor the served. but all other pleasures and possessions pale into nothingness before service which is rendered in a spirit of joy.*
+> *it is a miserable state of mind to have few things to desire, and many things to fear.*
 
 </div>
 <!-- quote-end -->

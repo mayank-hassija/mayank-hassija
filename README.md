@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never tell people how to do things. tell them what to do and they will surprise you with their ingenuity.*
+> *whoever is careless with the truth in small matters cannot be trusted with important matters.*
 
 </div>
 <!-- quote-end -->

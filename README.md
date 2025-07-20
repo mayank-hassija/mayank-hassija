@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whoever is careless with the truth in small matters cannot be trusted with important matters.*
+> *you have to give before you can get.*
 
 </div>
 <!-- quote-end -->

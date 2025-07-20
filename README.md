@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you have to give before you can get.*
+> *your big opportunity may be right where you are now.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you're riding, only the race in which you're riding is important.*
+> *death may be the greatest of all human blessings.*
 
 </div>
 <!-- quote-end -->

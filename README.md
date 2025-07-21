@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *death may be the greatest of all human blessings.*
+> *it requires wisdom to understand wisdom: the music is nothing if the audience is deaf.*
 
 </div>
 <!-- quote-end -->

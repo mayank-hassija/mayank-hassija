@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a person who won't read has no advantage over one who can't.*
+> *the surest way not to fail is to be determined to succeed.*
 
 </div>
 <!-- quote-end -->

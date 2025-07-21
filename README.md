@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ask and ye shall receive.*
+> *enter every activity without giving mental recognition to the possibility of defeat. concentrate on your strengths, instead of your weaknesses... on your powers, instead of your problems.*
 
 </div>
 <!-- quote-end -->

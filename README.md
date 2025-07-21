@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the way is not in the sky. the way is in the heart.*
+> *when you're riding, only the race in which you're riding is important.*
 
 </div>
 <!-- quote-end -->

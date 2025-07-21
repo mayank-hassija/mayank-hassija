@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it requires wisdom to understand wisdom: the music is nothing if the audience is deaf.*
+> *ask and ye shall receive.*
 
 </div>
 <!-- quote-end -->

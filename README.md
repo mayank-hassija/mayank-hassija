@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *enter every activity without giving mental recognition to the possibility of defeat. concentrate on your strengths, instead of your weaknesses... on your powers, instead of your problems.*
+> *a person who won't read has no advantage over one who can't.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when i look back in my life, the worst discouragement valleys have been because of a lack of knowledge. i simply did not know what certain things meant until i met them "face to face".*
+> *the way is not in the sky. the way is in the heart.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am thankful for laughter, except when milk comes out of my nose.*
+> *man is still the greatest miracle and the greatest problem on this earth.*
 
 </div>
 <!-- quote-end -->

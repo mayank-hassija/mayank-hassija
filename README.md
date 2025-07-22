@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *while civilization has been improving our houses, it has not equally improved the men who are to inhabit them. it has created palaces, but it was not so easy to create noblemen and kings.*
+> *do the thing you fear most and the death of fear is certain.*
 
 </div>
 <!-- quote-end -->

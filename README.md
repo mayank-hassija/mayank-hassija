@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the surest way not to fail is to be determined to succeed.*
+> *while civilization has been improving our houses, it has not equally improved the men who are to inhabit them. it has created palaces, but it was not so easy to create noblemen and kings.*
 
 </div>
 <!-- quote-end -->

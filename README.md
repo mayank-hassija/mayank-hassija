@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *man is still the greatest miracle and the greatest problem on this earth.*
+> *failure is, in a sense, the highway to success, inasmuch as every discovery of what is false leads us to seek earnestly after what is true, and every fresh experience points out some form of error which we shall afterwards carefully avoid.*
 
 </div>
 <!-- quote-end -->

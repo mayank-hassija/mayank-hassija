@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure is, in a sense, the highway to success, inasmuch as every discovery of what is false leads us to seek earnestly after what is true, and every fresh experience points out some form of error which we shall afterwards carefully avoid.*
+> *the pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.*
 
 </div>
 <!-- quote-end -->

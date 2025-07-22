@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *edison failed 10, 000 times before he made the electric light. do not be discouraged if you fail a few times.*
+> *tomorrow, every fault is to be amended; but that particular tomorrow never comes.*
 
 </div>
 <!-- quote-end -->

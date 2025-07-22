@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *tomorrow, every fault is to be amended; but that particular tomorrow never comes.*
+> *i am thankful for laughter, except when milk comes out of my nose.*
 
 </div>
 <!-- quote-end -->

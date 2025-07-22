@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do the thing you fear most and the death of fear is certain.*
+> *edison failed 10, 000 times before he made the electric light. do not be discouraged if you fail a few times.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.*
+> *fear doesn't exist anywhere except in the mind.*
 
 </div>
 <!-- quote-end -->

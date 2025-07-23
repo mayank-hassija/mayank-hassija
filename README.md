@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your attitude, not your aptitude, will determine your altitude.*
+> *we should all be concerned about the future because we will have to spend the rest of our lives there.*
 
 </div>
 <!-- quote-end -->

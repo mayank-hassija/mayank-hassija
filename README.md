@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *fear doesn't exist anywhere except in the mind.*
+> *rhetoric is the art of ruling the minds of men.*
 
 </div>
 <!-- quote-end -->

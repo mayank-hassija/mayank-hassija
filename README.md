@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *rhetoric is the art of ruling the minds of men.*
+> *reflect upon your present blessings, of which every man has many - not on your past.*
 
 </div>
 <!-- quote-end -->

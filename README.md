@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how does it become a man to behave towards the american government today? i answer, that he cannot without disgrace be associated with it.*
+> *your attitude, not your aptitude, will determine your altitude.*
 
 </div>
 <!-- quote-end -->

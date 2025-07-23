@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *any fact facing us is not as important as our attitude toward it, for that determines our success or failure. the way you think about a fact may defeat you before you ever do anything about it. you are overcome by the fact because you think you are.*
+> *how does it become a man to behave towards the american government today? i answer, that he cannot without disgrace be associated with it.*
 
 </div>
 <!-- quote-end -->

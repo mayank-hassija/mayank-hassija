@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *change is the law of life and those who look only to the past or present are certain to miss the future.*
+> *any fact facing us is not as important as our attitude toward it, for that determines our success or failure. the way you think about a fact may defeat you before you ever do anything about it. you are overcome by the fact because you think you are.*
 
 </div>
 <!-- quote-end -->

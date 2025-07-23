@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *reflect upon your present blessings, of which every man has many - not on your past.*
+> *change is the law of life and those who look only to the past or present are certain to miss the future.*
 
 </div>
 <!-- quote-end -->

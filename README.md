@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love is the joy of the good, the wonder of the wise, the amazement of the gods.*
+> *figure out how to climb it, go through it, or work around it.*
 
 </div>
 <!-- quote-end -->

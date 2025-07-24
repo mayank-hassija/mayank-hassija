@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most of the change we think we see in life is due to truths of the time being in and out of favor.*
+> *the meanest, most contemptible kind of praise is that which first speaks well of a man, and then qualifies it with a "but." the measure of a man is what he does with power.*
 
 </div>
 <!-- quote-end -->

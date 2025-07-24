@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the meanest, most contemptible kind of praise is that which first speaks well of a man, and then qualifies it with a "but." the measure of a man is what he does with power.*
+> *love is the joy of the good, the wonder of the wise, the amazement of the gods.*
 
 </div>
 <!-- quote-end -->

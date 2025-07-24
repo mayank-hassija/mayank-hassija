@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should all be concerned about the future because we will have to spend the rest of our lives there.*
+> *the body is a community made up of its innumerable cells or inhabitants.*
 
 </div>
 <!-- quote-end -->

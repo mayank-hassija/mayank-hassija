@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the body is a community made up of its innumerable cells or inhabitants.*
+> *you can't depend on your eyes when your imagination is out of focus.*
 
 </div>
 <!-- quote-end -->

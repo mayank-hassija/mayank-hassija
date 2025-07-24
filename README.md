@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don‘t let the low times keep you down. learn from them and reach for the high times.*
+> *most of the change we think we see in life is due to truths of the time being in and out of favor.*
 
 </div>
 <!-- quote-end -->

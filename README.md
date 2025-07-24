@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't depend on your eyes when your imagination is out of focus.*
+> *don‘t let the low times keep you down. learn from them and reach for the high times.*
 
 </div>
 <!-- quote-end -->

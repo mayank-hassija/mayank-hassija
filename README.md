@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *figure out how to climb it, go through it, or work around it.*
+> *i'd rather lose my own money than someone else's.*
 
 </div>
 <!-- quote-end -->

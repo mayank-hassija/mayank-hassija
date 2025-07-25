@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i'd rather lose my own money than someone else's.*
+> *he that won't be counseled can't be helped.*
 
 </div>
 <!-- quote-end -->

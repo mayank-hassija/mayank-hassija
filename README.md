@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i'm black, i don't feel burdened by it and i don't think it's a huge responsibility. it's part of who i am. it does not define me.*
+> *people are where they are because that is exactly where they really want to be – whether they will admit that or not.*
 
 </div>
 <!-- quote-end -->

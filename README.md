@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he that won't be counseled can't be helped.*
+> *for the human mind is seldom at stay: if you do not grow better, you will most undoubtedly grow worse.*
 
 </div>
 <!-- quote-end -->

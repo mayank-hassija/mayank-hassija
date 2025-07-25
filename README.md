@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people are where they are because that is exactly where they really want to be – whether they will admit that or not.*
+> *the best you can expect is half-hearted results from half-hearted efforts.*
 
 </div>
 <!-- quote-end -->

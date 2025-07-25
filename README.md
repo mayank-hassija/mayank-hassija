@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes a lot of courage to release the familiar and seemingly secure, to embrace the new. but there is no real security in what is no longer meaningful. there is more security in the adventurous and exciting, for in movement there is life, and in change there is power.*
+> *when dealing with people, remember you are not dealing with creatures of logic, but creatures of emotion.*
 
 </div>
 <!-- quote-end -->

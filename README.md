@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best you can expect is half-hearted results from half-hearted efforts.*
+> *it takes a lot of courage to release the familiar and seemingly secure, to embrace the new. but there is no real security in what is no longer meaningful. there is more security in the adventurous and exciting, for in movement there is life, and in change there is power.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *for the human mind is seldom at stay: if you do not grow better, you will most undoubtedly grow worse.*
+> *i'm black, i don't feel burdened by it and i don't think it's a huge responsibility. it's part of who i am. it does not define me.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a coward is incapable of exhibiting love; it is the prerogative of the brave.*
+> *discipline yourself to save money even on a small salary.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *first impressions are lasting impressions. put your best foot forward.*
+> *i have also seen children successfully surmounting the effects of an evil inheritance. that is due to purity being an inherent attribute of the soul.*
 
 </div>
 <!-- quote-end -->

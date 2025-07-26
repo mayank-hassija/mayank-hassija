@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if someone lies to you once, he'll lie to you a thousand times. lying is for thieves and cowards.*
+> *most people spend 90% of their time on what they're not best at and what they don't like doing - and only 10% of their time on their best and most enjoyable ability. geniuses delegate the 90%... and spend all their time on their "unique ability".*
 
 </div>
 <!-- quote-end -->

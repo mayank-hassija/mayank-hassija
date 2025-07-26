@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have also seen children successfully surmounting the effects of an evil inheritance. that is due to purity being an inherent attribute of the soul.*
+> *if someone lies to you once, he'll lie to you a thousand times. lying is for thieves and cowards.*
 
 </div>
 <!-- quote-end -->

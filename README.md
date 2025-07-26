@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the good is the beautiful.*
+> *a coward is incapable of exhibiting love; it is the prerogative of the brave.*
 
 </div>
 <!-- quote-end -->

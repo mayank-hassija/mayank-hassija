@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *discipline yourself to save money even on a small salary.*
+> *first impressions are lasting impressions. put your best foot forward.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's great to win, but it's also great fun just to be in the thick of any truly well and hard fought contest against opponents you respect, whatever the outcome.*
+> *be not simply good; be good for something.*
 
 </div>
 <!-- quote-end -->

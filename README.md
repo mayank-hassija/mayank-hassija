@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *hide not your talents. they were made for you to use wisely. what value is a sundial in the shade?*
+> *there's nothing funnier than the human animal.*
 
 </div>
 <!-- quote-end -->

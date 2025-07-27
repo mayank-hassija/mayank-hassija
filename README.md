@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.*
+> *you've got to develop mental strength. and you develop mental strength with the will.*
 
 </div>
 <!-- quote-end -->

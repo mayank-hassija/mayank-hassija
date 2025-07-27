@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *kindness can become its own motive. we are made kind by being kind.*
+> *it's great to win, but it's also great fun just to be in the thick of any truly well and hard fought contest against opponents you respect, whatever the outcome.*
 
 </div>
 <!-- quote-end -->

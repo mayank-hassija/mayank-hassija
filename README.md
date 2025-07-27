@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *even if you‘re not sure what to do at this moment, don‘t throw away an hour trying to figure it out.*
+> *hide not your talents. they were made for you to use wisely. what value is a sundial in the shade?*
 
 </div>
 <!-- quote-end -->

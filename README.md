@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there's nothing funnier than the human animal.*
+> *when red-haired people are above a certain social grade their hair is auburn.*
 
 </div>
 <!-- quote-end -->

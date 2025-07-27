@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when red-haired people are above a certain social grade their hair is auburn.*
+> *kindness can become its own motive. we are made kind by being kind.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *hold a picture of ‗the future you‘ long and steadily enough in your mind's eye, and you will automatically be drawn toward it.*
+> *never cut a tree down in the wintertime. never make an important negative decision in the low times of your life. never make your most important decisions when you are in your worst moods. wait. be patient. the storm will pass. the spring will come.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *sub-conscious mind, the – the connecting link (step #11 to success.) success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. what simple action could you take today to produce a new momentum toward success in your life?*
+> *humor must not professedly teach and it must not professedly preach, but it must do both if it would live forever.*
 
 </div>
 <!-- quote-end -->

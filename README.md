@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you. you might well remember that nothing can bring you success but yourself.*
+> *one man practicing sportsmanship is far better than fifty preaching it.*
 
 </div>
 <!-- quote-end -->

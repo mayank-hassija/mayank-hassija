@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never cut a tree down in the wintertime. never make an important negative decision in the low times of your life. never make your most important decisions when you are in your worst moods. wait. be patient. the storm will pass. the spring will come.*
+> *you may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you. you might well remember that nothing can bring you success but yourself.*
 
 </div>
 <!-- quote-end -->

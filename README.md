@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *humor must not professedly teach and it must not professedly preach, but it must do both if it would live forever.*
+> *hold a picture of ‗the future you‘ long and steadily enough in your mind's eye, and you will automatically be drawn toward it.*
 
 </div>
 <!-- quote-end -->

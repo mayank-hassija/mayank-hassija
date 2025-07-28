@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one man practicing sportsmanship is far better than fifty preaching it.*
+> *there is no such thing as ―a good idea‖ unless it is developed and utilized.*
 
 </div>
 <!-- quote-end -->

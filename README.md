@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you've got to develop mental strength. and you develop mental strength with the will.*
+> *no army can withstand the strength of an idea whose time has come.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a man is not old until his regrets out number his dreams.*
+> *i have a great deal of company in the house, especially in the morning when nobody calls.*
 
 </div>
 <!-- quote-end -->

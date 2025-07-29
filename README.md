@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't say civilization don't advance... in every war they have new and better ways to kill you.*
+> *there is no value in life except what you choose to place upon it and no happiness in any place except what you bring to it yourself.*
 
 </div>
 <!-- quote-end -->

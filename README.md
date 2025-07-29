@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have a great deal of company in the house, especially in the morning when nobody calls.*
+> *you can't say civilization don't advance... in every war they have new and better ways to kill you.*
 
 </div>
 <!-- quote-end -->

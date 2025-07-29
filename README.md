@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we tend to get what we expect.*
+> *we make a living by what we get, but we make a life by what we give.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when i examine myself and my methods of thought, i come to the conclusion that the gift of fantasy has meant more to me than any talent for abstract, positive thinking.*
+> *a man is not old until his regrets out number his dreams.*
 
 </div>
 <!-- quote-end -->

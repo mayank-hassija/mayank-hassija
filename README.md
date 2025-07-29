@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no such thing as ―a good idea‖ unless it is developed and utilized.*
+> *when i examine myself and my methods of thought, i come to the conclusion that the gift of fantasy has meant more to me than any talent for abstract, positive thinking.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *tyranny naturally arises out of democracy.*
+> *we tend to get what we expect.*
 
 </div>
 <!-- quote-end -->

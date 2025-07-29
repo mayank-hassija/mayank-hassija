@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no value in life except what you choose to place upon it and no happiness in any place except what you bring to it yourself.*
+> *tyranny naturally arises out of democracy.*
 
 </div>
 <!-- quote-end -->

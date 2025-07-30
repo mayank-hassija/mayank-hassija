@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *live your beliefs and you can turn the world around.*
+> *ideas are like rabbits. you get a couple and learn how to handle them, and pretty soon you have a dozen.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what others think of you is none of your business.*
+> *live your beliefs and you can turn the world around.*
 
 </div>
 <!-- quote-end -->

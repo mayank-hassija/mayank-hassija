@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in life, it's not who you know that's important, it's how your wife found out.*
+> *most people can't think, most of the remainder won't think, the small fraction who do think mostly can't do it very well. the extremely tiny fraction who think regularly, accurately, creatively, and without self-delusion- in the long run, these are the only people who count.*
 
 </div>
 <!-- quote-end -->

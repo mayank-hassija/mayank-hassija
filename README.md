@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most people can't think, most of the remainder won't think, the small fraction who do think mostly can't do it very well. the extremely tiny fraction who think regularly, accurately, creatively, and without self-delusion- in the long run, these are the only people who count.*
+> *what others think of you is none of your business.*
 
 </div>
 <!-- quote-end -->

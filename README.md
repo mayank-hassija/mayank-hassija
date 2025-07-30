@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *this country has come to feel the same way when congress is in session as when the baby gets hold of a hammer.*
+> *any fool can criticize, condemn and complain and most fools do.*
 
 </div>
 <!-- quote-end -->

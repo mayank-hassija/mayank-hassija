@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ideas are like rabbits. you get a couple and learn how to handle them, and pretty soon you have a dozen.*
+> *creativity is a natural extension of your enthusiasm.*
 
 </div>
 <!-- quote-end -->

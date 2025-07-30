@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *creativity is a natural extension of your enthusiasm.*
+> *this country has come to feel the same way when congress is in session as when the baby gets hold of a hammer.*
 
 </div>
 <!-- quote-end -->

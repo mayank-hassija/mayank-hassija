@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we make a living by what we get, but we make a life by what we give.*
+> *in life, it's not who you know that's important, it's how your wife found out.*
 
 </div>
 <!-- quote-end -->

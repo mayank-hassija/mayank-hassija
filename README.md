@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to climb steep hills requires slow pace at first.*
+> *success is not the key to happiness. happiness is the key to success. if you love what you are doing, you will be successful.*
 
 </div>
 <!-- quote-end -->

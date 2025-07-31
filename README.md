@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is not the key to happiness. happiness is the key to success. if you love what you are doing, you will be successful.*
+> *nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. that's not the place to become discouraged.*
 
 </div>
 <!-- quote-end -->

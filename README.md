@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no man is rich enough to buy back his past.*
+> *even a mistake may turn out to be the one thing necessary to a worthwhile achievement.*
 
 </div>
 <!-- quote-end -->

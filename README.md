@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god is a metaphor for that which trancends all levels of intellectual thought. it's as simple as that.*
+> *it is curious that physical courage should be so common in the world and moral courage so rare.*
 
 </div>
 <!-- quote-end -->

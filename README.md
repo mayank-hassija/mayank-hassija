@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is curious that physical courage should be so common in the world and moral courage so rare.*
+> *no man is rich enough to buy back his past.*
 
 </div>
 <!-- quote-end -->

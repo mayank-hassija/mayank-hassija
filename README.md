@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nearly every man who develops an idea works it up to the point where it looks impossible, and then he gets discouraged. that's not the place to become discouraged.*
+> *god is a metaphor for that which trancends all levels of intellectual thought. it's as simple as that.*
 
 </div>
 <!-- quote-end -->

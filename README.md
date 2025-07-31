@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *self-confident – you need a ―if they can do it, i can do it‖ moment in your life. having the self-confidence that ―i can do it‖ is a form of faith.*
+> *to climb steep hills requires slow pace at first.*
 
 </div>
 <!-- quote-end -->

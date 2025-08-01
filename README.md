@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is nothing so useless as doing efficiently that which should not be done at all.*
+> *a birth certificate shows that we were born... a death certificate shows that we died... pictures show that we lived !*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.*
+> *if we did all the things we are capable of, we would literally astound ourselves.*
 
 </div>
 <!-- quote-end -->

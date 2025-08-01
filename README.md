@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the sun too penetrates into privies, but is not polluted by them.*
+> *teaching is the profession that teaches all the other professions.*
 
 </div>
 <!-- quote-end -->

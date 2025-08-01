@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *teaching is the profession that teaches all the other professions.*
+> *study leads to understanding. understanding leads to wisdom. wisdom leads to faith.*
 
 </div>
 <!-- quote-end -->

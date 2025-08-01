@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is better to be violent, if there is violence in our hearts, than to put on the cloak of nonviolence to cover impotence.*
+> *the sun too penetrates into privies, but is not polluted by them.*
 
 </div>
 <!-- quote-end -->

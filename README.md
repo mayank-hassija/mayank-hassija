@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *study leads to understanding. understanding leads to wisdom. wisdom leads to faith.*
+> *there is nothing so useless as doing efficiently that which should not be done at all.*
 
 </div>
 <!-- quote-end -->

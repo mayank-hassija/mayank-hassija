@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *even a mistake may turn out to be the one thing necessary to a worthwhile achievement.*
+> *it is better to be violent, if there is violence in our hearts, than to put on the cloak of nonviolence to cover impotence.*
 
 </div>
 <!-- quote-end -->

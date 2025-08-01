@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a birth certificate shows that we were born... a death certificate shows that we died... pictures show that we lived !*
+> *you were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.*
 
 </div>
 <!-- quote-end -->

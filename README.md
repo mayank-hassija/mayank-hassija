@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what appears to be the end of the road may simply be a bend in the road.*
+> *the strong man is the one who is able to intercept at will the communication between the senses and the mind.*
 
 </div>
 <!-- quote-end -->

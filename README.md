@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you raise your children to feel that they can accomplish any goal or task they decide upon, you will have succeeded as a parent and you will have given your children the greatest of all blessings.*
+> *what appears to be the end of the road may simply be a bend in the road.*
 
 </div>
 <!-- quote-end -->

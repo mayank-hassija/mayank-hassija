@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are truly worthwhile in life, you can have anything you desire.*
+> *if you raise your children to feel that they can accomplish any goal or task they decide upon, you will have succeeded as a parent and you will have given your children the greatest of all blessings.*
 
 </div>
 <!-- quote-end -->

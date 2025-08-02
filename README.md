@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is always a present and extant life, be it better or worse, which all combine to uphold.*
+> *science is a method to keep yourself from kidding yourself.*
 
 </div>
 <!-- quote-end -->

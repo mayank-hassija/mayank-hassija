@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if we did all the things we are capable of, we would literally astound ourselves.*
+> *there is always a present and extant life, be it better or worse, which all combine to uphold.*
 
 </div>
 <!-- quote-end -->

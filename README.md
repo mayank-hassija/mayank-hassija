@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the strong man is the one who is able to intercept at will the communication between the senses and the mind.*
+> *goals are not only absolutely necessary to motivate us. they are essential to really keep us alive.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *science is a method to keep yourself from kidding yourself.*
+> *real generosity toward the future lies in giving all to the present.*
 
 </div>
 <!-- quote-end -->

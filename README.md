@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *real generosity toward the future lies in giving all to the present.*
+> *if you believe in yourself and have the courage, the determination, the dedication, the competitive drive and if you are willing to sacrifice the little things in life and pay the price for the things that are truly worthwhile in life, you can have anything you desire.*
 
 </div>
 <!-- quote-end -->

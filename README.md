@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an ignorant person is one who doesn't know what you have just found out.*
+> *not everything that can be counted counts, and not everything that counts can be counted.*
 
 </div>
 <!-- quote-end -->

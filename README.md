@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *goals are not only absolutely necessary to motivate us. they are essential to really keep us alive.*
+> *you can‘t re-live any day from your past. today is all there is.*
 
 </div>
 <!-- quote-end -->

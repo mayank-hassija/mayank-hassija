@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can‘t re-live any day from your past. today is all there is.*
+> *always seek out the seed of triumph in every adversity.*
 
 </div>
 <!-- quote-end -->

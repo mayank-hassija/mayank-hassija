@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *peace comes from within. do not seek it without.*
+> *an ignorant person is one who doesn't know what you have just found out.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *not everything that can be counted counts, and not everything that counts can be counted.*
+> *some broad themes brought me where i am today. at a very young age, my hobby became thinking and finding connections.*
 
 </div>
 <!-- quote-end -->

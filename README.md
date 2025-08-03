@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *always seek out the seed of triumph in every adversity.*
+> *if you believe in yourself, things are possible.*
 
 </div>
 <!-- quote-end -->

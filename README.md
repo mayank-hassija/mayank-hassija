@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we will always tend to fulfill our own expectation of ourselves.*
+> *don't feel entitled to anything you didn't sweat and struggle for.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't feel entitled to anything you didn't sweat and struggle for.*
+> *success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everything, since the beginning of time, began as an idea in one person‘s mind.*
+> *in the middle of every difficulty lies opportunity.*
 
 </div>
 <!-- quote-end -->

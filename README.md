@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *science is a wonderful thing if one does not have to earn one's living at it.*
+> *if you‘re properly prepared, you will have confidence.*
 
 </div>
 <!-- quote-end -->

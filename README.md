@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *some broad themes brought me where i am today. at a very young age, my hobby became thinking and finding connections.*
+> *the average person puts only 25% of his energy and ability into his work. the world takes off its hat to those who put in more than 50% of their capacity, and stands on its head for those few and far between souls who devote 100%.*
 
 </div>
 <!-- quote-end -->

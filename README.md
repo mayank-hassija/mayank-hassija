@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you‘re properly prepared, you will have confidence.*
+> *everything, since the beginning of time, began as an idea in one person‘s mind.*
 
 </div>
 <!-- quote-end -->

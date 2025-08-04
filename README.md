@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is not measured by what you accomplish, but by the opposition you have encountered, and the courage with which you have maintained the struggle against overwhelming odds.*
+> *science is a wonderful thing if one does not have to earn one's living at it.*
 
 </div>
 <!-- quote-end -->

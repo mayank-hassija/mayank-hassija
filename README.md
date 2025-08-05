@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no evil can happen to a good man, either in life or after death.*
+> *pollution is nothing but the resources we are not harvesting. we allow them to disperse because we've been ignorant of their value.*
 
 </div>
 <!-- quote-end -->

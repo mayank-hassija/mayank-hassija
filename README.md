@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to succeed, jump as quickly at opportunities as you do at conclusions.*
+> *all that you accomplish or fail to accomplish with your life is the direct result of your thoughts.*
 
 </div>
 <!-- quote-end -->

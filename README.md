@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in the middle of every difficulty lies opportunity.*
+> *it takes many good deeds to build a good reputation, and only one bad one to lose it.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes many good deeds to build a good reputation, and only one bad one to lose it.*
+> *no evil can happen to a good man, either in life or after death.*
 
 </div>
 <!-- quote-end -->

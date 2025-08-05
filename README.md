@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if it was necessary to tolerate in other people everything that one permits oneself, life would be unbearable.*
+> *become the most positive and enthusiastic person you know.*
 
 </div>
 <!-- quote-end -->

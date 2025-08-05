@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *pollution is nothing but the resources we are not harvesting. we allow them to disperse because we've been ignorant of their value.*
+> *if it was necessary to tolerate in other people everything that one permits oneself, life would be unbearable.*
 
 </div>
 <!-- quote-end -->

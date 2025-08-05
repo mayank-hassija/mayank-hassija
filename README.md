@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *become the most positive and enthusiastic person you know.*
+> *to succeed, jump as quickly at opportunities as you do at conclusions.*
 
 </div>
 <!-- quote-end -->

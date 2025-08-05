@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all that you accomplish or fail to accomplish with your life is the direct result of your thoughts.*
+> *all this worldly wisdom was once the unimaginable heresy of one wise man.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.*
+> *whatever you can do, or dream you can, begin it. boldness has genius, power and magic in it, begin it now.*
 
 </div>
 <!-- quote-end -->

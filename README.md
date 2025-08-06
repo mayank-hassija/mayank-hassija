@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is just so much stuff in the world that, to me, is devoid of any real substance, value, and content that i just try to make sure that i am working on things that matter.*
+> *what the country needs is dirtier fingernails and cleaner minds.*
 
 </div>
 <!-- quote-end -->

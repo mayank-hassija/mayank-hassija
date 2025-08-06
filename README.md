@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what the country needs is dirtier fingernails and cleaner minds.*
+> *he who asks is a fool for five minutes, but he who does not ask is a fool forever.*
 
 </div>
 <!-- quote-end -->

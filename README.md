@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he who asks is a fool for five minutes, but he who does not ask is a fool forever.*
+> *to be self-employed you have to sell something, either a product or a service.*
 
 </div>
 <!-- quote-end -->

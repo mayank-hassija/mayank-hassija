@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever you can do, or dream you can, begin it. boldness has genius, power and magic in it, begin it now.*
+> *there is just so much stuff in the world that, to me, is devoid of any real substance, value, and content that i just try to make sure that i am working on things that matter.*
 
 </div>
 <!-- quote-end -->

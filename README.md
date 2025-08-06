@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every people have gods to suit their circumstances.*
+> *to do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.*
 
 </div>
 <!-- quote-end -->

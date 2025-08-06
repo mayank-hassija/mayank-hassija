@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *leisure is the time for doing something useful. this type of leisure the diligent person will obtain and enjoy. the lazy person never.*
+> *every people have gods to suit their circumstances.*
 
 </div>
 <!-- quote-end -->

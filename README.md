@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all this worldly wisdom was once the unimaginable heresy of one wise man.*
+> *leisure is the time for doing something useful. this type of leisure the diligent person will obtain and enjoy. the lazy person never.*
 
 </div>
 <!-- quote-end -->

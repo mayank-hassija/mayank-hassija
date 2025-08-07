@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to be self-employed you have to sell something, either a product or a service.*
+> *for all sad words of tongue and pen, the saddest are these, 'it might have been'.*
 
 </div>
 <!-- quote-end -->

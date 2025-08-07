@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it‘s never too late to help make a dream come true.*
+> *the conventional view serves to protect us from the painful job of thinking.*
 
 </div>
 <!-- quote-end -->

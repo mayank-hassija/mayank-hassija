@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *for all sad words of tongue and pen, the saddest are these, 'it might have been'.*
+> *not being able to govern events, i govern myself.*
 
 </div>
 <!-- quote-end -->

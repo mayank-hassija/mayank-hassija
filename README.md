@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *not being able to govern events, i govern myself.*
+> *it‘s never too late to help make a dream come true.*
 
 </div>
 <!-- quote-end -->

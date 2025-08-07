@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the conventional view serves to protect us from the painful job of thinking.*
+> *we don't stop playing because we grow old; we grow old because we stop playing.*
 
 </div>
 <!-- quote-end -->

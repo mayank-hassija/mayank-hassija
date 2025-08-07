@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men are moved by two levers only: punishment and rewards.*
+> *no one's head aches when he is comforting another.*
 
 </div>
 <!-- quote-end -->

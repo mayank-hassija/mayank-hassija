@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what most people need to learn in life is how to love people and use things, instead of using people and loving things.*
+> *men are moved by two levers only: punishment and rewards.*
 
 </div>
 <!-- quote-end -->

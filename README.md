@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we don't stop playing because we grow old; we grow old because we stop playing.*
+> *what most people need to learn in life is how to love people and use things, instead of using people and loving things.*
 
 </div>
 <!-- quote-end -->

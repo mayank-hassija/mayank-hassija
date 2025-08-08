@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *overcome fear by attacking it.*
+> *non-violence, which is the quality of the heart, cannot come by an appeal to the brain.*
 
 </div>
 <!-- quote-end -->

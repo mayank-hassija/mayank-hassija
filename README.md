@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i always knew i was destined for greatness.*
+> *overcome fear by attacking it.*
 
 </div>
 <!-- quote-end -->

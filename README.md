@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is usually the imagination that is wounded first, rather than the heart; it being much more sensitive.*
+> *i always knew i was destined for greatness.*
 
 </div>
 <!-- quote-end -->

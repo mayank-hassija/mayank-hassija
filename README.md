@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when a benefit is wrongly conferred, the author of the benefit may often be said to injure.*
+> *a person with a new idea is a crank until the idea succeeds.*
 
 </div>
 <!-- quote-end -->

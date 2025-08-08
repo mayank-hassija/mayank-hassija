@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you get to the end of your rope, tie a knot and hang on.*
+> *when a benefit is wrongly conferred, the author of the benefit may often be said to injure.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one's head aches when he is comforting another.*
+> *when you get to the end of your rope, tie a knot and hang on.*
 
 </div>
 <!-- quote-end -->

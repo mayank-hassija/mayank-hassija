@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i smoke ten to fifteen cigars a day. at my age i have to hold on to something.*
+> *it is usually the imagination that is wounded first, rather than the heart; it being much more sensitive.*
 
 </div>
 <!-- quote-end -->

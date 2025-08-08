@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a person with a new idea is a crank until the idea succeeds.*
+> *i smoke ten to fifteen cigars a day. at my age i have to hold on to something.*
 
 </div>
 <!-- quote-end -->

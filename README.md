@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *persistence is a unique mental strength; a strength that is essential to combat the fierce power of the repeated rejections and numerous other obstacles that sit in waiting and are all part of winning in a fast-moving, ever-changing world.*
+> *think carefully before making any offers, commitments or promises, no matter how seemingly trivial. these are all contracts and must be honored. these are also include self-resolutions.*
 
 </div>
 <!-- quote-end -->

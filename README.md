@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *think carefully before making any offers, commitments or promises, no matter how seemingly trivial. these are all contracts and must be honored. these are also include self-resolutions.*
+> *live the life you've dreamed.*
 
 </div>
 <!-- quote-end -->

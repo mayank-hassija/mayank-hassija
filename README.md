@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *they must often change, who would be constant in happiness or wisdom.*
+> *to have more of what you want, you have to become more than you are.*
 
 </div>
 <!-- quote-end -->

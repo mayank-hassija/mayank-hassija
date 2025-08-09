@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *non-violence, which is the quality of the heart, cannot come by an appeal to the brain.*
+> *god does not play dice.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *live the life you've dreamed.*
+> *do the thing you fear most and the death of fear is certain.*
 
 </div>
 <!-- quote-end -->

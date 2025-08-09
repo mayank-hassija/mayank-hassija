@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god does not play dice.*
+> *they must often change, who would be constant in happiness or wisdom.*
 
 </div>
 <!-- quote-end -->

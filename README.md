@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most important choices you'll ever make are how you use your time.*
+> *persistence is a unique mental strength; a strength that is essential to combat the fierce power of the repeated rejections and numerous other obstacles that sit in waiting and are all part of winning in a fast-moving, ever-changing world.*
 
 </div>
 <!-- quote-end -->

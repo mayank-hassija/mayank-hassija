@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to have more of what you want, you have to become more than you are.*
+> *the most important choices you'll ever make are how you use your time.*
 
 </div>
 <!-- quote-end -->

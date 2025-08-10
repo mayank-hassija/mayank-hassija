@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do the thing you fear most and the death of fear is certain.*
+> *it is better to travel well than to arrive.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every day should be a celebration of your life and existence.*
+> *the chief function of the body is to carry the brain around.*
 
 </div>
 <!-- quote-end -->

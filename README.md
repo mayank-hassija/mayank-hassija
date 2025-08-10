@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do good to your friends to keep them, to your enemies to win them.*
+> *measure not the work until the day's out and the labor done.*
 
 </div>
 <!-- quote-end -->

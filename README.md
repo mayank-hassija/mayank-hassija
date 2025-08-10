@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *measure not the work until the day's out and the labor done.*
+> *a creative man is motivated by the desire to achieve, not by the desire to beat others.*
 
 </div>
 <!-- quote-end -->

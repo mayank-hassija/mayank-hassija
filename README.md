@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the mass of men lead lives of quiet desperation.*
+> *i'm not telling you it is going to be easy - i'm telling you it's going to be worth it.*
 
 </div>
 <!-- quote-end -->

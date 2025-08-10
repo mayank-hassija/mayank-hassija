@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is better to travel well than to arrive.*
+> *do good to your friends to keep them, to your enemies to win them.*
 
 </div>
 <!-- quote-end -->

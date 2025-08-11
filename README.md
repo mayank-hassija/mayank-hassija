@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it appears to be a law that you cannot have a deep sympathy with both man and nature.*
+> *success is the progressive realization of predetermined, worthwhile, personal goals.*
 
 </div>
 <!-- quote-end -->

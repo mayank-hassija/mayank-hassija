@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *even if you're on the right track, you'll get run over if you just sit there.*
+> *it appears to be a law that you cannot have a deep sympathy with both man and nature.*
 
 </div>
 <!-- quote-end -->

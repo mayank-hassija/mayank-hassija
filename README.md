@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we do not believe in ourselves until someone reveals that deep inside us is valuable, worth listening to, worthy of our trust, sacred to our touch. once we believe in ourselves we can risk curiosity, spontaneous delight or and wonderment.*
+> *you can‘t re-live any day from your past. today is all there is.*
 
 </div>
 <!-- quote-end -->

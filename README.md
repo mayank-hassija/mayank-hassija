@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the chief function of the body is to carry the brain around.*
+> *good advice is like good paint, it only works if it‘s applied.*
 
 </div>
 <!-- quote-end -->

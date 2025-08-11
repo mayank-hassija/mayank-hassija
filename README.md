@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can‘t re-live any day from your past. today is all there is.*
+> *even if you're on the right track, you'll get run over if you just sit there.*
 
 </div>
 <!-- quote-end -->

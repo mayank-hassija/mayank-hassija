@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *good advice is like good paint, it only works if it‘s applied.*
+> *we do not believe in ourselves until someone reveals that deep inside us is valuable, worth listening to, worthy of our trust, sacred to our touch. once we believe in ourselves we can risk curiosity, spontaneous delight or and wonderment.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are what we think we are. we do based on what we think we are.*
+> *i have found that luck is quite predictable. if you want more luck, take more chances. be more active. show up more often.*
 
 </div>
 <!-- quote-end -->

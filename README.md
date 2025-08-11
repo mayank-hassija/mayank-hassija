@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is the progressive realization of predetermined, worthwhile, personal goals.*
+> *we are what we think we are. we do based on what we think we are.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no man is rich enough to buy back his past.*
+> *we must let go of the life we have planned, so as to accept the one that is waiting for us.*
 
 </div>
 <!-- quote-end -->

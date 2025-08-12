@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the cure for all the ills and wrongs, the cares, the sorrows, and the crimes of humanity, all lie in the one word, 'love'.*
+> *dogs and philosophers do the greatest good and get the fewest rewards.*
 
 </div>
 <!-- quote-end -->

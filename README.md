@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *surround yourself with only people who are going to lift you higher.*
+> *use leverage with ideas (the ability to generalize is the key to intellectual leverage), work, money, time and people.*
 
 </div>
 <!-- quote-end -->

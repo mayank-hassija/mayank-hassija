@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must be willing to let go of the life we have planned, so as to have the life that is waiting for us.*
+> *surround yourself with only people who are going to lift you higher.*
 
 </div>
 <!-- quote-end -->

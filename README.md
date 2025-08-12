@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dogs and philosophers do the greatest good and get the fewest rewards.*
+> *we must be willing to let go of the life we have planned, so as to have the life that is waiting for us.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.*
+> *the cure for all the ills and wrongs, the cares, the sorrows, and the crimes of humanity, all lie in the one word, 'love'.*
 
 </div>
 <!-- quote-end -->

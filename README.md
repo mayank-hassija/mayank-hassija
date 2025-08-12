@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have found that luck is quite predictable. if you want more luck, take more chances. be more active. show up more often.*
+> *no man is rich enough to buy back his past.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must let go of the life we have planned, so as to accept the one that is waiting for us.*
+> *a man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.*
 
 </div>
 <!-- quote-end -->

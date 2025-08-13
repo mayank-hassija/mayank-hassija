@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you are the embodiment of the information you choose to accept and act upon. to change your circumstances you need to change your thinking and subsequent actions.*
+> *i am a woman in process. i'm just trying like everybody else. i try to take every conflict, every experience, and learn from it. life is never dull.*
 
 </div>
 <!-- quote-end -->

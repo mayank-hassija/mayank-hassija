@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *use leverage with ideas (the ability to generalize is the key to intellectual leverage), work, money, time and people.*
+> *without free speech no search for truth is possible... no discovery of truth is useful.*
 
 </div>
 <!-- quote-end -->

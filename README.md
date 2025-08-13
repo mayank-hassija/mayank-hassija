@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am sorry to think that you do not get a man's most effective criticism until you provoke him. severe truth is expressed with some bitterness.*
+> *to deprive a man of his natural liberty and to deny to him the ordinary amenities of life is worse then starving the body; it is starvation of the soul, the dweller in the body.*
 
 </div>
 <!-- quote-end -->

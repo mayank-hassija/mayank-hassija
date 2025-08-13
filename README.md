@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *without free speech no search for truth is possible... no discovery of truth is useful.*
+> *you must capture and keep the heart of the original and supremely able man before his brain can do its best.*
 
 </div>
 <!-- quote-end -->

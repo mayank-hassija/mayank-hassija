@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't look back. something might be gaining on you.*
+> *let there be nothing within thee that is not very beautiful and very gentle, and there will be nothing without thee that is not beautiful and softened by the spell of thy presence.*
 
 </div>
 <!-- quote-end -->

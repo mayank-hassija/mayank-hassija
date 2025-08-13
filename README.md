@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you must capture and keep the heart of the original and supremely able man before his brain can do its best.*
+> *don't look back. something might be gaining on you.*
 
 </div>
 <!-- quote-end -->

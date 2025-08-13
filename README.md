@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to deprive a man of his natural liberty and to deny to him the ordinary amenities of life is worse then starving the body; it is starvation of the soul, the dweller in the body.*
+> *you are the embodiment of the information you choose to accept and act upon. to change your circumstances you need to change your thinking and subsequent actions.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let there be nothing within thee that is not very beautiful and very gentle, and there will be nothing without thee that is not beautiful and softened by the spell of thy presence.*
+> *i am sorry to think that you do not get a man's most effective criticism until you provoke him. severe truth is expressed with some bitterness.*
 
 </div>
 <!-- quote-end -->

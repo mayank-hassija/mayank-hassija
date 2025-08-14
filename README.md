@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am a woman in process. i'm just trying like everybody else. i try to take every conflict, every experience, and learn from it. life is never dull.*
+> *we travel, some of us forever, to seek other states, other lives, other souls.*
 
 </div>
 <!-- quote-end -->

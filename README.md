@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *so you think that money is the root of all evil. have you ever asked what is the root of all money?*
+> *a dream without a deadline doesn‘t really qualify as a serious goal.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if a man does not keep pace with his companions, perhaps it is because he hears a different drummer. let him step to the music which he hears, however measured or far away.*
+> *insurance is not for sale when you need it.*
 
 </div>
 <!-- quote-end -->

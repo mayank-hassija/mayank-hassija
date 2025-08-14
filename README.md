@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we travel, some of us forever, to seek other states, other lives, other souls.*
+> *if a man does not keep pace with his companions, perhaps it is because he hears a different drummer. let him step to the music which he hears, however measured or far away.*
 
 </div>
 <!-- quote-end -->

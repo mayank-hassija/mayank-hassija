@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *insurance is not for sale when you need it.*
+> *non-cooperation with evil is as much a duty as is cooperation with good.*
 
 </div>
 <!-- quote-end -->

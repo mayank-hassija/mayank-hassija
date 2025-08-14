@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all the knowledge i possess everyone else can acquire, but my heart is all my own.*
+> *so you think that money is the root of all evil. have you ever asked what is the root of all money?*
 
 </div>
 <!-- quote-end -->

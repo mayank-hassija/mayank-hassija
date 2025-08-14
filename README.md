@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *non-cooperation with evil is as much a duty as is cooperation with good.*
+> *all the knowledge i possess everyone else can acquire, but my heart is all my own.*
 
 </div>
 <!-- quote-end -->

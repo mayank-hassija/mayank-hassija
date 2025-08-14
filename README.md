@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a dream without a deadline doesn‘t really qualify as a serious goal.*
+> *security is mostly a superstition. it does not exist in nature, nor do the children of men as a whole experience it. avoiding danger is no safer in the long run than outright exposure. life is either a daring adventure, or nothing.*
 
 </div>
 <!-- quote-end -->

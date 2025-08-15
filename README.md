@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every formula of every religion has in this age of reason, to submit to the acid test of reason and universal assent.*
+> *if you need know the value of money, go and try to borrow some.*
 
 </div>
 <!-- quote-end -->

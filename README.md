@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.*
+> *keep your overhead to a minimum. rely more on brains, wit and talent... and less on money.*
 
 </div>
 <!-- quote-end -->

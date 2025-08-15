@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't wish it were easier, wish you were better.*
+> *the secret is to have eight great players and four others who will cheer like crazy.*
 
 </div>
 <!-- quote-end -->

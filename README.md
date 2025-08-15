@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *security is mostly a superstition. it does not exist in nature, nor do the children of men as a whole experience it. avoiding danger is no safer in the long run than outright exposure. life is either a daring adventure, or nothing.*
+> *besides the noble art of getting things done, there is the noble art of leaving things undone. the wisdom of life consists in the elimination of non-essentials.*
 
 </div>
 <!-- quote-end -->

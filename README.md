@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *besides the noble art of getting things done, there is the noble art of leaving things undone. the wisdom of life consists in the elimination of non-essentials.*
+> *don't wish it were easier, wish you were better.*
 
 </div>
 <!-- quote-end -->

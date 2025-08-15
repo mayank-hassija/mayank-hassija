@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret is to have eight great players and four others who will cheer like crazy.*
+> *i learned that if you want to make it bad enough, no matter how bad it is, you can make it.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *keep your overhead to a minimum. rely more on brains, wit and talent... and less on money.*
+> *every formula of every religion has in this age of reason, to submit to the acid test of reason and universal assent.*
 
 </div>
 <!-- quote-end -->

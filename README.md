@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i learned that if you want to make it bad enough, no matter how bad it is, you can make it.*
+> *you were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.*
 
 </div>
 <!-- quote-end -->

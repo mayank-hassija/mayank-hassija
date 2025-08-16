@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we can never obtain peace in the outer world until we make peace with ourselves.*
+> *don't give up at half-time. concentrate on winning the second half.*
 
 </div>
 <!-- quote-end -->

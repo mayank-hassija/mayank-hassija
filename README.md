@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *regrets? only from what i didn‘t do when i had the opportunity not what i actually did.*
+> *if at first you don't succeed, do it like your mother told you.*
 
 </div>
 <!-- quote-end -->

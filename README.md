@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't give up at half-time. concentrate on winning the second half.*
+> *i would as soon leave my son a curse as the almighty dollar.*
 
 </div>
 <!-- quote-end -->

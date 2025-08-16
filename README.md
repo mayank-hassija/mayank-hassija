@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is power in forgiveness.*
+> *regrets? only from what i didn‘t do when i had the opportunity not what i actually did.*
 
 </div>
 <!-- quote-end -->

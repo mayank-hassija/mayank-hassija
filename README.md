@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if at first you don't succeed, do it like your mother told you.*
+> *your life can be changed in a matter of hours by people who don't even know you.*
 
 </div>
 <!-- quote-end -->

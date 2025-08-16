@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i would as soon leave my son a curse as the almighty dollar.*
+> *there is power in forgiveness.*
 
 </div>
 <!-- quote-end -->

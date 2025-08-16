@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is one kind of robber whom the law does not strike at, and who steals what is most precious to men: time.*
+> *we can never obtain peace in the outer world until we make peace with ourselves.*
 
 </div>
 <!-- quote-end -->

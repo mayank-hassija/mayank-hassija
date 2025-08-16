@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you need know the value of money, go and try to borrow some.*
+> *there is one kind of robber whom the law does not strike at, and who steals what is most precious to men: time.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *seek out people in life who are smarter than you are about what would help you most and then, listen more than you talk.*
+> *love cures people -- both the ones who give it and the ones who receive it.*
 
 </div>
 <!-- quote-end -->

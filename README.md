@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *difficulties in life are constant and impartial. not unfair. impartial.*
+> *seek out people in life who are smarter than you are about what would help you most and then, listen more than you talk.*
 
 </div>
 <!-- quote-end -->

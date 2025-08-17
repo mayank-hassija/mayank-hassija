@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our life is composed greatly from dreams, from the unconscious, and they must be brought into connection with action. they must be woven together.*
+> *men in general are quick to believe that which they wish to be true.*
 
 </div>
 <!-- quote-end -->

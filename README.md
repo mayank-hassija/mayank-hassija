@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *money without knowledge is always dangerous.*
+> *our life is composed greatly from dreams, from the unconscious, and they must be brought into connection with action. they must be woven together.*
 
 </div>
 <!-- quote-end -->

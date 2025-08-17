@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your life can be changed in a matter of hours by people who don't even know you.*
+> *we will never have true civilization until we have learned to recognize the rights of others.*
 
 </div>
 <!-- quote-end -->

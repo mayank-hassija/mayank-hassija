@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men in general are quick to believe that which they wish to be true.*
+> *the language of friendship is not words but meanings.*
 
 </div>
 <!-- quote-end -->

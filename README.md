@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the language of friendship is not words but meanings.*
+> *difficulties in life are constant and impartial. not unfair. impartial.*
 
 </div>
 <!-- quote-end -->

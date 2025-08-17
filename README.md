@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we will never have true civilization until we have learned to recognize the rights of others.*
+> *money without knowledge is always dangerous.*
 
 </div>
 <!-- quote-end -->

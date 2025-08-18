@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love cures people -- both the ones who give it and the ones who receive it.*
+> *the mind is not a vessel to be filled but a fire to be kindled.*
 
 </div>
 <!-- quote-end -->

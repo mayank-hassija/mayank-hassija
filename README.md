@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you wish to be loved, love and be loveable.*
+> *the day ‗you decide to do it‘ is your lucky day.*
 
 </div>
 <!-- quote-end -->

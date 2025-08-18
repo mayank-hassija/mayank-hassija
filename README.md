@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be prepared.*
+> *be not simply good; be good for something.*
 
 </div>
 <!-- quote-end -->

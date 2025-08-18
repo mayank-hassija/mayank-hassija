@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the mind is not a vessel to be filled but a fire to be kindled.*
+> *there is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.*
 
 </div>
 <!-- quote-end -->

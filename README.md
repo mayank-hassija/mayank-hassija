@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be not simply good; be good for something.*
+> *if gm had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 mpg.*
 
 </div>
 <!-- quote-end -->

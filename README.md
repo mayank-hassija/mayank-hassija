@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we still do not know one thousandth of one percent of what nature has revealed to us.*
+> *be prepared.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your actions are always in harmony with what you think of yourself, whether that selfimage is accurate or not.*
+> *if your actions inspire others to dream more, learn more, do more and become more, you are a leader.*
 
 </div>
 <!-- quote-end -->

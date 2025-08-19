@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nothing goes by luck in composition. it allows of no tricks. the best you can write will be the best you are.*
+> *the human voice can never reach the distance that is covered by the still small voice of conscience.*
 
 </div>
 <!-- quote-end -->

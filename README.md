@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *make it a point to do something every day that you don't want to do. this is the golden rule for acquiring the habit of doing your duty without pain.*
+> *my goal in life is to be as good of a person my dog already thinks i am.*
 
 </div>
 <!-- quote-end -->

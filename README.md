@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the human voice can never reach the distance that is covered by the still small voice of conscience.*
+> *your actions are always in harmony with what you think of yourself, whether that selfimage is accurate or not.*
 
 </div>
 <!-- quote-end -->

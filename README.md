@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my goal in life is to be as good of a person my dog already thinks i am.*
+> *successful people ask better questions, and as a result, they get better answers.*
 
 </div>
 <!-- quote-end -->

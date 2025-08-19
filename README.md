@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *successful people ask better questions, and as a result, they get better answers.*
+> *nothing goes by luck in composition. it allows of no tricks. the best you can write will be the best you are.*
 
 </div>
 <!-- quote-end -->

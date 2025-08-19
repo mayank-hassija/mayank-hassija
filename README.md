@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if gm had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 mpg.*
+> *you can‘t always control what happens to you, but you can control your attitude toward what does happen to you. if you do this, you will be mastering change rather than allowing it to master you.*
 
 </div>
 <!-- quote-end -->

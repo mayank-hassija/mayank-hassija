@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can‘t always control what happens to you, but you can control your attitude toward what does happen to you. if you do this, you will be mastering change rather than allowing it to master you.*
+> *make it a point to do something every day that you don't want to do. this is the golden rule for acquiring the habit of doing your duty without pain.*
 
 </div>
 <!-- quote-end -->

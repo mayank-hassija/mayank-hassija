@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the pessimist sees difficulty in every opportunity. the optimist sees the opportunity in every difficulty.*
+> *when humor goes, there goes civilization.*
 
 </div>
 <!-- quote-end -->

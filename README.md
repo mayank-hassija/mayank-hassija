@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when in doubt, just take the next small step.*
+> *i have often been afraid, but i would not give in to it. i made myself act as though i was not afraid and gradually my fear disappeared.*
 
 </div>
 <!-- quote-end -->

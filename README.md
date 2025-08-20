@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my attitude is that if you are pushed towards something that you think is a weakness, turn that perceived weakness into a strength.*
+> *there is little success where there is little laughter.*
 
 </div>
 <!-- quote-end -->

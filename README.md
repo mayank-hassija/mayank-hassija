@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have often been afraid, but i would not give in to it. i made myself act as though i was not afraid and gradually my fear disappeared.*
+> *beauty is the bait which with delight allures man to enlarge his kind.*
 
 </div>
 <!-- quote-end -->

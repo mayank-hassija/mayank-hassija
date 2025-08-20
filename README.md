@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is little success where there is little laughter.*
+> *when in doubt, just take the next small step.*
 
 </div>
 <!-- quote-end -->

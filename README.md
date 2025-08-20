@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *beauty is the bait which with delight allures man to enlarge his kind.*
+> *the pessimist sees difficulty in every opportunity. the optimist sees the opportunity in every difficulty.*
 
 </div>
 <!-- quote-end -->

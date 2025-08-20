@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *lettin' the cat outta the bag is a whole lot easier 'n puttin' it back in.*
+> *my attitude is that if you are pushed towards something that you think is a weakness, turn that perceived weakness into a strength.*
 
 </div>
 <!-- quote-end -->

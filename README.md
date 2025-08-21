@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the victory of success is half won when one gains the habit of setting goals and achieving them. even the most tedious chore will become endurable as you parade through each day convinced that every task, no matter how menial or boring, brings you closer to fulfilling your dreams.*
+> *i've never known a man worth his salt who in the long run, deep down in his heart, didn't appreciate the grind, the discipline... i firmly believe that any man's finest hour - this greatest fulfillment to all he holds dear is that moment when he has worked his heart out in a good cause and lies exhausted on the field of battle, victorious.*
 
 </div>
 <!-- quote-end -->

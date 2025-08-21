@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should not have to push you to work hard, you should work hard because you want to be a great player.*
+> *the victory of success is half won when one gains the habit of setting goals and achieving them. even the most tedious chore will become endurable as you parade through each day convinced that every task, no matter how menial or boring, brings you closer to fulfilling your dreams.*
 
 </div>
 <!-- quote-end -->

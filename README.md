@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you just don't luck into things as much as you'd like to think you do. you build step by step, whether it's friendships or opportunities.*
+> *we should not have to push you to work hard, you should work hard because you want to be a great player.*
 
 </div>
 <!-- quote-end -->

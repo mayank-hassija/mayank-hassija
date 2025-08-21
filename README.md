@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when humor goes, there goes civilization.*
+> *keep fully insured physically and materially and keep hedged emotionally.*
 
 </div>
 <!-- quote-end -->

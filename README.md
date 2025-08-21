@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *government "help" to business is just as disastrous as government persecution... the only way a government can be of service to national prosperity is by keeping its hands off.*
+> *dreams are necessary to life.*
 
 </div>
 <!-- quote-end -->

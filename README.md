@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i've never known a man worth his salt who in the long run, deep down in his heart, didn't appreciate the grind, the discipline... i firmly believe that any man's finest hour - this greatest fulfillment to all he holds dear is that moment when he has worked his heart out in a good cause and lies exhausted on the field of battle, victorious.*
+> *grief can take care if itself, but to get the full value of a joy you must have somebody to divide it with.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *live out of your imagination instead of out of your memory.*
+> *my best friend is the one who brings out the best in me.*
 
 </div>
 <!-- quote-end -->

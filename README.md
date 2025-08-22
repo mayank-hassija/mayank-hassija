@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *grief can take care if itself, but to get the full value of a joy you must have somebody to divide it with.*
+> *the reason most people don‘t recognize an opportunity when they see one is, it usually arrives in your life dressed in a costume. it looks an awful lot like a problem.*
 
 </div>
 <!-- quote-end -->

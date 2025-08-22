@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't get something for (from) nothing. the price is too high.*
+> *i was a grad student at uc berkeley when i bought my apple ii and it suddenly because a lot more interesting than school.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i was a grad student at uc berkeley when i bought my apple ii and it suddenly because a lot more interesting than school.*
+> *it's the little things you do that can make a big difference. what are you attempting to accomplish? what little thing can you do today that will make you more effective?*
 
 </div>
 <!-- quote-end -->

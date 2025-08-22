@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my best friend is the one who brings out the best in me.*
+> *there must always remain something that is antagonistic to good.*
 
 </div>
 <!-- quote-end -->

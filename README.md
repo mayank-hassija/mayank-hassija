@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there must always remain something that is antagonistic to good.*
+> *you can't get something for (from) nothing. the price is too high.*
 
 </div>
 <!-- quote-end -->

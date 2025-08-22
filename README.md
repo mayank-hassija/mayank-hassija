@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's the little things you do that can make a big difference. what are you attempting to accomplish? what little thing can you do today that will make you more effective?*
+> *you can't learn too soon that the most useful thing about a principle is that it can always be sacrificed to expediency.*
 
 </div>
 <!-- quote-end -->

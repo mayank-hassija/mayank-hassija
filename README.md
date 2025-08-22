@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the reason most people don‘t recognize an opportunity when they see one is, it usually arrives in your life dressed in a costume. it looks an awful lot like a problem.*
+> *live out of your imagination instead of out of your memory.*
 
 </div>
 <!-- quote-end -->

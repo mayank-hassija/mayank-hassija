@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't learn too soon that the most useful thing about a principle is that it can always be sacrificed to expediency.*
+> *a wise person should have money in their head, but not in their heart.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a wise person should have money in their head, but not in their heart.*
+> *we are made wise not by the recollection of our past, but by the responsibility for our future.*
 
 </div>
 <!-- quote-end -->

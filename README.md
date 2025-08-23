@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we are made wise not by the recollection of our past, but by the responsibility for our future.*
+> *it was a favorite expression of theophrastus that time was the most valuable thing that a man could spend.*
 
 </div>
 <!-- quote-end -->

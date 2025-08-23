@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it was a favorite expression of theophrastus that time was the most valuable thing that a man could spend.*
+> *you are a masterpiece of life and should feel and appreciate this all the way down to your bones.*
 
 </div>
 <!-- quote-end -->

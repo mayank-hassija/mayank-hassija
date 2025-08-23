@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if at first you don't succeed, do it like your mother told you.*
+> *if you put off everything till you're sure of it, you'll never get anything done.*
 
 </div>
 <!-- quote-end -->

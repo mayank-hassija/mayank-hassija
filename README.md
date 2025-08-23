@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you put off everything till you're sure of it, you'll never get anything done.*
+> *most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.*
 
 </div>
 <!-- quote-end -->

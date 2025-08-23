@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you are a masterpiece of life and should feel and appreciate this all the way down to your bones.*
+> *when you make the sacrifice in marriage, you're sacrificing not to each other but to unity in a relationship.*
 
 </div>
 <!-- quote-end -->

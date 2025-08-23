@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you make the sacrifice in marriage, you're sacrificing not to each other but to unity in a relationship.*
+> *if at first you don't succeed, do it like your mother told you.*
 
 </div>
 <!-- quote-end -->

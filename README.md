@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *outside of yourself, you control nothing… but you can manage anything.*
+> *victory is always possible for the person who refuses to stop fighting.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *victory is always possible for the person who refuses to stop fighting.*
+> *good advice is like good paint, it only works if it‘s applied.*
 
 </div>
 <!-- quote-end -->

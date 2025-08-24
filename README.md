@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's not whether you get knocked down, it's whether you get back up.*
+> *outside of yourself, you control nothing… but you can manage anything.*
 
 </div>
 <!-- quote-end -->

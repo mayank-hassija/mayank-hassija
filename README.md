@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.*
+> *do not be too moral. you may cheat yourself out of much life so. aim above morality.*
 
 </div>
 <!-- quote-end -->

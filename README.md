@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *look at market fluctuations as your friend rather than your enemy; profit from folly rather than participate in it.*
+> *it's not whether you get knocked down, it's whether you get back up.*
 
 </div>
 <!-- quote-end -->

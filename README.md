@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *good advice is like good paint, it only works if it‘s applied.*
+> *i am looking for a lot of men who have an infinite capacity to not know what can't be done.*
 
 </div>
 <!-- quote-end -->

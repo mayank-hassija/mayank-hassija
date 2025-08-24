@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not be too moral. you may cheat yourself out of much life so. aim above morality.*
+> *look at market fluctuations as your friend rather than your enemy; profit from folly rather than participate in it.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am looking for a lot of men who have an infinite capacity to not know what can't be done.*
+> *you can measure opportunity with the same yardstick that measures the risk involved.*
 
 </div>
 <!-- quote-end -->

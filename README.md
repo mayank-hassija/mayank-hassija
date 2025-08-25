@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the essence of all beautiful art, all great art, is gratitude.*
+> *for every minute you remain angry, you give up sixty seconds of peace of mind.*
 
 </div>
 <!-- quote-end -->

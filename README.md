@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *hope for the best and prepare for the worst.*
+> *they do certainly give very strange, and newfangled, names to diseases.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *for every minute you remain angry, you give up sixty seconds of peace of mind.*
+> *we must not allow the clock and the calendar to blind us to the fact that each moment of life is a miracle and mystery.*
 
 </div>
 <!-- quote-end -->

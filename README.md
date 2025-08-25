@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *either you run the day or the day runs you.*
+> *the essence of all beautiful art, all great art, is gratitude.*
 
 </div>
 <!-- quote-end -->

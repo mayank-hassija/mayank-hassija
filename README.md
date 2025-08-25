@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *they do certainly give very strange, and newfangled, names to diseases.*
+> *either you run the day or the day runs you.*
 
 </div>
 <!-- quote-end -->

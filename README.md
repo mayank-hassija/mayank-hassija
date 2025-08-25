@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must not allow the clock and the calendar to blind us to the fact that each moment of life is a miracle and mystery.*
+> *they do certainly give very strange, and newfangled, names to diseases.*
 
 </div>
 <!-- quote-end -->

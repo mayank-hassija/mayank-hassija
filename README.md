@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *they do certainly give very strange, and newfangled, names to diseases.*
+> *an inventor fails 999 times, and if he succeeds once, he's in. he treats his failures simply as practice shots.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can measure opportunity with the same yardstick that measures the risk involved.*
+> *hope for the best and prepare for the worst.*
 
 </div>
 <!-- quote-end -->

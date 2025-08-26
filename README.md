@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when humor goes, there goes civilization.*
+> *the book you don't read won't help you.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an inventor fails 999 times, and if he succeeds once, he's in. he treats his failures simply as practice shots.*
+> *it is necessary to help others, not only in our prayers, but in our daily lives. if we find we cannot help others, the least we can do is to desist from harming them.*
 
 </div>
 <!-- quote-end -->

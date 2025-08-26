@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the book you don't read won't help you.*
+> *it's always too early to quit.*
 
 </div>
 <!-- quote-end -->

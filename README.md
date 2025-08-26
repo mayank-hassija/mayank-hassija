@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the word impossible is not in my dictionary.*
+> *the only way to get rid of a temptation is to yield to it.*
 
 </div>
 <!-- quote-end -->

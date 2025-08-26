@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is necessary to help others, not only in our prayers, but in our daily lives. if we find we cannot help others, the least we can do is to desist from harming them.*
+> *when humor goes, there goes civilization.*
 
 </div>
 <!-- quote-end -->

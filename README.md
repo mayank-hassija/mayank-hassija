@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *being right half the time beats being half-right all the time.*
+> *have patience with all things, but chiefly have patience with yourself. do not lose courage in considering your own imperfections but instantly set about remedying them - every day begin the task anew.*
 
 </div>
 <!-- quote-end -->

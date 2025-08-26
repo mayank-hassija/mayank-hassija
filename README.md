@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's always too early to quit.*
+> *being right half the time beats being half-right all the time.*
 
 </div>
 <!-- quote-end -->

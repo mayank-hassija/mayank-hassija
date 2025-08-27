@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is denied by lack of attention, whether it be to cleaning windows or trying to write a masterpiece.*
+> *i will smile at friend and foe alike and make every effort to find, in him or her, a quality to praise, now that i realize the deepest yearning of human nature is the craving to be appreciated.*
 
 </div>
 <!-- quote-end -->

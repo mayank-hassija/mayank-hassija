@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *better understated than overstated. let people be surprised that it was more than you promised and easier than you said.*
+> *perception is what you believe to be true based on five things: sight; smell; taste; touch and hearing.*
 
 </div>
 <!-- quote-end -->

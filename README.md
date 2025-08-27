@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i wake at dawn with a winged heart and give thanks for another day of loving.*
+> *experience is the teacher of all things.*
 
 </div>
 <!-- quote-end -->

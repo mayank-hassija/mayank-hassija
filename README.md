@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i will smile at friend and foe alike and make every effort to find, in him or her, a quality to praise, now that i realize the deepest yearning of human nature is the craving to be appreciated.*
+> *the most beautiful thing we can experience is the mysterious. it is the source of all true art and science.*
 
 </div>
 <!-- quote-end -->

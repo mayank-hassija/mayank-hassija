@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most beautiful thing we can experience is the mysterious. it is the source of all true art and science.*
+> *i wake at dawn with a winged heart and give thanks for another day of loving.*
 
 </div>
 <!-- quote-end -->

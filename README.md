@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only way to get rid of a temptation is to yield to it.*
+> *life is denied by lack of attention, whether it be to cleaning windows or trying to write a masterpiece.*
 
 </div>
 <!-- quote-end -->

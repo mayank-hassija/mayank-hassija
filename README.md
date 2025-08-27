@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the more tranquil a man becomes, the greater is his success, his influence, his power for good.*
+> *better understated than overstated. let people be surprised that it was more than you promised and easier than you said.*
 
 </div>
 <!-- quote-end -->

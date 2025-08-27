@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience is the teacher of all things.*
+> *the more tranquil a man becomes, the greater is his success, his influence, his power for good.*
 
 </div>
 <!-- quote-end -->

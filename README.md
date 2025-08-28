@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *gandhi's list of the seven blunders of the world: wealth without work; pleasure without conscience; rights without responsibilities; commerce without morality; science without humanity; worship without sacrifice; politics without principle.*
+> *dreams are necessary to life.*
 
 </div>
 <!-- quote-end -->

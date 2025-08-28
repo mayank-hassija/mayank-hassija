@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dream big!*
+> *whatever doesn't kill you really does make you stronger.*
 
 </div>
 <!-- quote-end -->

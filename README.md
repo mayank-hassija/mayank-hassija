@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dreams are necessary to life.*
+> *kind words do not cost much. yet they accomplish much.*
 
 </div>
 <!-- quote-end -->

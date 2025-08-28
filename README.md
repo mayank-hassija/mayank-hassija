@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we all have ability. the difference is how we use it.*
+> *a moment's insight is sometimes worth a lifetime of experience.*
 
 </div>
 <!-- quote-end -->

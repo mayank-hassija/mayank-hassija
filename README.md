@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *kind words do not cost much. yet they accomplish much.*
+> *we all have ability. the difference is how we use it.*
 
 </div>
 <!-- quote-end -->

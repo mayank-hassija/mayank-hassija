@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a moment's insight is sometimes worth a lifetime of experience.*
+> *the only exercise some people get is jumping to conclusions, running down their friends, side-stepping responsibility, and pushing their luck!*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *perception is what you believe to be true based on five things: sight; smell; taste; touch and hearing.*
+> *gandhi's list of the seven blunders of the world: wealth without work; pleasure without conscience; rights without responsibilities; commerce without morality; science without humanity; worship without sacrifice; politics without principle.*
 
 </div>
 <!-- quote-end -->

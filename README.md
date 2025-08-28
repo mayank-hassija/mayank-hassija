@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only exercise some people get is jumping to conclusions, running down their friends, side-stepping responsibility, and pushing their luck!*
+> *dream big!*
 
 </div>
 <!-- quote-end -->

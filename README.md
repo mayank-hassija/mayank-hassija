@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an idea is the only thing on planet earth that can be shared equally, with an infinite number of people, without diminishing its original value.*
+> *people with goals succeed because they know where they're going.*
 
 </div>
 <!-- quote-end -->

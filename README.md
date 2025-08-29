@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all these primary impulses, not easily described in words, are the springs of man's actions.*
+> *there are only three colors, seven notes, ten digits, and twenty-six letters; it‘s what we do with them that's important.*
 
 </div>
 <!-- quote-end -->

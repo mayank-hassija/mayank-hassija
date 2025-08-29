@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever doesn't kill you really does make you stronger.*
+> *you become what you think about.*
 
 </div>
 <!-- quote-end -->

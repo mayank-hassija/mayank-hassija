@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are only three colors, seven notes, ten digits, and twenty-six letters; it‘s what we do with them that's important.*
+> *we should not have to push you to work hard, you should work hard because you want to be a great player.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people fear anything they don‘t understand.*
+> *what is a cynic? a man who knows the price of everything and the value of nothing.*
 
 </div>
 <!-- quote-end -->

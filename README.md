@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people with goals succeed because they know where they're going.*
+> *all these primary impulses, not easily described in words, are the springs of man's actions.*
 
 </div>
 <!-- quote-end -->

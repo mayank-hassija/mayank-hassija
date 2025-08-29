@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you become what you think about.*
+> *an idea is the only thing on planet earth that can be shared equally, with an infinite number of people, without diminishing its original value.*
 
 </div>
 <!-- quote-end -->

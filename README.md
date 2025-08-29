@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should not have to push you to work hard, you should work hard because you want to be a great player.*
+> *people fear anything they don‘t understand.*
 
 </div>
 <!-- quote-end -->

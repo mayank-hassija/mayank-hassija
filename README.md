@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he who loves 50 people has 50 woes; he who loves no one has no woes.*
+> *education is what remains after one has forgotten what one has learned in school.*
 
 </div>
 <!-- quote-end -->

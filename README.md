@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what is a cynic? a man who knows the price of everything and the value of nothing.*
+> *challenges are what make life interesting; overcoming them is what makes life meaningful.*
 
 </div>
 <!-- quote-end -->

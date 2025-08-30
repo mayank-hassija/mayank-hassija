@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *education is what remains after one has forgotten what one has learned in school.*
+> *change is inevitable but personal growth is a choice.*
 
 </div>
 <!-- quote-end -->

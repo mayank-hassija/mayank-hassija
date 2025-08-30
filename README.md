@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nobody can hurt me without my permission.*
+> *he who loves 50 people has 50 woes; he who loves no one has no woes.*
 
 </div>
 <!-- quote-end -->

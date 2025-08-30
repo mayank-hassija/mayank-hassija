@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *change is inevitable but personal growth is a choice.*
+> *there is no principle worth the name if it is not wholly good.*
 
 </div>
 <!-- quote-end -->

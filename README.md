@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *challenges are what make life interesting; overcoming them is what makes life meaningful.*
+> *question everything. don't believe it's true or right just because it's conventional.*
 
 </div>
 <!-- quote-end -->

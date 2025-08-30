@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *question everything. don't believe it's true or right just because it's conventional.*
+> *in some cases, inventions prohibit innovation because we're so caught up in playing with the technology, we forget about the fact that it was supposed to be important.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no principle worth the name if it is not wholly good.*
+> *no matter how painful in the short-term, remove all chronically stressful situations, environments and people from your life.*
 
 </div>
 <!-- quote-end -->

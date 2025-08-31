@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *forget the resolutions. forget control and discipline... too much work. instead try experimenting.*
+> *cherish all your happy moments: they make a excellent cushion for old age.*
 
 </div>
 <!-- quote-end -->

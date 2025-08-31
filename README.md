@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *cherish all your happy moments: they make a excellent cushion for old age.*
+> *all the religions of the world, while they may differ in other respects, unitedly proclaim that nothing survives in this world but truth.*
 
 </div>
 <!-- quote-end -->

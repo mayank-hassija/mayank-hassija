@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one has deceived you more often that you have deceived yourself.*
+> *whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid.*
 
 </div>
 <!-- quote-end -->

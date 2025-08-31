@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no matter how painful in the short-term, remove all chronically stressful situations, environments and people from your life.*
+> *forget the resolutions. forget control and discipline... too much work. instead try experimenting.*
 
 </div>
 <!-- quote-end -->

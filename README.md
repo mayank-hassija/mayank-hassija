@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *god... a being whose only definition is that he is beyond man's power to conceive.*
+> *no one has deceived you more often that you have deceived yourself.*
 
 </div>
 <!-- quote-end -->

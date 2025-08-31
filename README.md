@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all the religions of the world, while they may differ in other respects, unitedly proclaim that nothing survives in this world but truth.*
+> *producing results is more important than proving you're right. to get things done, try to understand others' frames of references, points of view, needs and wants. then determine what is honest, fair, effective and rational... and act accordingly.*
 
 </div>
 <!-- quote-end -->

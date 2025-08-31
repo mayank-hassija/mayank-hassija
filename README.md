@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *producing results is more important than proving you're right. to get things done, try to understand others' frames of references, points of view, needs and wants. then determine what is honest, fair, effective and rational... and act accordingly.*
+> *god... a being whose only definition is that he is beyond man's power to conceive.*
 
 </div>
 <!-- quote-end -->

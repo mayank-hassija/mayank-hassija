@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *repetition of the same thought or physical action develops into a habit which, repeated frequently enough, becomes an automatic reflex.*
+> *facts are facts and will not disappear on account of your likes.*
 
 </div>
 <!-- quote-end -->

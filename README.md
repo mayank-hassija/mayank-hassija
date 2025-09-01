@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a person who won't read has no advantage over one who can't.*
+> *experience tells you what to do; confidence allows you to do it.*
 
 </div>
 <!-- quote-end -->

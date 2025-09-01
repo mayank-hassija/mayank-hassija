@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whenever we're afraid, it's because we don't know enough. if we understood enough, we would never be afraid.*
+> *a person who won't read has no advantage over one who can't.*
 
 </div>
 <!-- quote-end -->

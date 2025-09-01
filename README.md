@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *progress is impossible without change, and those who cannot change their minds cannot change anything.*
+> *few things in the world are more powerful than a positive push - a smile. a word of optimism and hope, a 'you can do it!' when things are tough.*
 
 </div>
 <!-- quote-end -->

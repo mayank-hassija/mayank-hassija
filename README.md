@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no man is rich enough to buy back his past.*
+> *the only correct actions are those that demand no explanation and no apology.*
 
 </div>
 <!-- quote-end -->

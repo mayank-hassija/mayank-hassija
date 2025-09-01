@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only correct actions are those that demand no explanation and no apology.*
+> *progress is impossible without change, and those who cannot change their minds cannot change anything.*
 
 </div>
 <!-- quote-end -->

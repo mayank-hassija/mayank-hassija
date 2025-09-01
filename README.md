@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *facts are facts and will not disappear on account of your likes.*
+> *no man is rich enough to buy back his past.*
 
 </div>
 <!-- quote-end -->

@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience tells you what to do; confidence allows you to do it.*
+> *repetition of the same thought or physical action develops into a habit which, repeated frequently enough, becomes an automatic reflex.*
 
 </div>
 <!-- quote-end -->

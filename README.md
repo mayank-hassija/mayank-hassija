@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.*
+> *you will find men who want to be carried on the shoulders of others, who think that the world owes them a living. they don't seem to see that we must all lift together and pull together.*
 
 </div>
 <!-- quote-end -->

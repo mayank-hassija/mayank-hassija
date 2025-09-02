@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no principle worth the name if it is not wholly good.*
+> *our life is frittered away by detail... simplify, simplify.*
 
 </div>
 <!-- quote-end -->

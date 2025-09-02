@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *few things in the world are more powerful than a positive push - a smile. a word of optimism and hope, a 'you can do it!' when things are tough.*
+> *beauty in things exists in the mind which contemplates them.*
 
 </div>
 <!-- quote-end -->

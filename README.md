@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you will find men who want to be carried on the shoulders of others, who think that the world owes them a living. they don't seem to see that we must all lift together and pull together.*
+> *if time is the most precious of all things, wasting time must be the greatest tragedy.*
 
 </div>
 <!-- quote-end -->

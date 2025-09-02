@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you're successful when you like who and what you are.*
+> *there is no principle worth the name if it is not wholly good.*
 
 </div>
 <!-- quote-end -->

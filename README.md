@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the first of april is the day we remember what we are the other 364 days of the year.*
+> *anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch.*
 
 </div>
 <!-- quote-end -->

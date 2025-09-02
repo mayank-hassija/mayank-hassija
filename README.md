@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *beauty in things exists in the mind which contemplates them.*
+> *you're successful when you like who and what you are.*
 
 </div>
 <!-- quote-end -->

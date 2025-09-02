@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our life is frittered away by detail... simplify, simplify.*
+> *the first of april is the day we remember what we are the other 364 days of the year.*
 
 </div>
 <!-- quote-end -->

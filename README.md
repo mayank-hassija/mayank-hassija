@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *old age is like everything else. to make a success of it, you've got to start young.*
+> *people take the longest possible paths, digress to numerous dead ends, and make all kinds of mistakes. then historians come along and write summaries of this messy, nonlinear process and make it appear like a simple, straight line.*
 
 </div>
 <!-- quote-end -->

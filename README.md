@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people take the longest possible paths, digress to numerous dead ends, and make all kinds of mistakes. then historians come along and write summaries of this messy, nonlinear process and make it appear like a simple, straight line.*
+> *whatever you reinforce or reward, you get more of.*
 
 </div>
 <!-- quote-end -->

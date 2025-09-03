@@ -3,7 +3,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if time is the most precious of all things, wasting time must be the greatest tragedy.*
+> *to err is human; to forgive, infrequent.*
 
 </div>
 <!-- quote-end -->
